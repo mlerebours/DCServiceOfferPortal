@@ -1,0 +1,2408 @@
+{
+  "settings": {
+    "id": "31",
+    "palette": "1"
+  },
+  "content": [
+    {
+      "id": "1385",
+      "type": "classicContainer",
+      "x": "862",
+      "y": "103",
+      "w": "683",
+      "h": "401",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "54987",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">15 mn pour comprendre les enjeux majeurs de la Biodiversit&eacute;.<\/span><\/p>\n<p style=\"text-align: center;\">Comme toutes les bonnes histoires, celle que nous allons vous raconter mets en sc&egrave;ne des personnages, des territoires et des combats. Elle se d&eacute;roule en <strong>5 chapitres<\/strong> et comporte une part de drame &eacute;videmment&hellip; La fin&nbsp;de l&rsquo;histoire? Nous ne pouvons la pr&eacute;dire, mais nous ouvrons des pistes pour qu&rsquo;elle raisonne avec&hellip; futurs souhaitables&nbsp;!<\/p>\n<ol>\n<li>L&rsquo;histoire se d&eacute;roule sur une <strong>magnifique plan&egrave;te bleue,<\/strong> pleine de vies<\/li>\n<li>Mais l&rsquo;homme a oubli&eacute; que les conditions de la vie sur Terre sont extr&ecirc;mement fragiles&nbsp;: Nous provoquons la <strong>6&egrave;me extinction massive<\/strong> des esp&egrave;ces<\/li>\n<li>Est ce grave&nbsp;et en quoi sommes nous tous concern&eacute;s sur la plan&egrave;te&nbsp;?<\/li>\n<li>L&rsquo;homme doit trouver de<strong> nouveaux &eacute;quilibres<\/strong> propice &agrave; la vie, propice &agrave; sa vie. Formidable aventure&hellip;<\/li>\n<li>Certains explorent d&eacute;j&agrave; d&rsquo;autres mani&egrave;res de faire, pour que le <strong>meilleur soit&hellip; &laquo;&nbsp;avenir&nbsp;&raquo;<\/strong><\/li>\n<\/ol>\n<p style=\"text-align: right;\"><span class=\"h1\">Allez, on commence...<\/span><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1385",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1386",
+      "type": "classicContainer",
+      "x": "862",
+      "y": "103",
+      "w": "683",
+      "h": "401",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "54988",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">15 mn pour comprendre les enjeux majeurs de la Biodiversit&eacute;.<\/span><\/p>\n<p style=\"text-align: center;\">Comme toutes les bonnes histoires, celle que nous allons vous raconter mets en sc&egrave;ne des personnages, des territoires et des combats. Elle se d&eacute;roule en <strong>5 chapitres<\/strong> et comporte une part de drame &eacute;videmment&hellip; La fin&nbsp;de l&rsquo;histoire? Nous ne pouvons la pr&eacute;dire, mais nous ouvrons des pistes pour qu&rsquo;elle raisonne avec&hellip; futurs souhaitables&nbsp;!<\/p>\n<ol>\n<li>L&rsquo;histoire se d&eacute;roule sur une <strong>magnifique plan&egrave;te bleue,<\/strong> pleine de vies<\/li>\n<li>Mais l&rsquo;homme a oubli&eacute; que les conditions de la vie sur Terre sont extr&ecirc;mement fragiles&nbsp;: Nous provoquons la <strong>6&egrave;me extinction massive<\/strong> des esp&egrave;ces<\/li>\n<li>Est ce grave&nbsp;et en quoi sommes nous tous concern&eacute;s sur la plan&egrave;te&nbsp;?<\/li>\n<li>L&rsquo;homme doit trouver de<strong> nouveaux &eacute;quilibres<\/strong> propice &agrave; la vie, propice &agrave; sa vie. Formidable aventure&hellip;<\/li>\n<li>Certains explorent d&eacute;j&agrave; d&rsquo;autres mani&egrave;res de faire, pour que le <strong>meilleur soit&hellip; &laquo;&nbsp;avenir&nbsp;&raquo;<\/strong><\/li>\n<\/ol>\n<p style=\"text-align: right;\"><span class=\"h1\">Allez, on commence...<\/span><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1386",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1387",
+      "type": "classicContainer",
+      "x": "862",
+      "y": "103",
+      "w": "683",
+      "h": "401",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "54989",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">15 mn pour comprendre les enjeux majeurs de la Biodiversit&eacute;.<\/span><\/p>\n<p style=\"text-align: center;\">Comme toutes les bonnes histoires, celle que nous allons vous raconter mets en sc&egrave;ne des personnages, des territoires et des combats. Elle se d&eacute;roule en <strong>5 chapitres<\/strong> et comporte une part de drame &eacute;videmment&hellip; La fin&nbsp;de l&rsquo;histoire? Nous ne pouvons la pr&eacute;dire, mais nous ouvrons des pistes pour qu&rsquo;elle raisonne avec&hellip; futurs souhaitables&nbsp;!<\/p>\n<ol>\n<li>L&rsquo;histoire se d&eacute;roule sur une <strong>magnifique plan&egrave;te bleue,<\/strong> pleine de vies<\/li>\n<li>Mais l&rsquo;homme a oubli&eacute; que les conditions de la vie sur Terre sont extr&ecirc;mement fragiles&nbsp;: Nous provoquons la <strong>6&egrave;me extinction massive<\/strong> des esp&egrave;ces<\/li>\n<li>Est ce grave&nbsp;et en quoi sommes nous tous concern&eacute;s sur la plan&egrave;te&nbsp;?<\/li>\n<li>L&rsquo;homme doit trouver de<strong> nouveaux &eacute;quilibres<\/strong> propice &agrave; la vie, propice &agrave; sa vie. Formidable aventure&hellip;<\/li>\n<li>Certains explorent d&eacute;j&agrave; d&rsquo;autres mani&egrave;res de faire, pour que le <strong>meilleur soit&hellip; &laquo;&nbsp;avenir&nbsp;&raquo;<\/strong><\/li>\n<\/ol>\n<p style=\"text-align: right;\"><span class=\"h1\">Allez, on commence...<\/span><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1387",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1388",
+      "type": "classicContainer",
+      "x": "862",
+      "y": "103",
+      "w": "683",
+      "h": "401",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55229",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">15' to understand the major issues of Biodiversity<\/span><\/p>\n<p style=\"text-align: justify;\"><em>Just like all good stories, the one we are about to tell you features characters, lands and battles. It takes place over 5 chapters and needless to say it involves the drama of how will the story end? We cannot say, but we are opening up new paths so that it resonates with&hellip;desirable futures!<\/em><\/p>\n<ul>\n<li>Our story takes place on a <strong>magnificent blue planet<\/strong> bursting with life.<\/li>\n<li>But mankind has forgotten that the conditions for life on Earth are extremely fragile: we are causing the <strong>6th mass extinction of species.<\/strong><\/li>\n<li>Is it serious and what are we all concerned about on the planet?<\/li>\n<li>Mankind must find <strong>new balances<\/strong> that support life as well as our life. It&rsquo;s a great adventure&hellip;<\/li>\n<li>Some people are already exploring other ways so that the <strong>best is still to come.<\/strong><br \/><span class=\"h1\"><\/span><\/li>\n<\/ul>\n<p style=\"text-align: center;\"><strong>So, lets begin...<\/strong><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1388",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1389",
+      "type": "questionContainer",
+      "x": "1704",
+      "y": "38",
+      "w": "401",
+      "h": "68",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55131",
+          "inboxType": "wysiwygBox",
+          "content": "<p>Why do we need to talk about Biodiversity?<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1389",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1390",
+      "type": "classicContainer",
+      "x": "2166",
+      "y": "103",
+      "w": "561",
+      "h": "386",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55228",
+          "inboxType": "wysiwygBox",
+          "content": "<p><img style=\"float: left; padding: 0 15px 0 0;\" src=\"posters_medias\/poster31\/Biodiv7.jpg\" height=\"306\" width=\"216\" \/><\/p>\n<p style=\"text-align: center;\"><span class=\"h1\">Our planet is unique!<\/span><\/p>\n<p style=\"text-align: justify;\">We are continuously discovering new exoplanets: over 1800 so far. But scientists looking for signs of life agree that the conditions the Earth enjoys, which have made it <strong>possible for life to emerge, are exceptional.<\/strong><\/p>\n<p style=\"text-align: justify;\">If the planet were closer it would be too hot and if it were farther away it would be too cold. Therefore, the favourable conditions for the emergence and development of life involve relatively fine, precarious balances.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1390",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1391",
+      "type": "classicContainer",
+      "x": "2864",
+      "y": "78",
+      "w": "576",
+      "h": "380",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55132",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: justify;\"><img style=\"float: left; padding: 0 15px 0 0;\" src=\"posters_medias\/poster31\/Biodiv2.jpg\" height=\"295\" width=\"235\" \/><\/p>\n<p style=\"text-align: justify;\">These exceptional conditions have enabled the development of an incredibly rich diversity of living organisms, from bacteria to large whales, just to name those that are still alive! It is unique in our solar system and is known by scientists as biodiversity.<\/p>\n<p style=\"text-align: justify;\">It is all around us. How many people who love Paris know that they are being watched over by common kestrels nesting in the famous Notre-Dame Church?<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1391",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1392",
+      "type": "accordeonContainer",
+      "x": "3788",
+      "y": "0",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "54994",
+          "inboxType": "editableText",
+          "content": "EN SAVOIR PLUS",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1392",
+          "new": ""
+        },
+        {
+          "id": "54995",
+          "inboxType": "wysiwygBox",
+          "content": "<p><strong><span style=\"text-decoration: underline;\">1 - La biodiversit&eacute; tout autour de nous (1 min 20)<br \/><\/span><\/strong><\/p>\n<p>Oui, des faucons cr&eacute;cerelles nichent sur la c&eacute;l&egrave;bre &eacute;glise de Notre-Dame !<\/p>\n<p><iframe src=\"http:\/\/player.ina.fr\/player\/embed\/CAB96035820\/1\/1b0bd203fbcd702f9bc9b10ac3d0fc21\/460\/259\" width=\"460\" height=\"259\" frameborder=\"0\" style=\"display: block; margin-left: auto; margin-right: auto;\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\"><\/iframe><\/p>\n<p><strong><span style=\"text-decoration: underline;\">2 - Vie et mort des sols ( 11 min 13)<\/span><\/strong><\/p>\n<p>Saviez-vous que sous votre pas lorsque vous vous promenez sur un sol forestier, se trouvent plusieurs milliers d&rsquo;esp&egrave;ces animales et plusieurs dizaines &agrave; plusieurs centaines de milliers d&rsquo;esp&egrave;ces bact&eacute;riennes et de champignons ?<\/p>\n<p><iframe src=\"https:\/\/www.youtube.com\/embed\/pcrrA-Am6oQ\" width=\"854\" height=\"510\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"><\/iframe><\/p>\n<p><strong><span style=\"text-decoration: underline;\">3 - Autre exemple&nbsp;: le microbiote<\/span><\/strong><\/p>\n<p>Il s&rsquo;agit de l&rsquo;ensemble des bact&eacute;ries, champignons et autres micro-organismes essentiels au fonctionnement d&rsquo;un corps humain. Il comprend entre 500 et 100 000 esp&egrave;ces et les bact&eacute;ries dans notre corps sont&nbsp; 10 fois plus nombreuses que nos propres cellules ! (mais moins volumineuses). Au total, c'est 1kg de notre masse totale qui est constitu&eacute; de bact&eacute;ries !<\/p>\n<p><iframe src=\"https:\/\/www.youtube.com\/embed\/MKlPRjCFWmE\" width=\"854\" height=\"510\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"><\/iframe><\/p>\n<p>Vous l&rsquo;aurez compris, la biodiversit&eacute;, ce n&rsquo;est pas seulement la nature mais notre nature...<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1392",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1393",
+      "type": "definitionContainer",
+      "x": "4064",
+      "y": "80",
+      "w": "630",
+      "h": "248",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55129",
+          "inboxType": "wysiwygBox",
+          "content": "<p><\/p>\n<p class=\"MsoNormal\"><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Times;\" lang=\"EN-GB\">Definition: <b style=\"mso-bidi-font-weight: normal;\">Biodiversity<\/b> or the <b style=\"mso-bidi-font-weight: normal;\">diversity of life<\/b>: the term appeared very recently in 1985 from the pen of Edward O. Wilson in his article &ldquo;The Crisis of Biological Diversity&rdquo;. It then reappeared in 1992 at the Rio Conference, when it was given the following definition: &ldquo;<b style=\"mso-bidi-font-weight: normal;\"><i style=\"mso-bidi-font-style: normal;\">Variability among living organisms from all sources<\/i><\/b><i style=\"mso-bidi-font-style: normal;\"> including, inter alia, terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part; this includes <b style=\"mso-bidi-font-weight: normal;\">diversity within species<\/b>, <b style=\"mso-bidi-font-weight: normal;\">between species<\/b> and of <b style=\"mso-bidi-font-weight: normal;\">ecosystems<\/b>&rdquo;.<\/i><\/span><span style=\"font-size: 10.0pt; font-family: Times; mso-fareast-font-family: 'Times New Roman';\" lang=\"EN-GB\"><\/span><\/p>\n<p><\/p>\n<p><em><\/em><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1393",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1394",
+      "type": "titrechapitreContainer",
+      "x": "4977",
+      "y": "62",
+      "w": "408",
+      "h": "108",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55127",
+          "inboxType": "wysiwygBox",
+          "content": "<p>Chapter 1<\/p>\n<p>Planet Earth, planet life<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1394",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1395",
+      "type": "transitionContainer",
+      "x": "5603",
+      "y": "113",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55133",
+          "inboxType": "wysiwygBox",
+          "content": "<p>- 1 -<\/p>\n<p><strong> <span style=\"font-size: 10pt; font-family: Times;\" lang=\"EN-GB\">The inventory of life<\/span> <\/strong><\/p>\n<p><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1395",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1396",
+      "type": "classicContainer",
+      "x": "6034",
+      "y": "-3",
+      "w": "519",
+      "h": "372",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55300",
+          "inboxType": "wysiwygBox",
+          "content": "<p><img style=\"float: left;\" src=\"posters_medias\/poster31\/DATAviz-Biodiversite-ENGLISH-01.png\" height=\"338\" width=\"252\" \/><\/p>\n<p style=\"text-align: justify;\"><\/p>\n<p style=\"text-align: justify;\"><strong><\/strong><\/p>\n<p style=\"text-align: justify;\"><strong><\/strong><\/p>\n<p style=\"text-align: justify;\"><strong>Biodiversity<\/strong> began on Earth in the primordial soup <strong>3.8 billion years ago<\/strong> as cyanobacteria, the ancestors of all living organisms and therefore the direct ancestors of human beings.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1396",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1397",
+      "type": "citationContainer",
+      "x": "6805",
+      "y": "64",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55135",
+          "inboxType": "wysiwygBox",
+          "content": "<p><i style=\"mso-bidi-font-style: normal;\"><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Times; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-GB; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA;\" lang=\"EN-GB\">From a chronological point of view, if we reduce the fifteen billion years our universe has existed into just one year, then civilised mankind, Homo Sapiens, would only appear at 11:59 p.m. on 31<sup>st<\/sup> December. So while we think of ourselves as the &ldquo;centre of the universe&rdquo;, we are in fact a last-minute arrival.<\/span><\/i><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Times; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-GB; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA;\" lang=\"EN-GB\"> - Mathieu Ricard<\/span><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1397",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1398",
+      "type": "classicContainer",
+      "x": "7338",
+      "y": "103",
+      "w": "738",
+      "h": "314",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55234",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: justify;\"><img style=\"float: left; padding: 0 15px 0 0;\" src=\"posters_medias\/poster31\/Biodiv4.jpg\" height=\"247\" width=\"387\" \/><\/p>\n<p style=\"text-align: justify;\">In 2011, the Census of Marine Life estimated the number of living species at <strong>8.7 million<\/strong>.<\/p>\n<p style=\"text-align: justify;\">It also noted that 86% of terrestrial species and 91% of marine species <strong>had not yet been discovered<\/strong>, described or classified! Most unknown species can be found within the biodiversity of insects, fungi (estimated at 1.5 million) and single-celled organisms (estimated at 2.6 million).&nbsp;<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1398",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1399",
+      "type": "transitionContainer",
+      "x": "8320",
+      "y": "99",
+      "w": "272",
+      "h": "280",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "57953",
+          "inboxType": "wysiwygBox",
+          "content": "<p>- 2 -<\/p>\n<p><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Times; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-GB; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA;\" lang=\"EN-GB\">Tell me, what diversity is there?<\/span><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1399",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1400",
+      "type": "classicContainer",
+      "x": "8720",
+      "y": "74",
+      "w": "595",
+      "h": "347",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55303",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">Russian dolls<br \/><\/span><\/p>\n<p><img style=\"float: right;\" src=\"posters_medias\/poster31\/DATAviz-Biodiversite-ENGLISH-12_1.png\" alt=\"\" height=\"261\" width=\"313\" \/><\/p>\n<p><\/p>\n<p><\/p>\n<p style=\"text-align: right;\">The biosphere, or the theoretical sphere encompassing every living thing on Earth, is a little akin to the famous Matryoshka Russian dolls: several spheres are enclosed within each other.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1400",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1401",
+      "type": "classicContainer",
+      "x": "9414",
+      "y": "103",
+      "w": "667",
+      "h": "440",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55237",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">The individual and its species&nbsp;<\/span><\/p>\n<p style=\"text-align: justify;\"><span class=\"h1\"><img src=\"posters_medias\/poster31\/illutr%20taxonomie.jpg\" style=\"float: left; padding: 0 15px 0 0px;\" margin:=\"\" 0px=\"\" 10px=\"\" height=\"314\" width=\"293\" \/><\/span>First of all, an organism is described as belonging to a species and the science of classification is known as taxonomy. Let&rsquo;s take the example of the brown bear: its scientific name in Latin is Ursus arctos and it was described as such for the first time (known as a &ldquo;Type&rdquo; specimen) by Linnaeus in 1758, which was noted at the same time as the name of the species. But there are, in fact, at least <strong>7 levels of description<\/strong> enclosed within the classification of species, ranging from the &ldquo;kingdom&rdquo; (the animal kingdom in this context) to &ldquo;the species&rdquo; itself.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1401",
+          "new": "true"
+        },
+        {
+          "id": "55239",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>Image : Ernst Haeckel<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1401",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1402",
+      "type": "classicContainer",
+      "x": "10149",
+      "y": "107",
+      "w": "516",
+      "h": "350",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55235",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: justify;\"><img style=\"float: right; padding: 0 0 0 15px;\" src=\"posters_medias\/poster31\/Champignons%20Diversit%C3%A9%20Sp%C3%A9cifique.jpg\" alt=\"\" height=\"293\" width=\"220\" \/>This diversity of species, known as &ldquo;<strong>specific diversity<\/strong>&rdquo;, is the most well-known among the general public. In a given area, for example the forest of the Jasper National Park in Canada, all the individuals from the same species, therefore all the brown bears in the forest, form a &ldquo;<strong>population<\/strong>&rdquo;.&nbsp;<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1402",
+          "new": "true"
+        },
+        {
+          "id": "55236",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>Photo : Sasata<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1402",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1403",
+      "type": "classicContainer",
+      "x": "10852",
+      "y": "-4",
+      "w": "744",
+      "h": "463",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "57954",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">What about the diversity of genes?<\/span><\/p>\n<p style=\"text-align: justify;\"><img style=\"float: right;\" src=\"posters_medias\/poster31\/DATAviz-Biodiversite-ENGLISH-02_1.png\" alt=\"\" height=\"372\" width=\"260\" \/>Genetic diversity is essential since it determines the ability of a population, indeed of a species, to adapt to environmental changes. We often speak of &ldquo;<strong>races<\/strong>&rdquo; for animals and &ldquo;<strong>varieties<\/strong>&rdquo; for plants.&nbsp;<\/p>\n<p style=\"text-align: justify;\">Genetic diversity is a little bit like a species&rsquo; <strong>life insurance<\/strong> for adapting to environmental changes.<\/p>\n<p style=\"text-align: justify;\">Merely by a dramatic reduction in their genetic diversity, certain species are in great danger of disappearing, even if their numbers may momentarily be on the rise. Indeed, the fact that all individuals are very similar genetically causes inbreeding problems, increases the likelihood that all individuals are similarly affected by an epidemic and thereby reduces the species&rsquo; adaptation possibilities.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1403",
+          "new": "true"
+        },
+        {
+          "id": "57955",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>Berkeley ; UICN ; Cheetah Conservation Fund<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1403",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1404",
+      "type": "accordeonContainer",
+      "x": "11988",
+      "y": "0",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55010",
+          "inboxType": "editableText",
+          "content": "EN SAVOIR PLUS",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1404",
+          "new": ""
+        },
+        {
+          "id": "55011",
+          "inboxType": "wysiwygBox",
+          "content": "<p><strong><span style=\"text-decoration: underline;\">1 - Diversit&eacute; g&eacute;n&eacute;tique : bient&ocirc;t la fin du Gu&eacute;pard ?<\/span><\/strong><\/p>\n<p style=\"text-align: justify;\">Le cas du gu&eacute;pard illustre ce risque avec une diversit&eacute; g&eacute;n&eacute;tique qui a &eacute;t&eacute; drastiquement r&eacute;duite par la disparation massive de ses effectifs il y a 12 000 ans au d&eacute;but de l&rsquo;&acirc;ge glaciaire. La population de gu&eacute;pard est alors pass&eacute;e par un &laquo;&nbsp;goulot d&rsquo;&eacute;tranglement&nbsp;&raquo; g&eacute;n&eacute;tique dont les cons&eacute;quences se font encore sentir de nos jours puisque l&rsquo;esp&egrave;ce, trop consanguine, n&rsquo;est pas assur&eacute;e de survivre.<\/p>\n<p><img src=\"posters_medias\/poster31\/Biodiversit%C3%A9%20-%20Biodiversity\/Cheetah%20Population%20Bottleneck.jpg\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" height=\"338\" width=\"450\" \/><\/p>\n<p style=\"text-align: justify;\">Pr&eacute;server la diversit&eacute; g&eacute;n&eacute;tique n&rsquo;est pas seulement un enjeu pour les esp&egrave;ces sauvages mais &eacute;galement pour les esp&egrave;ces domestiqu&eacute;es par l&rsquo;humain. L&rsquo;industrialisation de l&rsquo;agriculture a conduit &agrave; une disparition drastique de la diversit&eacute; g&eacute;n&eacute;tique, sacrifi&eacute;e au profit d'esp&egrave;ces aux&nbsp; rendements sup&eacute;rieurs &agrave; court terme.<\/p>\n<p><strong><span style=\"text-decoration: underline;\">2 - Biodiversit&eacute; g&eacute;n&eacute;tique : l&rsquo;otarie de l&rsquo;&icirc;le Guadalupe<\/span><\/strong><\/p>\n<p style=\"text-align: justify;\">L&rsquo;&icirc;le Guadalupe se trouve &agrave; environ 200 km &agrave; l&rsquo;ouest de l&rsquo;&eacute;tat de Baja California au Mexique et h&eacute;berge une population end&eacute;mique d&rsquo;Otaries (<em>Arctocephalus townsendi<\/em>). Leur population a &eacute;t&eacute; s&eacute;v&egrave;rement exploit&eacute;e depuis la fin du XVII &egrave;me si&egrave;cle puis, &agrave; la suite de mesures de protection, sa population a commenc&eacute; &agrave; augmenter depuis les ann&eacute;es 1990. Le patrimoine g&eacute;n&eacute;tique est cependant appauvrit, faisant prendre des risques pour la survie &agrave; long terme de cette population &agrave; la &laquo;&nbsp;plasticit&eacute; environnementale&nbsp;&raquo; de ce fait amoindrie.<\/p>\n<p><img src=\"posters_medias\/poster31\/Otarie%20Guadalupe%20Biodiversit%C3%A9%20G%C3%A9n%C3%A9tique.jpg\" height=\"549\" width=\"1204\" \/><\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1404",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1405",
+      "type": "classicContainer",
+      "x": "12279",
+      "y": "103",
+      "w": "766",
+      "h": "432",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55240",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">What about all the others in the same territory? The community<\/span><\/p>\n<p><img style=\"float: left; padding: 0 15px 0 0;\" src=\"posters_medias\/poster31\/ecological_levels.jpg\" alt=\"\" height=\"329\" width=\"404\" \/><\/p>\n<p style=\"text-align: justify;\">In a forest, several very <strong>different species interact<\/strong> (bears, wolves, rodents, herbivores, etc) and form what is known as a &ldquo;<strong>community<\/strong>&rdquo;.&nbsp; This includes all the plants, animals and micro-organisms which are interlinked with one another in a given area.<\/p>\n<p style=\"text-align: justify;\">Different types of relationships can exist between species within the same community (predation, competition, parasitism, symbiosis, commensalism or simple co-existence).<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1405",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1406",
+      "type": "classicContainer",
+      "x": "13241",
+      "y": "67",
+      "w": "773",
+      "h": "325",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55238",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">What is their shared environment? The Ecosystem<\/span><\/p>\n<p style=\"text-align: justify;\"><img style=\"float: right; padding: 0 0px 0 15px;\" src=\"posters_medias\/poster31\/Biodiv3.jpg\" height=\"221\" width=\"345\" \/>The species that form the <strong>community<\/strong> in a given area interact with each other but also with their physical and chemical environments. All these complex interactions form a cohesive, identifiable unit that is known as an &ldquo;<strong>ecosystem<\/strong>&rdquo;. This includes interactions with the terrain, the climate and many other non-biological factors (abiotic), as well as all biological interactions (biotic). In our example, we can talk about the boreal forest ecosystem of the Jasper National Park in Canada.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1406",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1407",
+      "type": "classicContainer",
+      "x": "14187",
+      "y": "109",
+      "w": "536",
+      "h": "350",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "58024",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: left;\"><img style=\"float: left;\" src=\"posters_medias\/poster31\/DATAviz-Biodiversite-ENGLISH-03_1.png\" alt=\"\" height=\"264\" width=\"287\" \/>The planet is therefore home to an incredible diversity of aquatic and terrestrial ecosystems.<\/p>\n<p><\/p>\n<p><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1407",
+          "new": "true"
+        },
+        {
+          "id": "58025",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UICN<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1407",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1408",
+      "type": "accordeonContainer",
+      "x": "15063",
+      "y": "0",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55320",
+          "inboxType": "editableText",
+          "content": "EN SAVOIR PLUS",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1408",
+          "new": "true"
+        },
+        {
+          "id": "55321",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: justify;\"><strong><span style=\"text-decoration: underline;\">1 - Esp&egrave;ces fondatrices<\/span><\/strong><\/p>\n<p style=\"text-align: justify;\">Certaines&nbsp;esp&egrave;ces peuvent favoriser l&rsquo;&eacute;mergence d&rsquo;un nouvel &eacute;cosyst&egrave;me, comme les coraux b&acirc;tisseurs de r&eacute;cifs ou comme un castor construisant un petit lac avec son barrage et cr&eacute;ant donc par son comportement un nouvel &eacute;cosyst&egrave;me. On nomme ce type d&rsquo;esp&egrave;ces des <strong>esp&egrave;ces fondatrices<\/strong>.<\/p>\n<p><img src=\"posters_medias\/poster31\/Biodiversit%C3%A9%20-%20Biodiversity\/castors-1.jpg\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" height=\"326\" width=\"482\" \/><\/p>\n<p style=\"text-align: justify;\">Dans un &eacute;cosyst&egrave;me, l&rsquo;information sous ses diff&eacute;rentes formes, circule dans tous les sens&nbsp;: a travers les r&eacute;seaux alimentaires, les vecteurs chimiques comme les hormones, et bien d&rsquo;autres formes de communications sensorielles qu&rsquo;elles soient intentionnelles ou non. Savez-vous par exemple qu&rsquo;un acacia brout&eacute; par des girafes produit des ph&eacute;romones qui conduisent les autres acacias &agrave; proximit&eacute; &agrave; faire monter leur taux de toxines de fa&ccedil;on pr&eacute;ventive&nbsp;pour se pr&eacute;munir du broutage?<\/p>\n<p><img src=\"posters_medias\/poster31\/Biodiversit%C3%A9%20-%20Biodiversity\/acacia_cyanogenic_giraffe.jpg\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" height=\"440\" width=\"540\" \/><\/p>\n<p><strong><span style=\"text-decoration: underline;\">2 - La r&eacute;silience des &eacute;cosyst&egrave;mes<\/span><\/strong><\/p>\n<p style=\"text-align: justify;\">Un peu comme des dominos qui se font tomber les uns les autres, dans un &eacute;cosyst&egrave;me&nbsp; fragilis&eacute;, une petite perturbation peut provoquer de grands changements par&nbsp; &laquo;&nbsp;impacts&nbsp; en cascades&nbsp;&raquo;. Un &eacute;cosyst&egrave;me est dit \"r&eacute;silient\" (d&eacute;f <span class=\"tooltip\" data-definition=\"De fa&ccedil;on g&eacute;n&eacute;rale, la r&eacute;silience d&eacute;signe la capacit&eacute; pour un corps, un organisme; une organisation ou un syst&egrave;me quelconque &agrave; retrouver ses propri&eacute;t&eacute;s initiales apr&egrave;s une alt&eacute;ration (un choc par exemple). Un m&eacute;tal r&eacute;silient retrouvera ainsi sa forme apr&egrave;s avoir &eacute;t&eacute; tordu. En &eacute;cologie et en biologie, c'est ainsi la capacit&eacute; d'un &eacute;cosyst&egrave;me, d'une esp&egrave;ce ou d'un individu &agrave; retrouver un fonctionnement ou un d&eacute;veloppement normal apr&egrave;s avoir subi une perturbation. \">r&eacute;silient)<\/span>si son r&eacute;seau apr&egrave;s avoir subit des perturbations est capable de se reconstituer.&nbsp;<\/p>\n<p style=\"text-align: justify;\">Exemple, les pommes de pin de la for&ecirc;t bor&eacute;ale sont adapt&eacute;es au feu et aident l'&eacute;cosyst&egrave;me &agrave; \"red&eacute;marrer\" en cas d'incendie : le feu ouvre les pommes de pin et lib&egrave;re des graines qui servent de base &agrave; la constitution de la nouvelle for&ecirc;t.&nbsp;<\/p>\n<p><img src=\"posters_medias\/poster31\/Biodiversit%C3%A9%20-%20Biodiversity\/pomme%20de%20pin_%20feu_for%C3%AAt_547.jpg\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" height=\"357\" width=\"535\" \/><\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1408",
+          "new": "true"
+        },
+        {
+          "id": "55322",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>Image : Emily Harrington (AskNature)<\/p>\n<p>Photo : PPA<\/p>",
+          "contentIco": "",
+          "order_num": "2",
+          "mainbox_id": "1408",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1409",
+      "type": "transitionContainer",
+      "x": "15429",
+      "y": "146",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "57956",
+          "inboxType": "wysiwygBox",
+          "content": "<p>- 3 -<\/p>\n<p><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Times; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-GB; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA;\" lang=\"EN-GB\">Life, a complex network<\/span><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1409",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1410",
+      "type": "classicContainer",
+      "x": "15852",
+      "y": "156",
+      "w": "764",
+      "h": "340",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55241",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">Relationships and interdependency in the web of life<\/span><\/p>\n<p style=\"text-align: justify;\"><img style=\"float: left; padding: 0 15px 0 0;\" src=\"posters_medias\/poster31\/Biodiv6.jpg\" height=\"268\" width=\"375\" \/>From bacteria to human beings, all species are more or less directly related to each other in a dynamic context that is known as their &ldquo;<strong>environment<\/strong>&rdquo;. The study of how this complexity is organised is at the heart of Ecology sciences. The term was coined in 1866 by Ernst Haeckel, a German biologist. It comes from the Greek o&iuml;kos (meaning home or habitat) and logos (science): it is therefore the study of our habitat, understood in this sense as the conditions for existence.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1410",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1411",
+      "type": "accordeonContainer",
+      "x": "16893",
+      "y": "0",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55021",
+          "inboxType": "editableText",
+          "content": "EN SAVOIR PLUS",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1411",
+          "new": ""
+        },
+        {
+          "id": "55022",
+          "inboxType": "wysiwygBox",
+          "content": "<p><strong><span style=\"text-decoration: underline;\">1 - L'art d'Ernst Haeckel<\/span><\/strong><\/p>\n<p style=\"text-align: justify;\">Pour Ernst Haeckel la biologie &eacute;tait fortement apparent&eacute;e &agrave; l'art. Son talent artistique fut fortement marqu&eacute; par la sym&eacute;trie pr&eacute;sente dans la nature, entre autres celles des micro-organismes monocellulaires comme les radiolaires. Ses images d'organismes pr&eacute;sents dans le plancton et les m&eacute;duses, illustrant l'impressionnante beaut&eacute; du monde biologique, obtinrent une c&eacute;l&eacute;brit&eacute; particuli&egrave;re.&nbsp;<\/p>\n<p><img src=\"posters_medias\/poster31\/Biodiversit%C3%A9%20-%20Biodiversity\/Haeckel_Ascidiae.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" height=\"455\" width=\"306\" \/><\/p>\n<p><span style=\"text-decoration: underline;\"><strong>2 - Nature et esth&eacute;tique : l'art du poisson-globe (1 min 15)<br \/><\/strong><\/span><\/p>\n<p style=\"text-align: justify;\">Pour attirer et gagner un partenaire de sexe oppos&eacute;, ce poisson-globe japonais r&eacute;alise une extraodinaire sculpture de sable.&nbsp;<\/p>\n<p><span style=\"text-decoration: underline;\"><strong><iframe src=\"https:\/\/www.youtube.com\/embed\/hpdlQae5wP8\" width=\"854\" height=\"510\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"><\/iframe><\/strong><\/span><\/p>\n<p><strong><span style=\"text-decoration: underline;\">2 - La beaut&eacute; de la parade nuptiale des oiseaux de paradis (2 min 49)<br \/><\/span><\/strong><\/p>\n<p><strong><span style=\"text-decoration: underline;\"><iframe src=\"https:\/\/www.youtube.com\/embed\/A-05Z-GsGfI\" width=\"854\" height=\"510\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"><\/iframe><\/span><\/strong><\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1411",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1412",
+      "type": "classicContainer",
+      "x": "17151",
+      "y": "4",
+      "w": "931",
+      "h": "438",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55242",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">Who eats whom?<\/span><\/p>\n<p style=\"text-align: justify;\"><img src=\"posters_medias\/poster31\/mangouste%20serpent%20Paul%20Brehem.jpg\" style=\"float: left; margin: 0px 10px 0px 0px;\" height=\"286\" width=\"410\" \/><\/p>\n<p style=\"text-align: justify;\">A living network is often described as a &ldquo;<strong>trophic<\/strong>&rdquo; network, which describes the <strong>food relationships<\/strong> (or food chains) that exist between the species of the same ecosystem. It is a scientific preconception chosen because it follows most exchanges of materials and energy between the different levels of the network. At the same site, we can see, for example, the primary producers which are the plants that can produce organic material via photosynthesis, the consumers (primary if they are herbivores and secondary for carnivores) and the decomposers at the end of the cycle.<\/p>\n<p style=\"text-align: justify;\">First and foremost, a <strong>living network<\/strong> is a closed-circle network, which minimises the loss of materials and energy.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1412",
+          "new": "true"
+        },
+        {
+          "id": "55243",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>Photo : Paul Brehem<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1412",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1413",
+      "type": "classicContainer",
+      "x": "18231",
+      "y": "103",
+      "w": "718",
+      "h": "460",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55308",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">The key species<\/span><\/p>\n<p><img style=\"float: right;\" src=\"posters_medias\/poster31\/DATAviz-Biodiversite-ENGLISH-04_1.png\" height=\"345\" width=\"298\" \/><\/p>\n<p style=\"text-align: justify;\">Every living system is therefore a <strong>network<\/strong>. This network has an architecture where we find key species, such as the prey which is widely used by the whole network, for example: krill for the Antarctic marine ecosystem.<\/p>\n<p style=\"text-align: justify;\">As shown in the image below, krill is at the centre of the ecosystem because it is part of the basic diet of many other species and is sometimes even their main food supply. The disappearance of krill would have a<strong> domino effect<\/strong> on many other species. This is particularly pertinent when we think that krill is already suffering from the effects of climate change and is being fished in increasingly large amounts.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1413",
+          "new": "true"
+        },
+        {
+          "id": "55309",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>Greenpeace, 2011<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1413",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1414",
+      "type": "classicContainer",
+      "x": "19056",
+      "y": "130",
+      "w": "393",
+      "h": "279",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55246",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">Biodiversity &ldquo;hotspots&rdquo;<\/span><\/p>\n<p style=\"text-align: justify;\">Biodiversity varies depending on where you are in the world. There are places where it is particularly <strong>unique<\/strong> and often threatened by human activity. These places are called biodiversity &ldquo;<strong>hotspots<\/strong>&rdquo;. We often take the example of the Island of Madagascar which contains many endemic species, or the koala, an endemic species of Australia.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1414",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1415",
+      "type": "accordeonContainer",
+      "x": "19614",
+      "y": "277",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55028",
+          "inboxType": "editableText",
+          "content": "EN SAVOIR PLUS",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1415",
+          "new": ""
+        },
+        {
+          "id": "55029",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: justify;\"><strong><span style=\"text-decoration: underline;\">1 - Impacts en cascade, biodiversit&eacute;, r&eacute;silience<\/span><\/strong><\/p>\n<p style=\"text-align: justify;\">Comment un virus&nbsp; met le feu &agrave; la Savane du Serengeti ?<\/p>\n<p style=\"text-align: justify;\">Au d&eacute;but des ann&eacute;es 1890 a &eacute;t&eacute; introduit par accident en Afrique de l&rsquo;Est le virus de la peste bovine. Cela causa la disparition de 50 &agrave; 90 % de la faune herbivore domestique mais &eacute;galement sauvages (buffles, antilopes, girafes, etc). Cette pand&eacute;mie eut pour incidence un d&eacute;veloppement important des buissons de la savane qui n&rsquo;&eacute;taient plus brout&eacute;s. Les feux de savanes, fr&eacute;quents dans cet &eacute;cosyst&egrave;me, sont devenus de ce fait plus intenses et ont mis en danger l&rsquo;&eacute;cosyst&egrave;me tout entier. L&rsquo;introduction de vaccins &agrave; partir des ann&eacute;es 1960 a permis d&rsquo;augmenter le taux de survie des herbivores. L&rsquo;&eacute;cosyst&egrave;me de la Savane est redevenu moins expos&eacute; aux incendies.<\/p>\n<p><img src=\"posters_medias\/poster31\/Biodiversit%C3%A9%20-%20Biodiversity\/feu-de-brousse.jpg\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" height=\"396\" width=\"600\" \/><\/p>\n<p style=\"text-align: justify;\">De fa&ccedil;on g&eacute;n&eacute;rale, toute rupture du r&eacute;seau entre diff&eacute;rentes esp&egrave;ces peut entrainer des effets en cascades aux cons&eacute;quences impr&eacute;visibles. La r&eacute;silience d&rsquo;un &eacute;cosyst&egrave;me, c'est &agrave; dire sa capacit&eacute; &agrave; r&eacute;sister aux changements sans s&rsquo;effondrer, d&eacute;pend de sa diversit&eacute; et l'ensemble du r&eacute;seau peut d&eacute;pendre de ses maillons les plus importants comme parfois des plus faibles.<\/p>\n<p><strong><span style=\"text-decoration: underline;\">2 - La symbiose, meilleure strat&eacute;gie d&rsquo;innovation du vivant&nbsp;?<\/span><\/strong><\/p>\n<p style=\"text-align: justify;\">Jusqu'&agrave; tr&egrave;s r&eacute;cemment, la plupart des manuels de biologie et d&rsquo;&eacute;cologie mettaient principalement l&rsquo;accent sur la comp&eacute;tition et la s&eacute;lection des esp&egrave;ces pour expliquer l&rsquo;existence et les performances des syst&egrave;mes vivants. Cette vision a&nbsp; bien sur &eacute;t&eacute; tr&egrave;s influenc&eacute;e par l&rsquo;impact des d&eacute;couvertes de Darwin, mettant en avant le r&ocirc;le central de la comp&eacute;tition et de la s&eacute;lection naturelle. Les chercheurs ont depuis d&eacute;couvert que la symbiose et la coop&eacute;ration expliquaient bien mieux les plus grandes innovations de l&rsquo;histoire de la vie sur Terre.<\/p>\n<p><img src=\"posters_medias\/poster31\/Biodiversit%C3%A9%20-%20Biodiversity\/premnas-biaculeatus-couple.jpg\" alt=\"\" height=\"484\" width=\"619\" \/><\/p>\n<p><span style=\"text-decoration: underline;\"><strong>3 - L'endosymbiose (5 min 41)<\/strong><\/span><\/p>\n<p style=\"text-align: justify;\">Ainsi la cellule eucaryote, qui constitue les tissus de toutes les plantes et des animaux, est le r&eacute;sultat d&rsquo;une symbiose bact&eacute;rienne ayant conduit &agrave; l&rsquo;apparition de ces &laquo;&nbsp;usines &agrave; &eacute;nergie&nbsp;&raquo; : les chloroplastes pour les plantes ou les mitochondries pour les cellules animales (th&eacute;orie endosymbiotique de Lynn Margulis).<\/p>\n<p><iframe src=\"\/\/www.youtube.com\/embed\/H4UfHSRUlp0\" width=\"612\" height=\"641\"><\/iframe><\/p>\n<p><span style=\"text-decoration: underline;\"><strong>4 - Coop&eacute;ration et comp&eacute;tition :<\/strong><\/span><\/p>\n<p style=\"text-align: justify;\">Des &eacute;tudes montrent &eacute;galement que lorsque les ressources viennent &agrave; manquer, il est beaucoup plus avantageux de coop&eacute;rer que d&rsquo;exacerber la comp&eacute;tition qui a un co&ucirc;t &eacute;nerg&eacute;tique &eacute;lev&eacute;. Ainsi des oiseaux peuvent tout a fait &ecirc;tre en comp&eacute;tition lors de la reproduction et commencer &agrave; collaborer lorsqu&rsquo;il s&rsquo;agit de rep&eacute;rer des ressources en p&eacute;riode de disette en hiver. Les exemples de partage de nourriture, y compris entre individus non apparent&eacute;s, sont nombreux dans la nature.<\/p>\n<p><img src=\"posters_medias\/poster31\/Biodiversit%C3%A9%20-%20Biodiversity\/wilkinson%20reguritation%20series%20chauve%20souris%20rotundus%20demodus%20coop%C3%A9ration.jpg\" alt=\"\" height=\"421\" width=\"1037\" \/><\/p>\n<p style=\"text-align: justify;\">La chauve-souris Desmodus rotundus ou vampire d&rsquo;Azara vit en Am&eacute;rique du sud et se nourrit de sang d&rsquo;&eacute;quid&eacute;s. Elles vivent en groupe de 8 &agrave; 12 femelles avec leurs petits dans des arbres creux. Chaque ann&eacute;e, de nouvelles femelles sont accueillies dans le groupe et ne sont pas apparent&eacute;es au reste du groupe. La chauve sourie est tr&egrave;s vuln&eacute;rable et ne peut survivre au je&ucirc;ne plus de 2 nuits cons&eacute;cutives. Wilkinson en 1984 a montr&eacute; qu&rsquo;une chauve sourie bien aliment&eacute;e partage parfois sa nourriture avec sa voisine, perdant sa propre autonomie de 6% mais augmentant celle du receveur jusqu'&agrave; 30%. Sans cette coop&eacute;ration, le taux de mortalit&eacute; annuel devrait atteindre 82% alors qu&rsquo;il n&rsquo;est que de 24%. L&rsquo;&eacute;change suppose que le b&eacute;n&eacute;ficiaire deviendra un jour donneur &agrave; son tour.<\/p>\n<p><\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1415",
+          "new": ""
+        },
+        {
+          "id": "55030",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>Photo : IRD \/ Christian L&eacute;v&ecirc;que<\/p>",
+          "contentIco": "",
+          "order_num": "2",
+          "mainbox_id": "1415",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1416",
+      "type": "titrechapitreContainer",
+      "x": "19900",
+      "y": "22",
+      "w": "499",
+      "h": "148",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55156",
+          "inboxType": "wysiwygBox",
+          "content": "<p>Chapter 2<\/p>\n<p>A 6th mass extinction... caused by mankind<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1416",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1417",
+      "type": "transitionContainer",
+      "x": "20513",
+      "y": "159",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55162",
+          "inboxType": "wysiwygBox",
+          "content": "<p>- 1 -<\/p>\n<p><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Times; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-GB; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA;\" lang=\"EN-GB\">A rate of unprecedented loss<\/span><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1417",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1418",
+      "type": "classicContainer",
+      "x": "20937",
+      "y": "103",
+      "w": "511",
+      "h": "410",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55312",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><img style=\"float: left;\" src=\"posters_medias\/poster31\/DATAviz-Biodiversite-ENGLISH-05_1.png\" height=\"348\" width=\"223\" \/><\/p>\n<p style=\"text-align: justify;\">The evolution of life over millennia has always resulted in a permanent evolution of species: all of them change, new ones appear and some disappear, this is <strong>the magic of life<\/strong> and its evolution, which was described for the first time by Charles Darwin in his work <em>&ldquo;On the Origin of Species&rdquo;<\/em> published in 1859.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1418",
+          "new": "true"
+        },
+        {
+          "id": "55313",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>Science, 2012<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1418",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1419",
+      "type": "classicContainer",
+      "x": "21607",
+      "y": "38",
+      "w": "622",
+      "h": "421",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55314",
+          "inboxType": "wysiwygBox",
+          "content": "<p><img style=\"float: right;\" src=\"posters_medias\/poster31\/DATAviz-Biodiversite-ENGLISH-06.png\" height=\"345\" width=\"268\" \/><\/p>\n<p style=\"text-align: justify;\"><\/p>\n<p style=\"text-align: justify;\">Consequently, over the past 65 million years, the average rate of extinction has been around one extinction a year per one million species. The current rate caused by mankind is <strong>100 times higher<\/strong> (1000 times higher for amphibians) and if we don&rsquo;t act now, we predict that the rate for the 21st century will be <strong>1000 times higher<\/strong> than the current rate for all species.<\/p>\n<p style=\"text-align: justify;\">At this rate, we will see as many species disappear in 200 years as we normally would in 1 million years.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1419",
+          "new": "true"
+        },
+        {
+          "id": "55315",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>WWF, 2014<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1419",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1420",
+      "type": "classicContainer",
+      "x": "22461",
+      "y": "116",
+      "w": "404",
+      "h": "225",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55250",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\"><strong>The 6th mass extinction of species<\/strong><\/span><\/p>\n<p style=\"text-align: justify;\">This rate of loss is therefore unprecedented since mankind appeared on Earth! Scientists think that we are now seeing <strong>the 6th mass extinction<\/strong> of species for 450 million years: the last extinction was the dinosaurs 65 million years ago during the Cretaceous-Tertiary period.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1420",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1421",
+      "type": "accordeonContainer",
+      "x": "23056",
+      "y": "0",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55038",
+          "inboxType": "editableText",
+          "content": "EN SAVOIR PLUS",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1421",
+          "new": ""
+        },
+        {
+          "id": "55039",
+          "inboxType": "wysiwygBox",
+          "content": "<p><strong><span style=\"text-decoration: underline;\"><\/span><\/strong><strong><span style=\"text-decoration: underline;\">1 - Les esp&egrave;ces menac&eacute;es identifi&eacute;es par l'UICN en 2010<\/span><\/strong><\/p>\n<p><strong><span style=\"text-decoration: underline;\"><iframe src=\"\/\/www.youtube.com\/embed\/zu1ZWD2p4UA\" width=\"425\" height=\"350\" style=\"display: block; margin-left: auto; margin-right: auto;\"><\/iframe><\/span><\/strong><\/p>\n<p><strong><span style=\"text-decoration: underline;\"><\/span><\/strong><\/p>\n<p><strong><span style=\"text-decoration: underline;\"><\/span><\/strong><\/p>\n<p><strong><span style=\"text-decoration: underline;\"><img style=\"float: left;\" src=\"posters_medias\/poster2\/IUCN%20esp%C3%A8ces%20menac%C3%A9es.png\" alt=\"\" height=\"621\" width=\"508\" \/><\/span><\/strong><\/p>\n<p><strong><span style=\"text-decoration: underline;\">2 - Une nouvelle &egrave;re qui porte la marque&nbsp;de l'Homme : l'anthropoc&egrave;ne (3 min 37)<br \/><\/span><\/strong><\/p>\n<p><iframe src=\"https:\/\/www.youtube.com\/embed\/-cJYXlfjADE\" width=\"854\" height=\"510\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\" style=\"display: block; margin-left: auto; margin-right: auto;\"><\/iframe><\/p>\n<p><strong><span style=\"text-decoration: underline;\"><img src=\"posters_medias\/poster31\/Biodiversit%C3%A9%20-%20Biodiversity\/anthropoc%C3%A8ne.jpg\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" height=\"450\" width=\"800\" \/><\/span><\/strong><\/p>\n<p style=\"text-align: justify;\">Pendant plus de 10 000 ans a pr&eacute;valu sur Terre l&rsquo;aire g&eacute;ologique de <strong>l&rsquo;Holoc&egrave;ne<\/strong>. A la fin du 20&egrave;me si&egrave;cle le prix Nobel de chimie Paul Crutzen propose que la plan&egrave;te depuis le d&eacute;but de la premi&egrave;re r&eacute;volution industrielle a &eacute;t&eacute; tellement<strong> transform&eacute;e par les activit&eacute;s humaines<\/strong> que nous avons quitt&eacute; l&rsquo;Holoc&egrave;ne pour entrer dans <strong>l&rsquo;Anthropocene<\/strong>, du grecque anthropos &laquo;&nbsp;&ecirc;tre humain&nbsp;&raquo;. Crutzen souligne que l&rsquo;esp&egrave;ce humaine est devenue une \"force g&eacute;ophysique plan&eacute;taire\" ayant d&eacute;grad&eacute; <strong>&laquo;&nbsp;60 % des services fournis par les &eacute;cosyst&egrave;mes terrestres&nbsp;&raquo;<\/strong>. L&rsquo;impact de l'humanit&eacute; sur toutes les zones biologiques productives terrestres et marines, via ses pr&eacute;l&egrave;vements et ses rejets, l&rsquo;emporterait &agrave; pr&eacute;sent sur les facteurs et fluctuations naturels. Ce nouvel &acirc;ge g&eacute;ologique aurait &eacute;t&eacute; d&eacute;clench&eacute; par le d&eacute;stockage massif de <strong>ressources fossiles<\/strong>, perturbant ce faisant la machinerie climatique et d&eacute;t&eacute;riorant l'&eacute;quilibre de l&rsquo;ensemble du syst&egrave;me plan&eacute;taire.<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1421",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1422",
+      "type": "citationContainer",
+      "x": "23362",
+      "y": "100",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55157",
+          "inboxType": "wysiwygBox",
+          "content": "<p class=\"MsoNormal\"><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Times;\" lang=\"EN-GB\"><i style=\"mso-bidi-font-style: normal;\">By definition nature is the living complexity in which human beings must finally find their rightful place if they do not wish to be wiped out by their own mistakes.<\/i> Pierre Rabhi<\/span><span style=\"font-size: 10.0pt; font-family: Times;\" lang=\"EN-GB\"><\/span><\/p>\n<p><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1422",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1423",
+      "type": "transitionContainer",
+      "x": "23956",
+      "y": "112",
+      "w": "300",
+      "h": "300",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "57957",
+          "inboxType": "wysiwygBox",
+          "content": "<p>- 2 -<\/p>\n<p><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Times; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-GB; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA;\" lang=\"EN-GB\">Mankind is responsible <\/span><\/p>\n<p><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Times; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-GB; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA;\" lang=\"EN-GB\">for this 6<sup>th<\/sup> extinction<\/span><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1423",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1424",
+      "type": "classicContainer",
+      "x": "24502",
+      "y": "59",
+      "w": "690",
+      "h": "375",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55323",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">1 - Habitat destruction or alteration<br \/><\/span><\/p>\n<p style=\"text-align: justify;\"><img style=\"float: left; padding: 0 15px 0 0;\" src=\"posters_medias\/poster31\/Biodiv1.jpg\" height=\"171\" width=\"330\" \/><\/p>\n<p style=\"text-align: justify;\">Mankind has always changed natural habitats since time immemorial. Firstly, it was the Neolithic Revolution with the invention of agriculture and livestock farming and then the industrial revolutions of the modern era, which significantly changed certain ecosystems.<\/p>\n<p style=\"text-align: justify;\">The rate of these transformations accelerated considerably over the 20th century: forests became towns or fields, wetlands were drained to become industrial areas, while rivers were channelled, diverted and transformed into lakes by dams. All these developments led to the destruction, degradation, alteration and fragmentation of ecosystems that were home to many animal and plant species, which suffered greatly.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1424",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1425",
+      "type": "classicContainer",
+      "x": "25450",
+      "y": "104",
+      "w": "658",
+      "h": "437",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55316",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">2 - Overexploitation of species<br \/><\/span><\/p>\n<p><img style=\"float: right;\" src=\"posters_medias\/poster31\/DATAviz-Biodiversite-ENGLISH-07_1.png\" height=\"298\" width=\"223\" \/><\/p>\n<p style=\"text-align: justify;\">This is particularly the case for species targeted for economic reasons. The reasons for this may vary greatly, ranging from food to raw material needs and decorations, and even including the demand for pets.<\/p>\n<p style=\"text-align: justify;\">In terms of its legal side, overexploitation is the result of the <strong>poor management of natural resources<\/strong>, i.e. more is taken than can be naturally replaced. Overexploitation has been identified as a problem for over <strong>1\/3 of mammals<\/strong> and according to a study from November 2014, the populations of big fish such as tuna, groupers, sharks and other ocean predators have fallen <strong>by 2\/3<\/strong> in a century and this decline is accelerating!<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1425",
+          "new": "true"
+        },
+        {
+          "id": "55317",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>UICN, 2014<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1425",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1426",
+      "type": "classicContainer",
+      "x": "26401",
+      "y": "41",
+      "w": "678",
+      "h": "417",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55318",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">3 - Animal trade<br \/><\/span><\/p>\n<p><img style=\"float: left;\" src=\"posters_medias\/poster31\/DATAviz-Biodiversite-ENGLISH-08_1.png\" height=\"324\" width=\"268\" \/><\/p>\n<p style=\"text-align: justify;\">The illegal trade of wild animals is a <strong>growing market.<\/strong> In terms of revenue, it is the 3rd most profitable trafficking, just behind the trafficking of weapons and drugs (source: UNEP, 2014).<\/p>\n<p style=\"text-align: justify;\">According to the International Fund for Animal Welfare (IFAW), products such as rhinoceros horn and bear bile can be worth more than gold or cocaine, with an ROI that can far exceed 1,000%. This is why militias and heavily armed rebel groups, such as Al-Shabaab in Somalia and the Lord&rsquo;s Resistance Army (LRA) in Uganda, kill many endangered animals for financial gain.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1426",
+          "new": "true"
+        },
+        {
+          "id": "55319",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>PNUE, 2014<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1426",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1427",
+      "type": "classicContainer",
+      "x": "27112",
+      "y": "40",
+      "w": "422",
+      "h": "419",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55324",
+          "inboxType": "wysiwygBox",
+          "content": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"posters_medias\/poster31\/DATAviz-Biodiversite-ENGLISH_Plan%20de%20travail%2015_1.png\" alt=\"\" height=\"358\" width=\"306\" \/><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1427",
+          "new": "true"
+        },
+        {
+          "id": "55325",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>SRC&nbsp;<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1427",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1428",
+      "type": "classicContainer",
+      "x": "27758",
+      "y": "114",
+      "w": "499",
+      "h": "301",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55257",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">4 - The introduction of invasive exotic species<br \/><\/span><\/p>\n<p style=\"text-align: justify;\">In many ecosystems, mankind has either voluntarily or involuntarily <strong>introduced invasive exotic species<\/strong> which upset the natural environmental balance, competing with the native species and sometimes even dominating them to the point that they disappear. These biological invasions, a form of natural globalisation, are the leading cause behind the extinction of island species, in particular birds, and represent a particularly worrying phenomenon for the future of biological diversity. We often take the example of zebra mussels, the water hyacinth or even the Nile perch.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1428",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1429",
+      "type": "accordeonContainer",
+      "x": "28478",
+      "y": "0",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55050",
+          "inboxType": "editableText",
+          "content": "EN SAVOIR PLUS",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1429",
+          "new": ""
+        },
+        {
+          "id": "55051",
+          "inboxType": "wysiwygBox",
+          "content": "<p><span style=\"text-decoration: underline;\"><strong>1 - Lac Victoria et Perche du Nil...<\/strong><\/span><\/p>\n<p style=\"text-align: justify;\">En 1954, la perche du Nil a &eacute;t&eacute; introduite dans les eaux du lac Victoria, le plus grand lac tropical au monde. Ce lac pr&eacute;sentait la particularit&eacute; d'abriter une quantit&eacute; consid&eacute;rable d'esp&egrave;ces indig&egrave;nes, principalement plusieurs centaines d'esp&egrave;ces de cichlid&eacute;s, fruit d'une diversification explosive depuis la (re-)cr&eacute;ation du lac il y a 12 000 ans jusqu'&agrave; l'introduction de la perche du Nil.<img src=\"posters_medias\/poster31\/Lakevictoriafr.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" height=\"504\" width=\"491\" \/><\/p>\n<p style=\"text-align: justify;\">La perche s'est alors multipli&eacute;e au d&eacute;triment des esp&egrave;ces locales. Alors qu'en 1977, les prises de cichlid&eacute;s repr&eacute;sentent encore 32 % du tonnage p&ecirc;ch&eacute; et celles des perches du Nil 1 %, 6 ans plus tard les prises comportaient 68 % de perches du Nil pour 1 % de cichlid&eacute;s. L'image ci-dessous montre la diversit&eacute; des esp&egrave;ces de poissons en pr&eacute;sence dans le Lac Victoria avant et apr&egrave;s l'introduction de la perche du Nil<\/p>\n<p><img src=\"posters_medias\/poster31\/perch%20nil%20mc%20graw%20hill%20companies%20avant%20apr%C3%A8s.jpg\" height=\"600\" width=\"642\" \/><\/p>\n<p style=\"text-align: justify;\">Maintenant la perche est l&agrave;, et les gens en vivent. Mais il n&rsquo;y a plus aucune autre esp&egrave;ce pr&eacute;sente dans le lac qui a une valeur commerciale comparable. Le probl&egrave;me, c&rsquo;est qu&rsquo;aujourd&rsquo;hui, la perche elle-m&ecirc;me est en danger&hellip; et fragilise tout l&rsquo;environnement humain du Lac Victoria, dont l&rsquo;activit&eacute; &eacute;conomique est en grande partie bas&eacute;e sur la p&ecirc;che.<\/p>\n<p><strong><span style=\"text-decoration: underline;\">2 - Bande annonce : Le cauchemard de Darwin sur la Perche du Nil (1 min 46)<\/span><\/strong><\/p>\n<p><iframe src=\"\/\/www.youtube.com\/embed\/xBW61anag00\" width=\"616\" height=\"645\"><\/iframe><\/p>\n<p><\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1429",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1430",
+      "type": "classicContainer",
+      "x": "28735",
+      "y": "34",
+      "w": "685",
+      "h": "424",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55326",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">5 - Pollution<\/span><\/p>\n<p><img style=\"float: left;\" src=\"posters_medias\/poster31\/DATAviz-Biodiversite-ENGLISH_Plan%20de%20travail%2016_1.png\" height=\"339\" width=\"289\" \/>Soil, water and air pollution is exacerbating the degradation of natural environments and directly affecting certain species. Therefore, due to pollution, <strong>40 to 50%<\/strong> of fungi species have disappeared in 60 years in Germany, Austria and the Netherlands. For example, when species of insects decrease around the European countryside, the whole food chain is affected: insectivorous birds, bats, etc.<\/p>\n<p style=\"text-align: justify;\">The degradation of natural environments (and the loss of habitats) is the leading threat to birds (89% of all threatened bird species), mammals (83%) and plants (91%).<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1430",
+          "new": "true"
+        },
+        {
+          "id": "55327",
+          "inboxType": "mediaSourceBox",
+          "content": "<p><em>Acad&eacute;mie Chinoise<\/em><span> des S<\/span><em>ciences, 2007<\/em><span><\/span><\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1430",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1431",
+      "type": "accordeonContainer",
+      "x": "29642",
+      "y": "0",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55054",
+          "inboxType": "editableText",
+          "content": "EN SAVOIR PLUS",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1431",
+          "new": ""
+        },
+        {
+          "id": "55055",
+          "inboxType": "wysiwygBox",
+          "content": "<p><strong><span style=\"text-decoration: underline;\">1 - Zoom sur la pollution<\/span><\/strong><\/p>\n<p style=\"text-align: justify;\">Les polluants transport&eacute;s par les courants atmosph&eacute;riques et marins ne connaissent pas de fronti&egrave;res. Des mol&eacute;cules produites dans nos villes peuvent se retrouver dans l&rsquo;arctique dans le sang d&rsquo;un ours blanc. Un ph&eacute;nom&egrave;ne appel&eacute; &laquo;&nbsp;bioaccumulation&nbsp;&raquo; voit la concentration de polluants non biod&eacute;gradables s&rsquo;accumuler au fur &agrave; mesure que l&rsquo;on monte dans la cha&icirc;ne alimentaire, ce qui fait que les pr&eacute;dateurs concentrent plus de polluants en ing&eacute;rant leurs proies.&nbsp;&nbsp;<\/p>\n<p><img src=\"posters_medias\/poster31\/bioaccumulation%20-%20biomagnification.jpg\" height=\"426\" width=\"627\" \/><\/p>\n<p style=\"text-align: justify;\">Ainsi au <strong>Spitzberg<\/strong>, pourtant loin de toutes sources importantes de pollutions, les scientifiques ont trouv&eacute; en 2004 des taux inqui&eacute;tants de <strong>polluants<\/strong> organiques persistants (pops) du type Deca BDE, utilis&eacute;s par l&rsquo;industrie comme retardateurs de feux et qui sont de puissants <strong>neurotoxiques<\/strong>. M&ecirc;me l&rsquo;antarctique n&rsquo;est pas &agrave; l&rsquo;abris puisqu&rsquo;une &eacute;tude a trouv&eacute; dans le sang de <strong>manchots<\/strong> Ad&eacute;lie des PCNs, &eacute;l&eacute;ments chimiques utilis&eacute;s dans des peintures, des lubrifiants etc.&nbsp;<\/p>\n<p style=\"text-align: justify;\">La vid&eacute;o ci-dessous illustre le processus de bioaccumulation en partant de l'exemple d'un pesticide, le DDT (1 min 22 - sous titrage fran&ccedil;ais)<\/p>\n<p><iframe src=\"https:\/\/www.youtube.com\/embed\/DxqDaTUh08o\" width=\"854\" height=\"510\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"><\/iframe><\/p>\n<p>&nbsp;<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1431",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1432",
+      "type": "classicContainer",
+      "x": "29867",
+      "y": "112",
+      "w": "901",
+      "h": "450",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55330",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">6 - Climate change<\/span><\/p>\n<p><img style=\"float: right;\" src=\"posters_medias\/poster31\/DATAviz-Biodiversite-ENGLISH-09_1.png\" height=\"354\" width=\"294\" \/><\/p>\n<p style=\"text-align: justify;\">Climate change is at the heart of current environmental issues and is already having consequences on biodiversity. According to certain hypotheses, climate change could lead to the loss of 27 to 40% of native plants in Europe by 2080. This is particularly true for species which need cold temperatures, such as in the mountains or Arctic regions.<\/p>\n<p style=\"text-align: justify;\">The geographical distribution of species is altered by the effects of climate change: many cases of species movement have already been noted, either among fish populations such as the Atlantic herring which is travelling farther and farther north, or species fleeing to higher ground such as the Apollo butterfly in Europe. This is the case because most species have what scientists call a &ldquo;thermal preferendum&rdquo;, i.e. a temperature at which their living conditions are perfect.&nbsp;The extinction of the golden toad can be described as the first extinction in Costa Rica due to global warming.<\/p>\n<p style=\"text-align: justify;\">cf. Post-R Climate<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1432",
+          "new": "true"
+        },
+        {
+          "id": "55331",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>UICN, 2015&nbsp;<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1432",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1433",
+      "type": "accordeonContainer",
+      "x": "30919",
+      "y": "281",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55058",
+          "inboxType": "editableText",
+          "content": "EN SAVOIR PLUS",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1433",
+          "new": ""
+        },
+        {
+          "id": "55059",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: justify;\"><strong><span style=\"text-decoration: underline;\">1 - La curieuse d&eacute;couverte d&rsquo;ours \"Pizzly\" ou \"Grolar\"<\/span><\/strong><\/p>\n<p style=\"text-align: justify;\">Le r&eacute;chauffement climatique peut avoir d'&eacute;tranges cons&eacute;quences. Des sp&eacute;cialistes de la faune ont observ&eacute; dans le nord du Canada l'apparition d'une nouvelle sorte d'ours, le &laquo;grolar&raquo; ou le &laquo;pizzly&raquo;. Cet ours blanc aux t&acirc;ches marron est le r&eacute;sultat de la reproduction entre une femelle ours polaire et un m&acirc;le grizzly. Avec la fonte de la banquise, l'ours blanc est repouss&eacute; vers le sud du Canada et l'ours brun remonte d'avantage vers les for&ecirc;ts du nord. Ils sont donc amen&eacute;s &agrave; partager leur territoire une partie de l'ann&eacute;e. Il y aurait aujourd'hui un peu plus de cinq hybrides d'ours dans la nature.<\/p>\n<p><img src=\"posters_medias\/poster31\/Biodiversit%C3%A9%20-%20Biodiversity\/le-pizzly.jpg\" alt=\"\" height=\"694\" width=\"720\" \/><\/p>\n<p><strong><span style=\"text-decoration: underline;\">2 - Biodiversit&eacute; : l'essentielle dif&eacute;rence (3 min 39)<br \/><\/span><\/strong><\/p>\n<p>L'Homme agit aujourd'hui sur une plan&egrave;te mondialis&eacute;e et ses activit&eacute;s transforment l'ensemble de l'&eacute;quilibre de la plan&egrave;te. Nouvelles villes, nouvelles terres agricoles, etc...nous modifions l'habitat de nombreux &ecirc;tres vivants. Quand nous ne les faisons pas dispara&icirc;tre. Or, on l'a vu, le vivant est une toile au sein de laquelle aucune esp&egrave;ce ne fonctionne ind&eacute;pendamment des autres. Cette biodiversit&eacute; fait la richesse de notre monde...&nbsp;<\/p>\n<p><strong><span style=\"text-decoration: underline;\"><iframe src=\"https:\/\/www.youtube.com\/embed\/1F6JGk51_l0\" width=\"854\" height=\"510\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"><\/iframe><\/span><\/strong><\/p>\n<p><\/p>\n<p><strong><span style=\"text-decoration: underline;\">3 - Le changement climatique&nbsp;: exemples d&rsquo;impacts sur la biodiversit&eacute; (4 min 37)<br \/><\/span><\/strong><\/p>\n<p>Le blanchissement des r&eacute;cifs coralliens est un autre exemple de l&rsquo;impact du changement climatique, dont les cons&eacute;quences n&eacute;gatives sur les &eacute;conomies locales (tourisme, p&ecirc;che,...) sont d&eacute;j&agrave; perceptibles. En effet, au-dessus d&rsquo;une certaine temp&eacute;rature de l&rsquo;eau, les coraux r&eacute;cifaux expulsent leurs algues symbiotiques (les zooxanthelles) qui effectuent pour eux de la photosynth&egrave;se, et dans la plus part des cas les coraux finissent par mourir entrainant avec eux tout l&rsquo;&eacute;cosyst&egrave;me si divers des r&eacute;cifs coralliens.<\/p>\n<p><iframe src=\"https:\/\/www.youtube.com\/embed\/ylUgOQuSBuE\" width=\"854\" height=\"510\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"><\/iframe><\/p>\n<p><strong><span style=\"text-decoration: underline;\">3 - Les oiseaux migrateurs (2 min 04)<\/span> <\/strong><\/p>\n<p>Ils ne sont pas &eacute;pargn&eacute;s et l&rsquo;on assiste chez certaines esp&egrave;ces &agrave; des reproductions plus pr&eacute;coces (hu&icirc;trier pie par ex.) ou &agrave; des retours &nbsp;anticip&eacute;s d&rsquo;esp&egrave;ces migratrices (hirondelle, martinet noir), ou au contraire des d&eacute;parts plus tardifs (alouette des champs, &eacute;tourneau sansonnet). Il y a m&ecirc;me dans certains cas changement des routes migratoires (fauvette &agrave; t&ecirc;te noire) voire une s&eacute;dentarisation durant tout l&rsquo;hiver d&rsquo;esp&egrave;ces qui autrefois migraient&nbsp; (cigogne blanche, grue cendr&eacute;e, milan noir, ...).<\/p>\n<p><iframe src=\"https:\/\/www.youtube.com\/embed\/ZtKwmXurKbw\" width=\"854\" height=\"510\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"><\/iframe><\/p>\n<p>Bien qu&rsquo;il existe chez la plupart des esp&egrave;ces des m&eacute;canismes <strong>d&rsquo;adaptation<\/strong>, la rapidit&eacute; des changements climatiques pose de s&eacute;rieux probl&egrave;mes particuli&egrave;rement aux esp&egrave;ces d&eacute;j&agrave; fragilis&eacute;es ou plus sp&eacute;cialis&eacute;es.<\/p>\n<p>Le cas des esp&egrave;ces arctiques est particuli&egrave;rement illustratif, particuli&egrave;rement en ce qui concerne les esp&egrave;ces li&eacute;es &agrave; l&rsquo;&eacute;cosyst&egrave;me de la banquise telles que l&rsquo;ours blanc, de nombreuses esp&egrave;ces de phoques, qui sont sa proies, mais &eacute;galement des oiseaux et en fait toute la cha&icirc;ne alimentaire marine arctique (planctons, poissons, etc).<\/p>\n<p><\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1433",
+          "new": ""
+        },
+        {
+          "id": "55060",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>Photo :&nbsp; AP\/DD<\/p>",
+          "contentIco": "",
+          "order_num": "2",
+          "mainbox_id": "1433",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1434",
+      "type": "titrechapitreContainer",
+      "x": "31362",
+      "y": "59",
+      "w": "484",
+      "h": "148",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55176",
+          "inboxType": "wysiwygBox",
+          "content": "<p>Chapter 3<\/p>\n<p>The loss of biodiversity : what are we all concerned about ?<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1434",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1435",
+      "type": "classicContainer",
+      "x": "32023",
+      "y": "53",
+      "w": "524",
+      "h": "342",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55278",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: justify;\">The history of <strong>3.8 billion years of life<\/strong> on our beautiful planet has been a constant succession of extinctions followed by new explosions of diversity. However, the famous extinction of the dinosaurs during the Cretaceous period led to the emergence of mammals and therefore to our own appearance. We are an extremely young species (about 200,000 years for Homo Sapiens) that is currently very quickly causing the <strong>6th&nbsp;mass extinction of species.<\/strong><\/p>\n<p style=\"text-align: justify;\">Life on earth will probably bounce back, it might take millions of years, but there is no reason why the dynamism of life cannot eventually lead to the emergence of new species. It is the very living conditions of the human race that are at stake.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1435",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1436",
+      "type": "transitionContainer",
+      "x": "32735",
+      "y": "86",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55177",
+          "inboxType": "wysiwygBox",
+          "content": "<p>- 1 -<\/p>\n<p><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Times; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-GB; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA;\" lang=\"EN-GB\">Ecosystem services<\/span><\/p>\n<p><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1436",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1437",
+      "type": "classicContainer",
+      "x": "33164",
+      "y": "103",
+      "w": "641",
+      "h": "365",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "59375",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: justify;\"><strong><img style=\"float: left;\" src=\"posters_medias\/poster31\/EcosystemServices-1.png\" alt=\"\" height=\"301\" width=\"371\" \/><\/strong><\/p>\n<p style=\"text-align: justify;\"><\/p>\n<p style=\"text-align: justify;\"><\/p>\n<p style=\"text-align: justify;\">But for our own resilience, we human beings depend on the services that healthy ecosystems can provide for us. There are <strong>4 types of ecosystem services.<\/strong><\/p>\n<p><strong><\/strong><\/p>\n<p style=\"text-align: center;\"><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1437",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1438",
+      "type": "transitionContainer",
+      "x": "34046",
+      "y": "192",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55180",
+          "inboxType": "wysiwygBox",
+          "content": "<p>- 2 -<\/p>\n<p><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Times; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-GB; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA;\" lang=\"EN-GB\">Provisioning services<\/span><\/p>\n<p><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1438",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1439",
+      "type": "classicContainer",
+      "x": "34463",
+      "y": "208",
+      "w": "494",
+      "h": "204",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55263",
+          "inboxType": "wysiwygBox",
+          "content": "<p>Provisioning services are the most well-known. Mankind gets supplies directly from nature, either for<\/p>\n<ul>\n<li><strong>food<\/strong> (hunting, fishing and gathering)<\/li>\n<li><strong>building and heating<\/strong> (wood)<\/li>\n<li><strong>generating energy<\/strong> (coal, oil, gas and biomass)<\/li>\n<li><strong>medical care<\/strong> (medicinal plants)<\/li>\n<\/ul>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1439",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1440",
+      "type": "classicContainer",
+      "x": "35126",
+      "y": "103",
+      "w": "732",
+      "h": "461",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55264",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><img style=\"float: left; padding: 0 15px 0 0;\" src=\"posters_medias\/poster31\/biodiversite-de-tomates%20-%20source%20GNIS.jpg\" height=\"374\" width=\"244\" \/><\/p>\n<p style=\"text-align: center;\"><span class=\"h1\">Food<\/span><\/p>\n<p style=\"text-align: justify;\"><strong>Diversity<\/strong> offers a <strong>greater ability to adapt<\/strong> to economic (dietary changes faced with price increases) and environmental disruptions (loss of species caused by expanding deserts). In this sense, biodiversity represents a &ldquo;<strong>safety net<\/strong>&rdquo; for food security.<\/p>\n<p style=\"text-align: justify;\">Many edible wild species can offer valuable provisioning services to mankind, particularly within the context of how we adapt to climate change.<\/p>\n<p style=\"text-align: justify;\">In fact, certain varieties currently grown will not adapt to new environmental conditions and it could be useful to replace them with other species hitherto uncultivated.<\/p>\n<p style=\"text-align: justify;\"><em>cf. Post-R Food Security<br \/><\/em><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1440",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1441",
+      "type": "classicContainer",
+      "x": "36013",
+      "y": "13",
+      "w": "308",
+      "h": "445",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55336",
+          "inboxType": "wysiwygBox",
+          "content": "<p><img src=\"posters_medias\/poster31\/DATAviz-Biodiversite-ENGLISH-10_1.png\" height=\"898\" width=\"815\" \/><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1441",
+          "new": "true"
+        },
+        {
+          "id": "55337",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>FAO, 2004<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1441",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1442",
+      "type": "accordeonContainer",
+      "x": "36719",
+      "y": "0",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55071",
+          "inboxType": "editableText",
+          "content": "EN SAVOIR PLUS",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1442",
+          "new": ""
+        },
+        {
+          "id": "55072",
+          "inboxType": "wysiwygBox",
+          "content": "<p><strong><span style=\"text-decoration: underline;\">Semences : les gardiens de la biodiversit&eacute;<\/span><\/strong><\/p>\n<p style=\"text-align: justify;\">L&rsquo;agriculture mondiale d&eacute;pend essentiellement aujourd&rsquo;hui de cinq multinationales de l&rsquo;agrochimie, qui s'enrichissent en obligeant les paysans &agrave; utiliser les semences qu'elles ont s&eacute;lectionn&eacute;es. Ce documentaire raconte le combat de petits exploitants, chercheurs et citoyens europ&eacute;ens qui se mobilisent contre ce monopole et luttent pour pr&eacute;server la biodiversit&eacute;.<\/p>\n<p><iframe src=\"https:\/\/www.youtube.com\/embed\/-pyawX_ouwo\" width=\"854\" height=\"510\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"><\/iframe><\/p>\n<p><\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1442",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1443",
+      "type": "transitionContainer",
+      "x": "36970",
+      "y": "136",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55184",
+          "inboxType": "wysiwygBox",
+          "content": "<p>- 3 -<\/p>\n<p><strong> <span style=\"font-size: 10pt; font-family: Times;\" lang=\"EN-GB\">Regulating services<\/span> <\/strong><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1443",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1444",
+      "type": "classicContainer",
+      "x": "37417",
+      "y": "129",
+      "w": "500",
+      "h": "324",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "59376",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: justify;\"><img src=\"posters_medias\/poster31\/Mokrady_Srby_2%20zone%20humide%20r%C3%A9gulation.jpg\" style=\"float: left; margin: 0px 10px 0px 0px;\" height=\"244\" width=\"177\" \/><\/p>\n<p style=\"text-align: justify;\">We benefit from several regulating services, such as the regulation of the climate, water and certain human diseases.<\/p>\n<p style=\"text-align: justify;\">For example, wetlands play the role of natural &ldquo;purification plants&rdquo;, groundwater recharges and carbon sinks.<\/p>\n<br \/>\n<p><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1444",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1445",
+      "type": "classicContainer",
+      "x": "38026",
+      "y": "103",
+      "w": "584",
+      "h": "393",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55332",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">Pollination<\/span><\/p>\n<p style=\"text-align: justify;\"><img style=\"float: left;\" src=\"posters_medias\/poster31\/DATAviz-Biodiversite-ENGLISH_Plan%20de%20travail%2014_1.png\" height=\"305\" width=\"277\" \/>Natural pollinators are a key link in our food chain. Over <strong>85% of plant species<\/strong> on Earth, many of which form the basis of our diets, require pollinators. Just for the main crops we eat, the value of insect <strong>pollination<\/strong> (especially bees) was estimated at &euro;153 billion in 2005.<\/p>\n<p style=\"text-align: justify;\"><em>cf. post-R Food Security<br \/><\/em><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1445",
+          "new": "true"
+        },
+        {
+          "id": "55333",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>INRA ; CNRS, 2008<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1445",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1446",
+      "type": "transitionContainer",
+      "x": "38938",
+      "y": "208",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55185",
+          "inboxType": "wysiwygBox",
+          "content": "<p>- 4 -&nbsp;<\/p>\n<p>Cultural services<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1446",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1447",
+      "type": "classicContainer",
+      "x": "39328",
+      "y": "28",
+      "w": "509",
+      "h": "346",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55269",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: right;\"><img src=\"posters_medias\/poster31\/Monet_Umbrella.jpg\" style=\"float: left; margin: 0px 10px 0px 0px;\" height=\"283\" width=\"213\" \/><\/p>\n<p style=\"text-align: justify;\"><\/p>\n<p style=\"text-align: justify;\">The <strong>cultural services<\/strong> of ecosystems include intangible benefits, spiritual enrichment, recreational enjoyment, aesthetic values, as well as the educational interest offered by nature.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1447",
+          "new": "true"
+        },
+        {
+          "id": "55270",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>Image : La Promenade, 1875, par Claude Monet&nbsp;<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1447",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1448",
+      "type": "transitionContainer",
+      "x": "40065",
+      "y": "98",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "57952",
+          "inboxType": "wysiwygBox",
+          "content": "<p>- 5 -&nbsp;<\/p>\n<p>Supporting services<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1448",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1449",
+      "type": "classicContainer",
+      "x": "40524",
+      "y": "107",
+      "w": "560",
+      "h": "329",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55275",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: justify;\"><img src=\"posters_medias\/poster31\/feuille-et-foret-900.jpg\" style=\"float: left; margin: 0px 10px 0px 0px;\" height=\"187\" width=\"257\" \/><\/p>\n<p style=\"text-align: justify;\"><strong>Supporting services<\/strong> are needed to produce all the other services provided by ecosystems. They include biomass production, the production of atmospheric oxygen, the formation and retention of soils, the nutrient cycle, the water cycle and the range of habitats offered.<\/p>\n<p style=\"text-align: justify;\">They differ from the other 3 categories because they have an indirect impact on mankind. For example, the decomposition of organic matter contributes to soil fertility.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1449",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1450",
+      "type": "accordeonContainer",
+      "x": "41392",
+      "y": "0",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55082",
+          "inboxType": "editableText",
+          "content": "EN SAVOIR PLUS",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1450",
+          "new": ""
+        },
+        {
+          "id": "55083",
+          "inboxType": "wysiwygBox",
+          "content": "<p><strong><span style=\"text-decoration: underline;\">1 -&nbsp;L'importance des mangroves (1 min 59)<\/span><\/strong><\/p>\n<p><strong><span style=\"text-decoration: underline;\"><iframe src=\"https:\/\/www.youtube.com\/embed\/BHzTDZrI4cU\" width=\"854\" height=\"510\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"><\/iframe><\/span><\/strong><\/p>\n<p><strong><span style=\"text-decoration: underline;\">2 - Exemple de service de r&eacute;gulation : les abeilles (3 min 42)<\/span><\/strong><\/p>\n<p><strong><span style=\"text-decoration: underline;\"><iframe src=\"https:\/\/www.youtube.com\/embed\/4dVs95LwVVg\" width=\"854\" height=\"510\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"><\/iframe><\/span><\/strong><\/p>\n<p>L'entreprise WholeFoods a essay&eacute; d'imaginer ce &agrave; quoi ressembleraient les rayons de nos supermarch&eacute;s si les abeilles disparaissaient.<\/p>\n<p><img src=\"posters_medias\/poster31\/Abeilles%20avec%20sans%20nourriture.jpg\" alt=\"\" height=\"2700\" width=\"2018\" \/><\/p>\n<p><span style=\"text-decoration: underline;\"><strong>3 - Un monde sans abeilles ? (2 min 21)<\/strong><\/span><\/p>\n<p style=\"text-align: justify;\">Greenpeace imagine avec cette vid&eacute;o un futur que nous ne voulons pas. Un futur o&ugrave; les abeilles et la biodiversit&eacute; qu'elles contribuent &agrave; maintenir ont perdu, tu&eacute;es notamment par une agriculture industrielle chimiquement intensive.<\/p>\n<p><iframe src=\"https:\/\/www.youtube.com\/embed\/CGTNjPow3LM\" width=\"854\" height=\"510\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"><\/iframe><\/p>\n<p><strong><span style=\"text-decoration: underline;\">4 - Pourquoi la biodiversit&eacute; est si importante ?<\/span><\/strong><\/p>\n<p style=\"text-align: justify;\">Les divers &eacute;cosyst&egrave;mes de notre plan&egrave;te peuvent sembler permanents et invuln&eacute;rables, mais il sont en fait vuln&eacute;rables et menac&eacute;s de s'effondrer. Les jungles peuvent devenir des d&eacute;serts, les r&eacute;cifs de coraux peuvent devenir des rochers sans vie. Quels sont les crit&egrave;res qui rendent un &eacute;cosyst&egrave;me fort ou faible face au changement ? Dans cette vid&eacute;o, Kim Preshoff explique pourquoi la r&eacute;ponse, de fa&ccedil;on g&eacute;n&eacute;rale, s'appelle biodiversit&eacute;.<\/p>\n<p><strong><span style=\"text-decoration: underline;\"><iframe src=\"https:\/\/www.youtube.com\/embed\/GK_vRtHJZu4\" width=\"640\" height=\"390\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"><\/iframe><\/span><\/strong><\/p>\n<p><strong><span style=\"text-decoration: underline;\">5 - Biodiversit&eacute; et s&eacute;curit&eacute; alimentaire<\/span><\/strong><\/p>\n<p style=\"text-align: justify;\">En 1970, le virus du nanisme tue toutes les cultures de riz en Inde. Il a fallu tester plus de 6000 esp&egrave;ces diff&eacute;rentes de riz pour en trouver une qui soit r&eacute;sistante &agrave; ce virus. Cette esp&egrave;ce,&nbsp; presque totalement disparue, &eacute;tait encore cultiv&eacute;e dans une vall&eacute;e isol&eacute;e de l'Himalaya. On a ainsi pu &eacute;viter le sc&eacute;nario qui a eu lieu en Irlande pendant la Grande Famine : &agrave; la suite d'une &eacute;pid&eacute;mie de mildiou qui a touch&eacute; l'esp&egrave;ce de pomme de terre quasi exclusivement cultiv&eacute;e &agrave; l'&eacute;poque, 1 million d'irlandais environ sont morts entre 1846 et 1851.<\/p>\n<p><img src=\"posters_medias\/poster2\/riz%20inde.jpg\" alt=\"\" height=\"427\" width=\"640\" \/><\/p>\n<p style=\"text-align: justify;\">Or, l'agriculture intensive encourage aujourd'hui une hypers&eacute;lection d'esp&egrave;ces \"championnes\" tr&egrave;s productives en termes de rendement agricole. Pour cette raison, la diversit&eacute; des vari&eacute;t&eacute;s cultiv&eacute;es diminue et fragilise notre s&eacute;curit&eacute; alimentaire. Le sch&eacute;ma ci-dessous montre l'appauvrissement de la diversit&eacute; des vari&eacute;t&eacute;s de l&eacute;gumes aux Etats-Unis entre 1903 et 1983.<\/p>\n<p><img src=\"posters_medias\/poster2\/food-variety-tree-754.gif\" alt=\"\" height=\"735\" width=\"754\" \/><\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1450",
+          "new": ""
+        },
+        {
+          "id": "55084",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>Photos : Whole Foods ; Danielle \/ THESCA&nbsp;<\/p>",
+          "contentIco": "",
+          "order_num": "2",
+          "mainbox_id": "1450",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1451",
+      "type": "classicContainer",
+      "x": "41762",
+      "y": "103",
+      "w": "569",
+      "h": "431",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55265",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">The multi-services of the mangrove<\/span><\/p>\n<p>The mangroves in Indonesia or elsewhere in the world provide many <strong>ecosystem services<\/strong> to mankind:&nbsp;<\/p>\n<ul>\n<li>Breeding grounds for fish<\/li>\n<li>Water sanitation<\/li>\n<li>Provision of nutrients needed for the surrounding wildlife<\/li>\n<li>Pastures for livestock<\/li>\n<li>Serving as natural dams<\/li>\n<li>Supply of wood<\/li>\n<\/ul>\n<p style=\"text-align: justify;\">In areas where mangroves were still in good health during the Tsunami of 2004, the devastating effects were very significantly reduced.<\/p>\n<p style=\"text-align: justify;\">In order to evaluate the mangroves&rsquo; capacity to remove pollution, researchers have converted a plot of land in Malamani, Mayotte, which receives household waste water via a network of pipes. We are awaiting the results...<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1451",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1452",
+      "type": "titrechapitreContainer",
+      "x": "42714",
+      "y": "42",
+      "w": "551",
+      "h": "148",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55195",
+          "inboxType": "wysiwygBox",
+          "content": "<p>Chapter 4<\/p>\n<p>New developments : what challenges are there for a better future ?<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1452",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1453",
+      "type": "classicContainer",
+      "x": "43440",
+      "y": "-1",
+      "w": "728",
+      "h": "341",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55273",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">Mankind and nature, the nature of mankind<\/span><\/p>\n<p style=\"text-align: left;\"><img src=\"posters_medias\/poster2\/nature-portrait-surimpression2%20-%20christophe%20relander.jpg\" alt=\"\" style=\"display: block; margin: 0px 10px 0px 0px; float: left;\" height=\"241\" width=\"274\" \/><\/p>\n<p style=\"text-align: justify;\">Since the discovery of fire, mankind&rsquo;s history has been linked to a string of <strong>innovations<\/strong> which have created the illusion of our emancipation from the natural flows and services that a healthy <strong>biosphere<\/strong> can provide. One innovation leads to several others: from hunter-gatherers, during the Neolithic Revolution we became not just farmers and livestock breeders, but also city dwellers, soldiers, labourers, priests, etc.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1453",
+          "new": "true"
+        },
+        {
+          "id": "55274",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>Photo :&nbsp;Christoffer Relander<span><\/span><\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1453",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1454",
+      "type": "classicContainer",
+      "x": "44322",
+      "y": "103",
+      "w": "816",
+      "h": "423",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55281",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">Prolific mankind<\/span><\/p>\n<p><strong><span style=\"text-decoration: underline;\"><img style=\"display: block; margin: 0px 0px 0px 10px; float: right;\" src=\"posters_medias\/poster2\/jardin_eden.jpg\" alt=\"\" height=\"303\" width=\"385\" \/><\/span><\/strong><\/p>\n<p style=\"text-align: justify;\">Mankind gave birth to an incredible variety of ways to <strong>explain the world<\/strong> and to relate to the mysteries of life through religion, philosophy, science and the arts. All kinds of innovations have been facilitated by a remarkable <strong>stability in the climate and biosphere over the last 10,000 years<\/strong> (the Holocene). During this period, human beings have undoubtedly achieved great success, populating the whole Earth and seeing our population increase from 5 million people at the beginning of the Holocene period to over <strong>7 billion<\/strong> individuals today.<\/p>\n<p style=\"text-align: justify;\"><em>cf. Post-R D&eacute;mography<\/em><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1454",
+          "new": "true"
+        },
+        {
+          "id": "55282",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>Image&nbsp;:&nbsp;<span>Pete Wenzel <\/span><\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1454",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1455",
+      "type": "classicContainer",
+      "x": "45289",
+      "y": "-1",
+      "w": "777",
+      "h": "445",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55279",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">An energy revolution<\/span><\/p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin: 0px 0px 0px 10px; float: right;\" src=\"posters_medias\/poster2\/WWF%20-%20Tarzan.jpg\" alt=\"\" height=\"206\" width=\"300\" \/><\/p>\n<p style=\"text-align: justify;\">Towards the 1800s, this process of disconnection from natural flows culminated in the first industrial revolution and the discovery of coal, a cheap source of energy&nbsp;far more efficient than man or animal power, while during the second industrial revolution, hydrocarbons and electricity were also discovered.<\/p>\n<p style=\"text-align: justify;\">Without hydrocarbons, intensive farming and industrial chemistry would have been impossible. <strong>This energy superpower has increased our capacity for action on the natural world<\/strong>: we are cutting down forests much faster with a bulldozer and chainsaws than with horses and axes, we are exploiting mines and fish resources much faster, etc.<\/p>\n<p><em>cf. Post-R Energy<\/em><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1455",
+          "new": "true"
+        },
+        {
+          "id": "55280",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>Photo : WWF<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1455",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1456",
+      "type": "classicContainer",
+      "x": "46328",
+      "y": "103",
+      "w": "629",
+      "h": "427",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55334",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">We are leaving our chemical footprint.<\/span><\/p>\n<p><img style=\"float: left;\" src=\"posters_medias\/poster31\/DATAviz-Biodiversite-ENGLISH-11_1.png\" height=\"328\" width=\"258\" \/><\/p>\n<p style=\"text-align: justify;\">Many chemical elements that do not occur naturally have been circulated in the atmosphere, the water cycle and, of course, in the whole biosphere. They often have <strong>disastrous health consequences.<\/strong><\/p>\n<p style=\"text-align: justify;\">We are an extremely young species which must now go through a phase of maturity. It is precisely the <strong>6th mass extinction of species<\/strong> and climate change that are helping us to realise this.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1456",
+          "new": "true"
+        },
+        {
+          "id": "55335",
+          "inboxType": "mediaSourceBox",
+          "content": "<p>Commission Europ&eacute;enne, 2007<\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1456",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1457",
+      "type": "questionContainer",
+      "x": "47232",
+      "y": "40",
+      "w": "450",
+      "h": "100",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55202",
+          "inboxType": "wysiwygBox",
+          "content": "<p>Life on Earth will bounce back, it is the survival of the human race that is at stake.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1457",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1458",
+      "type": "classicContainer",
+      "x": "47891",
+      "y": "33",
+      "w": "824",
+      "h": "424",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55290",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">Putting mankind back in nature?<\/span><\/p>\n<p style=\"text-align: justify;\"><strong><span style=\"text-decoration: underline;\"><img src=\"posters_medias\/poster2\/homme%20nature.gif\" alt=\"\" style=\"display: block; margin: 0px 0px 0px 10px; float: right;\" height=\"231\" width=\"370\" \/><\/span><\/strong><\/p>\n<p style=\"text-align: justify;\">For this extraordinary conscious being known as Homo Sapiens to deserve its name, it would be wise to redefine our place in the world, taking into account what scientists are teaching us about biodiversity: we are part of the same living network, which can be compared to a fabric.&nbsp; However, by cutting the threads of this fabric (loss of species), the weave of this canvas is affected and could then be torn apart. So the whole canvas of life would collapse with it.<\/p>\n<p style=\"text-align: justify;\">However, this <strong>interdependence<\/strong> should not be feared but rather celebrated. This realisation should encourage us to finally invent technologies in line with our planet&rsquo;s major biological and geo-chemical cycles. One of the crucial challenges is to disconnect the creation of wealth from the consumption of limited resources, whether they are mining or energy resources. We must get out of our linear economy and adopt a <strong>circular economy!<\/strong><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1458",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1459",
+      "type": "citationContainer",
+      "x": "48885",
+      "y": "181",
+      "w": "350",
+      "h": "149",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55187",
+          "inboxType": "wysiwygBox",
+          "content": "<p><\/p>\n<p><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Times;\" lang=\"EN-GB\">Quote <i style=\"mso-bidi-font-style: normal;\">If we follow Nature as our guide, we shall never go astray.<\/i>&nbsp; <\/span>Cic&eacute;ron<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1459",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1460",
+      "type": "titrechapitreContainer",
+      "x": "49658",
+      "y": "105",
+      "w": "425",
+      "h": "108",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55206",
+          "inboxType": "wysiwygBox",
+          "content": "<p>Chapter 5<\/p>\n<p>Which paths lead towards a desirable future ?<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1460",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1461",
+      "type": "classicContainer",
+      "x": "50372",
+      "y": "103",
+      "w": "711",
+      "h": "390",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55288",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">Drawing inspiration from life to innovate: Biomimicry<\/span><\/p>\n<p style=\"text-align: justify;\"><br \/><img style=\"float: left; padding: 0 15px 0 0;\" src=\"posters_medias\/poster31\/biomimetisme.jpg\" alt=\"\" height=\"122\" width=\"350\" \/>Many designers and R&amp;D services are studying biodiversity and how ecosystems work to find <strong>inspiration<\/strong>. This is the case for the circular economy, agroforestry, permaculture and green chemistry, which are friends to more and more traditional industries and services.<\/p>\n<p style=\"text-align: justify;\">Taking biodiversity as a reference model to resolve sustainability problems is known as &ldquo;<strong>biomimicry<\/strong>&rdquo;. This approach is centred on three levels: drawing inspiration from the shapes of organisms, from production processes and materials, and from how ecosystems work.&nbsp;<\/p>\n<p style=\"text-align: justify;\">It is a little like drawing inspiration from &ldquo;<strong>3.8 billion years of R&amp;D in sustainability<\/strong>&rdquo;, the age of life on Earth!<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1461",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1462",
+      "type": "classicContainer",
+      "x": "51242",
+      "y": "-1",
+      "w": "745",
+      "h": "439",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55291",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">From a linear economy to a circular economy:<\/span><\/p>\n<p style=\"text-align: justify;\"><img style=\"float: right; margin: 0px 0px 0px 10px;\" src=\"posters_medias\/poster31\/ecocirculaire-shemas.jpg\" alt=\"\" height=\"234\" width=\"369\" \/><\/p>\n<p style=\"text-align: justify;\">The main objective is to set up a restorative industry where material flows are treated differently depending on where they come from:<\/p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Organic<\/strong> materials (wood, fibres, etc) must return to nature (for example by composting).<\/li>\n<li style=\"text-align: justify;\"><strong>Technical<\/strong> materials must not be released into the environment, but on the contrary, they must be reused (through maintenance, repair, recycling, etc).<\/li>\n<\/ul>\n<p>Many businesses can see the economic and environmental potential, while industrial applications are also being studied, such as industrial ecology. The renowned navigator, Ellen MacArthur, has set up a foundation under her name to promote the <strong>circular economy.<\/strong><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1462",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1463",
+      "type": "classicContainer",
+      "x": "52207",
+      "y": "103",
+      "w": "462",
+      "h": "303",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55287",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: justify;\"><strong>Eco-design<\/strong> involves establishing specifications that comply with the principles of <strong>sustainable development.<\/strong> This approach integrates the entire life cycle of the product, from the use of raw materials to production, logistics, distribution, usage and the end of life of the product.<\/p>\n<p style=\"text-align: justify;\">This is known in English as <strong>Cradle to Cradle<\/strong>. The main method is called <strong>Life Cycle Assessment (LCA),<\/strong> although the process is still only just emerging, since in France in 2011, only 18% of industrial businesses said they were involved in eco-design.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1463",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1464",
+      "type": "accordeonContainer",
+      "x": "52997",
+      "y": "0",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55102",
+          "inboxType": "editableText",
+          "content": "EN SAVOIR PLUS",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1464",
+          "new": ""
+        },
+        {
+          "id": "55103",
+          "inboxType": "wysiwygBox",
+          "content": "<p><strong><span style=\"text-decoration: underline;\">1) Economie de fonctionnalit&eacute; et &eacute;conomie circulaire (3 min)<\/span><\/strong><\/p>\n<p><iframe src=\"https:\/\/www.youtube.com\/embed\/0myacaVe8Gg\" width=\"854\" height=\"510\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\" style=\"display: block; margin-left: auto; margin-right: auto;\"><\/iframe><\/p>\n<p>2) Le biomim&eacute;tisme (3')<\/p>\n<p><iframe src=\"\/\/www.youtube.com\/embed\/1UiBVbOcs8s\" width=\"624\" height=\"653\"><\/iframe><\/p>\n<p>3) TedX Tarik ChekChak \"Peut-on r&eacute;concilier technologies et vie ?\"<\/p>\n<p><iframe src=\"\/\/www.youtube.com\/embed\/8iSaupOTzN8\" width=\"648\" height=\"678\"><\/iframe><\/p>\n<p>4) Le CEEBIOS, Centre Europ&eacute;en d'Excellence en Biomim&eacute;tisme de Senlis.<\/p>\n<p><iframe src=\"\/\/www.youtube.com\/embed\/1UiBVbOcs8s\" width=\"656\" height=\"687\"><\/iframe><\/p>\n<p>6) The Story of Solutions (9 min)<\/p>\n<p><iframe src=\"\/\/www.youtube.com\/embed\/cpkRvc-sOKk\" width=\"620\" height=\"649\"><\/iframe><\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1464",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1465",
+      "type": "classicContainer",
+      "x": "53307",
+      "y": "103",
+      "w": "701",
+      "h": "410",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55289",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">Infrastructures for positive biodiversity!<\/span><\/p>\n<p style=\"text-align: justify;\"><img style=\"float: left; padding: 0 15px 0 0;\" src=\"posters_medias\/poster31\/91vrBzqgSveXxB03xgrG_patterns.jpg\" alt=\"\" height=\"248\" width=\"316\" \/><\/p>\n<p style=\"text-align: justify;\">As we have seen, one of the leading causes of biodiversity loss is the alteration of natural habitats by human infrastructures. Public policies have tackled this challenge, for example in France, with the obligation for regions to integrate wildlife corridors into their development plans, known as &ldquo;green belts&rdquo; for terrestrial environments and &ldquo;blue belts&rdquo; for aquatic environments. These belts help ensure what is known as &ldquo;ecological continuity&rdquo;, for example, between two forests which were once separated by a road.<\/p>\n<p style=\"text-align: justify;\">An increasing number of architects are also wondering <strong>how they can integrate biodiversity into building design.<\/strong><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1465",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1466",
+      "type": "classicContainer",
+      "x": "54302",
+      "y": "85",
+      "w": "581",
+      "h": "309",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55267",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">Connecting to renewable energies<\/span><\/p>\n<p style=\"text-align: justify;\">The current use of <strong>solar energy is paradoxical<\/strong> since it is an alternative to fossil fuels but the production of solar panels <strong>is energy-intensive<\/strong> (grey energy) and, as technology currently stands, they require rare earths.<\/p>\n<p style=\"text-align: justify;\">Research teams are currently exploring a potential new generation of solar panels, drawing inspiration from plant photosynthesis. These future technologies based on <strong>biomimicry<\/strong> would bring ground-breaking innovations since they would be supported by non-toxic gels that could be easily integrated into paints, glass, etc.<\/p>\n<p style=\"text-align: justify;\"><em>cf. Post-R Energy and Metals<br \/><\/em><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1466",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1467",
+      "type": "classicContainer",
+      "x": "55154",
+      "y": "103",
+      "w": "604",
+      "h": "375",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55285",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">Farming as a forest or a meadow!<\/span><\/p>\n<p style=\"text-align: justify;\">The intensive farming model is starting to be called into question. On the one hand, this is because it heavily <strong>depends on hydrocarbons and chemicals<\/strong>, and on the other hand, because it contributes significantly to <strong>the loss of biodiversity.<\/strong> Nevertheless, it is essential to properly feed our population of 7 billion people, and soon to be 10 billion.<\/p>\n<p style=\"text-align: justify;\">More environmentally-friendly organic farming is being developed to an ever greater extent, but it is often just a niche market.<\/p>\n<p style=\"text-align: justify;\">Paths are open around <strong>&ldquo;ecologically intensive agriculture<\/strong>&rdquo;, which would be easier to scale up, including in countries of the South.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1467",
+          "new": "true"
+        },
+        {
+          "id": "55286",
+          "inboxType": "wysiwygBox",
+          "content": "<p><em>cf. Post-R Food Security<br \/><\/em><\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1467",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1468",
+      "type": "classicContainer",
+      "x": "55941",
+      "y": "45",
+      "w": "813",
+      "h": "359",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55292",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">Protected areas: when nature repairs itself and restores its abundance!<\/span><\/p>\n<p style=\"text-align: justify;\"><img style=\"float: left; padding: 0 15px 0 0;\" src=\"posters_medias\/poster31\/Biodiv5.jpg\" height=\"268\" width=\"384\" \/><\/p>\n<p style=\"text-align: justify;\">Yellowstone, the first modern park established in the Rocky Mountains in the United States in 1872, became a reference model for the rest of the world. These protected areas have become the main conservation mechanism in the world. Since then, different types of national parks or reserves have been created, more or less integrating economic activities.<\/p>\n<p style=\"text-align: justify;\">This shows that as long as major ecological schisms have not been breached, once natural systems have been preserved, they often have a good capacity to repair themselves.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1468",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1469",
+      "type": "accordeonContainer",
+      "x": "57124",
+      "y": "0",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55109",
+          "inboxType": "editableText",
+          "content": "EN SAVOIR PLUS",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1469",
+          "new": ""
+        },
+        {
+          "id": "55110",
+          "inboxType": "wysiwygBox",
+          "content": "<p><strong><span style=\"text-decoration: underline;\">L'ing&eacute;nierie &eacute;cologique : quand la nature sauve la nature<\/span><\/strong><\/p>\n<p>Le principe de l'ing&eacute;nierie &eacute;cologique ? Utiliser la nature pour r&eacute;parer les d&eacute;g&acirc;ts caus&eacute;s par l'Homme. Ainsi, ce sont certaines esp&egrave;ces animales locales comme les vers, les foumis, les coccinelles, qui vont par leur action restaurer l'harmonie d'une partie de l'&eacute;cosyst&egrave;me, comme par exemple les sols. Prenons l'exemple de la fourmi.<\/p>\n<p><img src=\"posters_medias\/poster31\/fourmi.jpg\" alt=\"\" height=\"391\" width=\"619\" \/><\/p>\n<p>En France, au cours de l'&eacute;t&eacute; 2009, un ol&eacute;oduc s'est rompu et a laiss&eacute; se d&eacute;verser 4500 m3 de p&eacute;trole dans la pleine du Crau, un paysage d&eacute;sertique exceptionnel. Il s'agissait d'un d&eacute;sastre &eacute;cologique, et la terre semblait d&eacute;finitivement condamn&eacute;e. Jusqu'&agrave; ce que scientifiques envisagent de faire intervenir...des fourmis. Ce sont des fourmis dites \"moisonneuses\" qui ont &eacute;t&eacute; choisies. En transportant sur leur dos les graines dont elles se nourrissent, elles en perdent une infime quantit&eacute; qui vient ressemer le sol et qui permet de retrouver la v&eacute;g&eacute;tation d'origine. Cette exp&eacute;rience in&eacute;dite a &eacute;t&eacute; un succ&egrave;s.<\/p>\n<p><iframe src=\"\/\/www.dailymotion.com\/embed\/video\/x2r22oz\" width=\"626\" height=\"652\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"><\/iframe><\/p>\n<p>2) Un exemple de ferme en permaculture<\/p>\n<p><iframe src=\"\/\/www.youtube.com\/embed\/LRQ8MCz6u6M\" width=\"617\" height=\"646\"><\/iframe><\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1469",
+          "new": ""
+        },
+        {
+          "id": "55111",
+          "inboxType": "mediaSourceBox",
+          "content": "<p><span>Photo : Future Mag &ndash; Production Le Monde et Arte \/ Universcience<\/span><\/p>",
+          "contentIco": "",
+          "order_num": "2",
+          "mainbox_id": "1469",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1470",
+      "type": "classicContainer",
+      "x": "57398",
+      "y": "69",
+      "w": "556",
+      "h": "354",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55215",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">Heading towards green chemistry!<\/span><\/p>\n<p style=\"text-align: justify;\">Over the last 50 years, between 70,000 and 100,000 new chemical elements have been released into our environment and some years have seen up to 1500 new elements per year!<\/p>\n<p style=\"text-align: justify;\">More recently, the chemical industry has begun to develop a radically different approach. It relies on resource and energy-efficient chemical innovations which, above all, have very few persistent side effects on the environment. Thus green chemistry was born! The concept was introduced in 1988 by 3 American chemists and is based on 12 principles which, if followed, give the best chance of reducing the chemical footprint on the environment. This approach to chemistry is not currently dominating the market, but it clearly has the wind behind its sails!<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1470",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1471",
+      "type": "classicContainer",
+      "x": "58161",
+      "y": "103",
+      "w": "677",
+      "h": "459",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55268",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">Use what is abundant and available!<\/span><\/p>\n<p style=\"text-align: justify;\">Up until now, our industries have had a tendency to <strong>prioritise technological efficiency and short-term profitability<\/strong> in their choice of materials, with very poor analysis of the whole product life cycle. Whether for minerals or energy sources, we are doing the exact opposite of what nature is doing: we are essentially basing our strategies on rare elements found in limited quantities!<\/p>\n<p style=\"text-align: justify;\">Living organisms integrate rare elements into their structures but only in the form of minute traces and the vast majority come from what is abundant and readily available. For example, the chemistry of life is dominated by carbon, oxygen, nitrogen and phosphorus atoms.<\/p>\n<p style=\"text-align: justify;\">Green building is about rediscovering the possibilities of building with wood, raw earth and straw. In the field of energy, a new generation of energy sources is being sourced locally, whether through biomass, wind or micro-hydro. Even in everyday objects, beyond finding new and different uses for objects, eco-design is being developed which uses biodegradable even compostable materials.<\/p>\n<p style=\"text-align: justify;\"><em> cf. post-R M&eacute;tals and Energy<br \/><\/em><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1471",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1472",
+      "type": "classicContainer",
+      "x": "58986",
+      "y": "37",
+      "w": "518",
+      "h": "422",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55218",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">Towards management by large ecosystems?<\/span><\/p>\n<p>Ecosystem Based Management attempts to escape from the highly sectoral, silo mentality. It seeks to take into account the coherency of large ecological communities and the need to preserve how they work.<\/p>\n<p>The conflicts caused by increased pressure on natural resources, such as fisheries or pastures, have led to this approach being taken into account a little more by public policies. However, it is impeded by one big problem: it requires major cooperation among agencies in the same country, and sometimes between countries for cross-border ecosystems.<\/p>\n<br \/>\n<p style=\"text-align: justify;\"><em>cf. Post-R Governance<\/em><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1472",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1473",
+      "type": "classicContainer",
+      "x": "59716",
+      "y": "113",
+      "w": "665",
+      "h": "395",
+      "anchorPos": "top",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55293",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: justify;\"><span class=\"h1\">The emergence of an economy that integrates humans AND biodiversity!<\/span><\/p>\n<p style=\"text-align: justify;\">Putting an <strong>economic value on ecosystem services<\/strong> is seen as a possible way to break the ice in reconciling economic development and biodiversity preservation. The basic idea is to include biodiversity in business and country accounts and to make previously unseen biodiversity economically visible.<\/p>\n<p style=\"text-align: justify;\">In 2007, an international network of economic experts working with biodiversity specialists launched an initiative entitled &ldquo;The Economics of Ecosystems and Biodiversity&rdquo; (TEEB). Its main objective is to recommend financial assessments of the impacts on biodiversity and therefore to create a solid basis for the economic assessment of this &ldquo;natural capital&rdquo;.<\/p>\n<p style=\"text-align: justify;\">According to one of their main estimates, by investing US$45 billion in protected areas, the return on investment would be US$5 billion per year in preserved ecosystem services.<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1473",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1474",
+      "type": "controverseContainer",
+      "x": "60582",
+      "y": "204",
+      "w": "569",
+      "h": "255",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55221",
+          "inboxType": "editableText",
+          "content": "Do we have to put a figure on and monetise the value of life and the services provided by ecosystems?",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1474",
+          "new": "true"
+        },
+        {
+          "id": "55222",
+          "inboxType": "wysiwygBox",
+          "content": "",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1474",
+          "new": "true"
+        },
+        {
+          "id": "55223",
+          "inboxType": "wysiwygBox",
+          "content": "<p><strong>Non.<\/strong><\/p>\n<ul>\n<li>Les difficult&eacute;s de certains dispositifs comme la finance carbone n'encouragent pas &agrave; transposer ce syst&egrave;me &agrave; la biodiversit&eacute;.&nbsp;<\/li>\n<\/ul>\n<ul>\n<li>La financiarisation de la biodiversit&eacute; pourrait s'accompagner d'effets pervers.<\/li>\n<\/ul>\n<ul>\n<li>Mettre un prix sur le vivant ne peux pas &ecirc;tre une finalit&eacute; en soi.<\/li>\n<\/ul>",
+          "contentIco": "",
+          "order_num": "2",
+          "mainbox_id": "1474",
+          "new": "true"
+        },
+        {
+          "id": "55225",
+          "inboxType": "wysiwygBox",
+          "content": "<p><strong>Oui.<\/strong><\/p>\n<ul>\n<li>L'&eacute;conomie aujourd'hui mondialis&eacute;e fonctionne par le march&eacute;. De la m&ecirc;me fa&ccedil;on que les flux &eacute;conomiques et financiers transcendent les fronti&egrave;res, les&nbsp;&eacute;cosyst&egrave;mes et leur pr&eacute;servation doit &ecirc;tre pens&eacute;e de fa&ccedil;on globale.<\/li>\n<\/ul>\n<ul>\n<li>&nbsp;A d&eacute;faut d'&ecirc;tre une finalit&eacute;, cette financiarisation des services &eacute;cosyst&eacute;miques peut &ecirc;tre une premi&egrave;re &eacute;tape allant vers la pr&eacute;servation de la biodiversit&eacute;.<\/li>\n<\/ul>\n<ul>\n<li>Des pays comme le Br&eacute;sil et l'Australie envisagent tr&egrave;s s&eacute;rieusement cette solution.<\/li>\n<\/ul>",
+          "contentIco": "",
+          "order_num": "3",
+          "mainbox_id": "1474",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1475",
+      "type": "accordeonContainer",
+      "x": "61321",
+      "y": "0",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55120",
+          "inboxType": "editableText",
+          "content": "EN SAVOIR PLUS",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1475",
+          "new": ""
+        },
+        {
+          "id": "55121",
+          "inboxType": "wysiwygBox",
+          "content": "<p><strong><span style=\"text-decoration: underline;\">Biodiversit&eacute; menac&eacute;e : quelles solutions pour demain ?<\/span><\/strong><\/p>\n<p>Pour la premi&egrave;re fois dans l'histoire de l'humanit&eacute;, l'homme vit au quotidien un sc&eacute;nario catastrophe : celui de la disparition du monde naturel. Celui peut-&ecirc;tre, de sa propre fin. Et si nous allions trop loin ? Et si nous g&acirc;chions tout ? Ce documentaire&nbsp;r&eacute;alis&eacute; par Bernard Guerrini en 2010 et diffus&eacute; sur Arte nous donne &agrave; voir les solutions de demain pour pr&eacute;server cette biodiversit&eacute;, garantie de notre survie sur la plan&egrave;te.<\/p>\n<p><iframe src=\"https:\/\/www.youtube.com\/embed\/p-EsDgP0fYE\" width=\"854\" height=\"510\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"><\/iframe><\/p>",
+          "contentIco": "",
+          "order_num": "1",
+          "mainbox_id": "1475",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1476",
+      "type": "citationContainer",
+      "x": "61643",
+      "y": "68",
+      "w": "350",
+      "h": "389",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55220",
+          "inboxType": "wysiwygBox",
+          "content": "<p><i style=\"mso-bidi-font-style: normal;\"><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Times; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-GB; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA;\" lang=\"EN-GB\">Nature is not silent. Like some far-off orchestra, she continuously sends fragments of music and scattered notes. But she does not want to give us everything on a plate. The melody linking the fragments of music is missing. The common theme of the notes is hidden. It is up to us to unravel the secrets of this hidden melody so we can understand it in all its radiant beauty.<\/span><\/i><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: Times; mso-fareast-font-family: 'MS Mincho'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-GB; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA;\" lang=\"EN-GB\"> Trinh Xuan Thuan<\/span><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1476",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1477",
+      "type": "transitionContainer",
+      "x": "62278",
+      "y": "108",
+      "w": "-1",
+      "h": "-1",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "55123",
+          "inboxType": "wysiwygBox",
+          "content": "<p>La biodiversit&eacute; en 10 points<\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1477",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "id": "1478",
+      "type": "classicContainer",
+      "x": "62670",
+      "y": "-2",
+      "w": "1175",
+      "h": "461",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "57960",
+          "inboxType": "wysiwygBox",
+          "content": "<p style=\"text-align: center;\"><span class=\"h1\">3 major observations:<\/span><\/p>\n<ul style=\"text-align: center;\">\n<li>We are seeing a <strong>mass extinction of animal and plant species<\/strong> all over the world that is unprecedented since mankind first appeared on Earth.<\/li>\n<li>The causes behind this 6th mass extinction are all <strong>human<\/strong>: global warming, artificial soil, pollution, deforestation, etc.<\/li>\n<li>This is serious because ecosystems provide us with huge services at very low prices, and <strong>human life depends on the diversity and quality<\/strong> of its environment.<\/li>\n<\/ul>\n<p style=\"text-align: center;\"><span class=\"h1\">3 challenges for tomorrow:<\/span><\/p>\n<ul style=\"text-align: center;\">\n<li>Human pressure on the environment is <strong>expected to increase<\/strong>, taking into account demographic growth and the average increase in wealth around the world.<\/li>\n<li><strong>Global warming<\/strong> is expected to continue and have a greater impact on biodiversity.<\/li>\n<li>We must <strong>reconsider mankind&rsquo;s place within life<\/strong> and not outside of nature, so that Eco prevails over Ego.<\/li>\n<\/ul>\n<p style=\"text-align: center;\"><span class=\"h1\">3 reasons for optimism:<\/span><\/p>\n<ul style=\"text-align: center;\">\n<li style=\"text-align: center;\">There is growing <strong>awareness<\/strong> among different citizens and political (protected areas, habitats, etc) and economic stakeholders (biomimicry, eco-design, green chemistry, etc).<\/li>\n<li style=\"text-align: center;\">The creation of a <strong>world body<\/strong> to preserve biodiversity, in a similar vein to the IPCC for the climate.<\/li>\n<li style=\"text-align: center;\">The strength of ecosystems&rsquo; natural <strong>resilience<\/strong>.<\/li>\n<\/ul>\n<p style=\"text-align: center;\"><span class=\"h1\">How about you, what do you think?<\/span><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1478",
+          "new": "true"
+        }
+      ]
+    },
+    {
+      "id": "1479",
+      "type": "bioContainer",
+      "x": "63385",
+      "y": "0",
+      "w": "560",
+      "h": "600",
+      "anchorPos": "bottom",
+      "poster_id": "31",
+      "isInBoxList": [
+        {
+          "id": "59423",
+          "inboxType": "wysiwygBox",
+          "content": "<p>This Post-R was written by the Institute for Desirable Futures; we would also like to express our sincere thanks to Tarik Chekchak for his help. The views expressed in this document are solely those of the Institute for Desirable Futures.<\/p>\n<p><\/p>\n<p><img src=\"posters_medias\/poster31\/ExpertReferentTypo-EN-03_1.png\" alt=\"\" height=\"12776\" width=\"8125\" \/><\/p>\n<p><span class=\"h1\">TO GO FURTHER<br \/><\/span><\/p>\n<p><\/p>\n<p><\/p>\n<p><a href=\"http:\/\/www.naturalstep.org\/\">The Natural Step&nbsp;<\/a><\/p>\n<p><\/p>\n<p><a href=\"http:\/\/www.biomimicry.eu\/\">Biomimicry Europa<\/a>&nbsp;<\/p>\n<p><\/p>\n<p><a href=\"http:\/\/www.teebweb.org\/\">The Economics Of Ecosystems and Biodiversity<\/a>&nbsp;<\/p>\n<p><\/p>\n<p><a href=\"http:\/\/doc.teebweb.org\/wp-content\/uploads\/Study%20and%20Reports\/Reports\/Business%20and%20Enterprise\/Executive%20Summary\/Business%20Executive%20Summary_French.pdf\">L'&eacute;conomie des &eacute;cosyst&egrave;mes et de la biodiversit&eacute; - TEEB pour les entreprises, 2010<\/a><\/p>\n<p><\/p>\n<p><a href=\"http:\/\/www.unep.org\/unea\/docs\/RRAcrimecrisis.pdf\">The Environmental Crime Crisis, PNUE, 2014<\/a><\/p>\n<p><\/p>\n<p><a href=\"http:\/\/www.wwf.fr\/vous_informer\/rapports_pdf_a_telecharger\/planete_vivante\/?3420\/rapport-planete-vivante-2014\">WWF Rapport Plan&egrave;te Vivante 2014<\/a><\/p>\n<p>&nbsp;<\/p>\n<p><a href=\"http:\/\/www.iucnredlist.org\/amazing-species\">UICN Red List<\/a><\/p>\n<p><\/p>\n<p><a href=\"https:\/\/www.youtube.com\/watch?v=GK_vRtHJZu4\">Why is biodiversity so important? - Kim Preshoff - TEDed<\/a><\/p>\n<p><\/p>\n<p><a href=\"https:\/\/www.youtube.com\/watch?v=1F6JGk51_l0\">Biodiversit&eacute;, l'essentielle diff&eacute;rence #DATAGUEULE 24<\/a><\/p>\n<p><\/p>\n<p>Documentaires&nbsp;<\/p>\n<p><\/p>\n<p><a href=\"https:\/\/www.youtube.com\/watch?v=p-EsDgP0fYE\">La biodiversit&eacute; menac&eacute;e : quelles solutions pour demain ?<\/a><\/p>\n<p><\/p>\n<p><a href=\"https:\/www.youtube.com\/embed\/-pyawX_ouwo\">Semences : les gardiens de la biodiversit&eacute;&nbsp;<\/a><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p>&nbsp;<\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>\n<p><\/p>",
+          "contentIco": "",
+          "order_num": "0",
+          "mainbox_id": "1479",
+          "new": "true"
+        }
+      ]
+    }
+  ],
+  "metainfos": [
+    {
+      "ID": "31",
+      "NOM": "Biodiversity",
+      "SHORTSLUG": "biodiversity",
+      "PALETTE": "1",
+      "ICO": "",
+      "JSON": "",
+      "STATUS": "default",
+      "ORDER_NUM": "0",
+      "LANG": "en",
+      "TITRE_PARTAGE": "",
+      "TEXTE_PARTAGE": "",
+      "TEXTE_PARTAGE_TWITTER": "",
+      "IMG_PARTAGE": "",
+      "LOCKED": "0"
+    }
+  ]
+}
