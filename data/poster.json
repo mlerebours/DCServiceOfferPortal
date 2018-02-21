@@ -104,6 +104,7 @@
       "SUBTITLE": "Ready to define your business model, zoom out from your value proposition to ecosystem",
       "SHORTSLUG": "business",
       "PALETTE": "5",
+      "JSON": "",
       "ICO": "",
       "STATUS": "published",
       "ORDER_NUM": "5",
@@ -118,14 +119,15 @@
       "id": "6",
       "poster_fr_id": "6",
       "poster_en_id": "34",
-      "desc_fr": "Your Minimum Value Proposition orProduct is unique and we are ready to taylor made our facilitation around it. But to get your basic first prototype verey quicly, we are proposing to re-use experienced and efficient methodology such as <b>Landing page<\/b>, <b>App[M]aker by Nod-A<\/b>",
-      "desc_en": "Your Minimum Value Proposition orProduct is unique and we are ready to taylor made our facilitation around it. But to get your basic first prototype verey quicly, we are proposing to re-use experienced and efficient methodology such as <b>Landing page<\/b>, <b>App[M]aker by Nod-A<\/b>",
+      "desc_fr": "Objective to make things concrete by giving reality to your value proposition.<br>Your Minimum Value Proposition or Product is unique and we are ready to taylor made our facilitation around it. But to get your basic first prototype very quicly, we are proposing to re-use experienced and efficient methodology such as <b>Landing page<\/b>, <b>App[M]aker by Nod-A<\/b>.",
+      "desc_en": "Objective to make things concrete by giving reality to your value proposition.<br>Your Minimum Value Proposition or Product is unique and we are ready to taylor made our facilitation around it. But to get your basic first prototype very quicly, we are proposing to re-use experienced and efficient methodology such as <b>Landing page<\/b>, <b>App[M]aker by Nod-A<\/b>.",
       "home_params": "{\"label\":\"bottom\",\"center\":{\"left\":0.3,\"top\":0.2}}",
       "ID": "6",
       "NOM": "MVP",
-      "SUBTITLE": "You want to say \"hello world\",prototype for real!",
+      "SUBTITLE": "You want to say \"hello world\", prototype for real!",
       "SHORTSLUG": "mvp",
       "PALETTE": "6",
+      "JSON": "",
       "ICO": "",
       "STATUS": "published",
       "ORDER_NUM": "6",
@@ -411,8 +413,8 @@
     {
       "poster_id_1": "2",
       "poster_id_2": "11",
-      "weight": "0",
-      "description": ""
+      "weight": "1",
+      "description": "Check within innovation ecosystem about existing alternative"
     },
     {
       "poster_id_1": "2",
@@ -423,13 +425,19 @@
     {
       "poster_id_1": "2",
       "poster_id_2": "15",
-      "weight": "0",
-      "description": ""
+      "weight": "8",
+      "description": "Do not forget to do your big WHY before your WHAT"
     },
     {
       "poster_id_1": "2",
       "poster_id_2": "29",
-      "weight": "0",
+      "weight": "",
+      "description": ""
+    },
+   {
+      "poster_id_1": "3",
+      "poster_id_2": "2",
+      "weight": "8",
       "description": ""
     },
     {
@@ -591,58 +599,58 @@
     {
       "poster_id_1": "6",
       "poster_id_2": "7",
+      "weight": "5",
+      "description": "MVP is part of your story telling to convince Angels. Its own costs can require specif funding."
+    },
+    {
+      "poster_id_1": "6",
+      "poster_id_2": "8",
+      "weight": "4",
+      "description": "Take into account the 4Cs - customer, convenience, communication and cost, to build all MVP aspects"
+    },
+    {
+      "poster_id_1": "6",
+      "poster_id_2": "9",
+      "weight": "6",
+      "description": "MVP to identify and measures usages."
+    },
+    {
+      "poster_id_1": "6",
+      "poster_id_2": "10",
       "weight": "0",
       "description": ""
     },
     {
       "poster_id_1": "6",
+      "poster_id_2": "11",
+      "weight": "0",
+      "description": ""
+    },
+    {
+      "poster_id_1": "6",
+      "poster_id_2": "12",
+      "weight": "0",
+      "description": ""
+    },
+    {
+      "poster_id_1": "6",
+      "poster_id_2": "15",
+      "weight": "7",
+      "description": "MVP ahead from functionalities is also including the client journey."
+    },
+    {
+      "poster_id_1": "6",
+      "poster_id_2": "29",
+      "weight": "5",
+      "description": "Test to build MVP and use MVP to test, learn lessons and iterate."
+    },
+    {
+      "poster_id_1": "7",
       "poster_id_2": "8",
       "weight": "0",
       "description": ""
     },
     {
-      "poster_id_1": "6",
-      "poster_id_2": "9",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "6",
-      "poster_id_2": "10",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "6",
-      "poster_id_2": "11",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "6",
-      "poster_id_2": "12",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "6",
-      "poster_id_2": "15",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "6",
-      "poster_id_2": "29",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "7",
-      "poster_id_2": "8",
-      "weight": "0",
-      "description": ""
-    },
-    {
       "poster_id_1": "7",
       "poster_id_2": "9",
       "weight": "0",
@@ -675,8 +683,8 @@
     {
       "poster_id_1": "7",
       "poster_id_2": "29",
-      "weight": "0",
-      "description": ""
+      "weight": "5",
+      "description": "Come with testing proof to convince."
     },
     {
       "poster_id_1": "8",
@@ -711,8 +719,8 @@
     {
       "poster_id_1": "8",
       "poster_id_2": "29",
-      "weight": "0",
-      "description": ""
+      "weight": "5",
+      "description": "Experience your mix marketing to fine-tune it."
     },
     {
       "poster_id_1": "9",
@@ -741,8 +749,8 @@
     {
       "poster_id_1": "9",
       "poster_id_2": "29",
-      "weight": "0",
-      "description": ""
+      "weight": "5",
+      "description": "Keep learning at each stage and find the good measures."
     },
     {
       "poster_id_1": "10",
@@ -837,8 +845,8 @@
     {
       "poster_id_1": "15",
       "poster_id_2": "29",
-      "weight": "0",
-      "description": ""
+      "weight": "5",
+      "description": "All assumptions to be tested, especially these about client needs"
     },
     {
       "poster_id_1": "15",
@@ -981,8 +989,8 @@
     {
       "poster_id_1": "31",
       "poster_id_2": "23",
-      "weight": "0",
-      "description": ""
+      "weight": "2",
+      "description": "Get inspired by innovation Ecosystem"
     },
     {
       "poster_id_1": "31",
