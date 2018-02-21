@@ -1829,7 +1829,7 @@ body {
 
 #Home #Tree .tree_node {
     position: absolute;
-    background-image: url(../img/home/sprite-icons-themes@2x.png);
+    background-image: url(../img/home/pictos_posters.png);
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: 960px 160px;
@@ -1865,11 +1865,11 @@ body {
 }
 
 #Home #Tree .tree_node .tree_node_label.top {
-    bottom: 78px
+    bottom: 84px
 }
 
 #Home #Tree .tree_node .tree_node_label.bottom {
-    top: 78px
+    top: 84px
 }
 
 
@@ -2269,6 +2269,13 @@ body {
 
 #Home #Disclaimer .disclaimer_theme .postr_title .green {
     color: #8EC449
+}
+
+#Home #Disclaimer .disclaimer_content_subtitle {
+    font-size: 18px;
+    line-height: 20px;
+    font-family: fira_sans_otregular;
+    font-style: oblique;
 }
 
 #Home #Disclaimer .disclaimer_content_text {
