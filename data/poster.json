@@ -99,7 +99,7 @@
       "desc_fr": "Draw your <b>Environment Map<\/b> to undersand the environment in which you create. Build your <b>Canvas<\/b>, case by case to find the appropriate business model(s). We help you assess business model(s) with a questionning approach inspired by <b>Strategyzer<\/b>.",
       "desc_en": "Draw your <b>Environment Map<\/b> to undersand the environment in which you create. Build your <b>Canvas<\/b>, case by case to find the appropriate business model(s). We help you assess business model(s) with a questionning approach inspired by <b>Strategyzer<\/b>.",
       "home_params": "{\"label\":\"bottom\",\"center\":{\"left\":0.25,\"top\":0.25}}",
-      "ID": "",
+      "ID": "5",
       "NOM": "Business Model",
       "SUBTITLE": "Ready to define your business model, zoom out from your value proposition to ecosystem",
       "SHORTSLUG": "business",
@@ -545,32 +545,32 @@
     {
       "poster_id_1": "5",
       "poster_id_2": "6",
-      "weight": "0",
-      "description": ""
+      "weight": "4",
+      "description": "MVP gives a flavor of implementation complexity and cost."
     },
     {
       "poster_id_1": "5",
       "poster_id_2": "7",
-      "weight": "0",
-      "description": ""
+      "weight": "9",
+      "description": "Come with a clear business vision. Be ready for any angels questions, even those without answer yet."
     },
     {
       "poster_id_1": "5",
       "poster_id_2": "8",
-      "weight": "0",
+      "weight": "7",
       "description": ""
     },
     {
       "poster_id_1": "5",
       "poster_id_2": "9",
-      "weight": "0",
-      "description": ""
+      "weight": "8",
+      "description": "Use the business model to create KPIs assessing your value proposition when your are live."
     },
     {
       "poster_id_1": "5",
       "poster_id_2": "10",
-      "weight": "0",
-      "description": ""
+      "weight": "8",
+      "description": "Your business model shows your concept is scalable."
     },
     {
       "poster_id_1": "5",
@@ -593,8 +593,8 @@
     {
       "poster_id_1": "5",
       "poster_id_2": "29",
-      "weight": "0",
-      "description": ""
+      "weight": "5",
+      "description": "Mix marketing is driving the revenue part of the business model and cost structure."
     },
     {
       "poster_id_1": "6",
