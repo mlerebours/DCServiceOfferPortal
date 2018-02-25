@@ -1,6 +1,7 @@
 <content>
   <NOM>Selling</NOM>
   <SHORTSLUG>sell</SHORTSLUG>
+  <TOOLTIP>You want to sell to clients</TOOLTIP>
   <SUBTITLE>You want to sell to clients, market it!</SUBTITLE>
   <desc_fr>You know your market, your clients, your target, let's move to operational marketing and build your mix marketing and marketing plan.From the &lt;br&gt;4Ps, 4Cs to the 10Ps &lt;/b&gt;</desc_fr>
   <desc_en>You know your market, your clients, your target, let's move to operational marketing and build your mix marketing and marketing plan.From the &lt;br&gt;4Ps, 4Cs to the 10Ps &lt;/b&gt;</desc_en>
