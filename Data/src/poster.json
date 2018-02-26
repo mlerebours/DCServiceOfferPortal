@@ -998,139 +998,139 @@
         }
     ],
     "palettes": [
-        {
-            "id": "1",
-            "color1": "#a5af19",
-            "color2": "",
-            "defaultColor": "a6b01a",
-            "lightColor": "D2D78C",
-            "darkColor": "484c0b",
-            "contrastColor": "5E6DFF",
-            "darkerColor": "2E3007",
-            "lighterColor": "e8ebc5"
-        },
-        {
-            "id": "2",
-            "color1": "#6b6c98",
-            "color2": "",
-            "defaultColor": "6c6d99",
-            "lightColor": "b5b6cc",
-            "darkColor": "464763",
-            "contrastColor": "38ebbc",
-            "darkerColor": "2D2E40",
-            "lighterColor": "dadae5"
-        },
-        {
-            "id": "3",
-            "color1": "#ea8a6d",
-            "color2": "",
-            "defaultColor": "eb8b6e",
-            "lightColor": "f5c5b6",
-            "darkColor": "59342a",
-            "contrastColor": "1cced4",
-            "darkerColor": "2E3007",
-            "lighterColor": "fae2da"
-        },
-        {
-            "id": "4",
-            "color1": "#ee5b59",
-            "color2": "",
-            "defaultColor": "ef5c5a",
-            "lightColor": "f7adac",
-            "darkColor": "572120",
-            "contrastColor": "00d1d1",
-            "darkerColor": "301212",
-            "lighterColor": "fbd6d5"
-        },
-        {
-            "id": "5",
-            "color1": "#be9051",
-            "color2": "",
-            "defaultColor": "bf9152",
-            "lightColor": "dfc8a8",
-            "darkColor": "4d3b21",
-            "contrastColor": "47e0ff",
-            "darkerColor": "261D11",
-            "lighterColor": "efe3d3"
-        },
-        {
-            "id": "6",
-            "color1": "#50aeb4",
-            "color2": "",
-            "defaultColor": "51afb5",
-            "lightColor": "a8d7da",
-            "darkColor": "1a383b",
-            "contrastColor": "ff6954",
-            "darkerColor": "0F2021",
-            "lighterColor": "d3ebec"
-        },
-        {
-            "id": "7",
-            "color1": "#8dc348",
-            "color2": "",
-            "defaultColor": "8ec449",
-            "lightColor": "c6e1a4",
-            "darkColor": "2e4017",
-            "contrastColor": "9467f5",
-            "darkerColor": "1D290F",
-            "lighterColor": "e2f0d1"
-        },
-        {
-            "id": "8",
-            "color1": "#a95d91",
-            "color2": "",
-            "defaultColor": "aa5e92",
-            "lightColor": "d4aec8",
-            "darkColor": "402437",
-            "contrastColor": "38ebbc",
-            "darkerColor": "21131D",
-            "lighterColor": "e9d6e3"
-        },
-        {
-            "id": "9",
-            "color1": "#ef588a",
-            "color2": "",
-            "defaultColor": "f0598b",
-            "lightColor": "f7acc5",
-            "darkColor": "4a1b2b",
-            "contrastColor": "19d395",
-            "darkerColor": "2B1019",
-            "lighterColor": "fbd5e2"
-        },
-        {
-            "id": "10",
-            "color1": "#f1b92d",
-            "color2": "",
-            "defaultColor": "f2ba2e",
-            "lightColor": "f8dc96",
-            "darkColor": "3b2d0b",
-            "contrastColor": "594aff",
-            "darkerColor": "261D07",
-            "lighterColor": "fbedca"
-        },
-        {
-            "id": "11",
-            "color1": "#85b29",
-            "color2": "",
-            "defaultColor": "86b397",
-            "lightColor": "c2d9cb",
-            "darkColor": "2c3b32",
-            "contrastColor": "ffc800",
-            "darkerColor": "151C18",
-            "lighterColor": "e0ece5"
-        },
-        {
-            "id": "12",
-            "color1": "#0180ae",
-            "color2": "",
-            "defaultColor": "0281af",
-            "lightColor": "80c0d7",
-            "darkColor": "013245",
-            "contrastColor": "ff6969",
-            "darkerColor": "00161F",
-            "lighterColor": "bfdfeb"
-        }
-    ],
+    {
+      "id": "1",
+      "color1": "#6b6c98",
+      "color2": "",
+      "defaultColor": "6c6d99",
+      "lightColor": "b5b6cc",
+      "darkColor": "464763",
+      "contrastColor": "38ebbc",
+      "darkerColor": "2D2E40",
+      "lighterColor": "dadae5"
+    },
+    {
+      "id": "2",
+      "color1": "#ea8a6d",
+      "color2": "",
+      "defaultColor": "eb8b6e",
+      "lightColor": "f5c5b6",
+      "darkColor": "59342a",
+      "contrastColor": "1cced4",
+      "darkerColor": "2E3007",
+      "lighterColor": "fae2da"
+    },
+    {
+      "id": "3",
+      "color1": "#ee5b59",
+      "color2": "",
+      "defaultColor": "ef5c5a",
+      "lightColor": "f7adac",
+      "darkColor": "572120",
+      "contrastColor": "00d1d1",
+      "darkerColor": "301212",
+      "lighterColor": "fbd6d5"
+    },
+    {
+      "id": "4",
+      "color1": "#be9051",
+      "color2": "",
+      "defaultColor": "bf9152",
+      "lightColor": "dfc8a8",
+      "darkColor": "4d3b21",
+      "contrastColor": "47e0ff",
+      "darkerColor": "261D11",
+      "lighterColor": "efe3d3"
+    },
+    {
+      "id": "5",
+      "color1": "#50aeb4",
+      "color2": "",
+      "defaultColor": "51afb5",
+      "lightColor": "a8d7da",
+      "darkColor": "1a383b",
+      "contrastColor": "ff6954",
+      "darkerColor": "0F2021",
+      "lighterColor": "d3ebec"
+    },
+    {
+      "id": "6",
+      "color1": "#8dc348",
+      "color2": "",
+      "defaultColor": "8ec449",
+      "lightColor": "c6e1a4",
+      "darkColor": "2e4017",
+      "contrastColor": "9467f5",
+      "darkerColor": "1D290F",
+      "lighterColor": "e2f0d1"
+    },
+    {
+      "id": "7",
+      "color1": "#a95d91",
+      "color2": "",
+      "defaultColor": "aa5e92",
+      "lightColor": "d4aec8",
+      "darkColor": "402437",
+      "contrastColor": "38ebbc",
+      "darkerColor": "21131D",
+      "lighterColor": "e9d6e3"
+    },
+    {
+      "id": "8",
+      "color1": "#ef588a",
+      "color2": "",
+      "defaultColor": "f0598b",
+      "lightColor": "f7acc5",
+      "darkColor": "4a1b2b",
+      "contrastColor": "19d395",
+      "darkerColor": "2B1019",
+      "lighterColor": "fbd5e2"
+    },
+    {
+      "id": "9",
+      "color1": "#f1b92d",
+      "color2": "",
+      "defaultColor": "f2ba2e",
+      "lightColor": "f8dc96",
+      "darkColor": "3b2d0b",
+      "contrastColor": "594aff",
+      "darkerColor": "261D07",
+      "lighterColor": "fbedca"
+    },
+    {
+      "id": "10",
+      "color1": "#85b29",
+      "color2": "",
+      "defaultColor": "86b397",
+      "lightColor": "c2d9cb",
+      "darkColor": "2c3b32",
+      "contrastColor": "ffc800",
+      "darkerColor": "151C18",
+      "lighterColor": "e0ece5"
+    },
+    {
+      "id": "11",
+      "color1": "#0180ae",
+      "color2": "",
+      "defaultColor": "0281af",
+      "lightColor": "80c0d7",
+      "darkColor": "013245",
+      "contrastColor": "ff6969",
+      "darkerColor": "00161F",
+      "lighterColor": "bfdfeb"
+    },
+    {
+      "id": "12",
+      "color1": "#a5af19",
+      "color2": "",
+      "defaultColor": "a6b01a",
+      "lightColor": "D2D78C",
+      "darkColor": "484c0b",
+      "contrastColor": "5E6DFF",
+      "darkerColor": "2E3007",
+      "lighterColor": "e8ebc5"
+    }
+  ],
     "meta_partage": [
         {
             "ID": "1",
