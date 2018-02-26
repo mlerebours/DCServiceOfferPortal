@@ -1677,7 +1677,7 @@ body, html {
 }
 
 body {
-    background: url(../img/home/background-texture%402x.png);
+    background: url(../img/home/background-texture-blue%402x.png);
     min-height: 560px;
     font-family: fira_sans_otregular;
     overflow: hidden;
@@ -1796,6 +1796,33 @@ body {
 
 #Home #Tree .spiderweb.hidden {
     opacity: 0
+}
+
+
+#Home #Tree .tooltiptext {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    text-align: center;
+    width: 130px;
+    z-index: 1;
+    font-size: 13px;
+    line-height: 16px;
+    opacity: 1;
+    font-family: fira_sans_otbold;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -webkit-transition: opacity .3s ease-out;
+    transition: opacity .3s ease-out;
+
+    background-color: #cddfee;
+    color: white;
+    text-align: center;
+    padding: 15px 15px;
+
+    border-radius: 20px;
+    display: none;
 }
 
 #Home #Tree .tree_legend {
@@ -1959,7 +1986,7 @@ body {
 }
 
 #Home #Tree .tree_node--1.compared, #Home #Tree .tree_node--1.selected, #Home #Tree .tree_node--1:hover {
-    background-color: #a5af19;
+    background-color: #6b6c98;
     background-position: 0 -80px !important
 }
 
@@ -1970,7 +1997,7 @@ body {
 }
 
 #Home #Tree .tree_node--2.compared, #Home #Tree .tree_node--2.selected, #Home #Tree .tree_node--2:hover {
-    background-color: #6b6c98;
+    background-color: #ea8a6d;
     background-position: -80px -80px !important
 }
 
@@ -1981,7 +2008,7 @@ body {
 }
 
 #Home #Tree .tree_node--3.compared, #Home #Tree .tree_node--3.selected, #Home #Tree .tree_node--3:hover {
-    background-color: #ea8a6d;
+    background-color: #ee5b59;
     background-position: -160px -80px !important
 }
 
@@ -1992,7 +2019,7 @@ body {
 }
 
 #Home #Tree .tree_node--4.compared, #Home #Tree .tree_node--4.selected, #Home #Tree .tree_node--4:hover {
-    background-color: #ee5b59;
+    background-color: #be9051;
     background-position: -240px -80px !important
 }
 
@@ -2003,7 +2030,7 @@ body {
 }
 
 #Home #Tree .tree_node--5.compared, #Home #Tree .tree_node--5.selected, #Home #Tree .tree_node--5:hover {
-    background-color: #be9051;
+    background-color: #50aeb4;
     background-position: -320px -80px !important
 }
 
@@ -2014,7 +2041,7 @@ body {
 }
 
 #Home #Tree .tree_node--6.compared, #Home #Tree .tree_node--6.selected, #Home #Tree .tree_node--6:hover {
-    background-color: #50aeb4;
+    background-color: #8dc348;
     background-position: -400px -80px !important
 }
 
@@ -2025,7 +2052,7 @@ body {
 }
 
 #Home #Tree .tree_node--7.compared, #Home #Tree .tree_node--7.selected, #Home #Tree .tree_node--7:hover {
-    background-color: #8dc348;
+    background-color: #a95d91;
     background-position: -480px -80px !important
 }
 
@@ -2036,7 +2063,7 @@ body {
 }
 
 #Home #Tree .tree_node--8.compared, #Home #Tree .tree_node--8.selected, #Home #Tree .tree_node--8:hover {
-    background-color: #a95d91;
+    background-color: #ef588a;
     background-position: -560px -80px !important
 }
 
@@ -2047,7 +2074,7 @@ body {
 }
 
 #Home #Tree .tree_node--9.compared, #Home #Tree .tree_node--9.selected, #Home #Tree .tree_node--9:hover {
-    background-color: #ef588a;
+    background-color: #f1b92d;
     background-position: -640px -80px !important
 }
 
@@ -2058,7 +2085,7 @@ body {
 }
 
 #Home #Tree .tree_node--10.compared, #Home #Tree .tree_node--10.selected, #Home #Tree .tree_node--10:hover {
-    background-color: #f1b92d;
+    background-color: #85b296;
     background-position: -720px -80px !important
 }
 
@@ -2069,7 +2096,7 @@ body {
 }
 
 #Home #Tree .tree_node--11.compared, #Home #Tree .tree_node--11.selected, #Home #Tree .tree_node--11:hover {
-    background-color: #85b296;
+    background-color: #0180ae;
     background-position: -800px -80px !important
 }
 
@@ -2080,7 +2107,7 @@ body {
 }
 
 #Home #Tree .tree_node--12.compared, #Home #Tree .tree_node--12.selected, #Home #Tree .tree_node--12:hover {
-    background-color: #0180ae;
+    background-color: #a5af19;
     background-position: -880px -80px !important
 }
 
