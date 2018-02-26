@@ -130,7 +130,7 @@ body {
     position: fixed;
     margin-left: -430px;
     margin-top: -290px;
-    width: 860px;
+    width: 940px;
     height: 580px;
     z-index: 3
 }
@@ -502,7 +502,7 @@ body {
     right: 0;
     top: 50%;
     height: 560px;
-    width: 330px;
+    width: 400px;
     margin-top: 10px;
     -webkit-transform: translate(0, -50%);
     -ms-transform: translate(0, -50%);
@@ -641,7 +641,8 @@ body {
     font-size: 14px;
     line-height: 20px;
     color: gray;
-    font-family: fira_sans_otregular
+    font-family: fira_sans_otregular;
+    text-align: justify;
 }
 
 #Home #Disclaimer .disclaimer_content_chapolink {
