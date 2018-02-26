@@ -3,9 +3,9 @@ import os
 
 import lxml.etree as etree
 
-import Data.common as const
+import data.common as const
 
-OUTPUT_FILE = '../Portal/data/poster.json'
+OUTPUT_FILE = '../src/data/poster.json'
 
 # Load Posters
 data = json.load(open('src/poster.json'))
@@ -27,7 +27,6 @@ for subdir, dirs, files in os.walk('src/' + const.POSTERS):
             if elem.text:
                 content[elem.tag] = elem.text
 
-
         poster = {**content, **commons, **post}
         posters.append(poster)
 
@@ -40,4 +39,4 @@ posters.sort(key=sort_by_id)
 data[const.POSTERS] = posters
 
 with open(OUTPUT_FILE, 'w') as f:
-    json.dump(data, f, sort_keys=False)
+    json.dump(data, f, indent=2, sort_keys=False)

@@ -3,7 +3,7 @@ import os
 
 import lxml.etree as etree
 
-import Data.common as const
+import data.common as const
 
 from pprint import pprint
 

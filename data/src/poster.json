@@ -111,8 +111,8 @@
         {
             "poster_id_1": "2",
             "poster_id_2": "7",
-            "weight": "0",
-            "description": ""
+            "weight": "3",
+            "description": "In order to convince investors, and help you to find a good storytelling : <a href=\"https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=fr\">Start with WHY</a>."
         },
         {
             "poster_id_1": "2",
@@ -369,26 +369,26 @@
         {
             "poster_id_1": "7",
             "poster_id_2": "8",
-            "weight": "0",
-            "description": ""
+            "weight": "4",
+            "description": "Your knowledges about market is a success factor for any angels you will be faced."
         },
         {
             "poster_id_1": "7",
             "poster_id_2": "9",
-            "weight": "0",
-            "description": ""
+            "weight": "2",
+            "description": "Keep measuring your improvements, your acquisitions rates, that's key indicators for angels."
         },
         {
             "poster_id_1": "7",
             "poster_id_2": "10",
-            "weight": "0",
-            "description": ""
+            "weight": "9",
+            "description": "Ready for the next level ? Your so comfortable to pitch that's now as simple as answer to \"what's your doing for living ?\""
         },
         {
             "poster_id_1": "7",
             "poster_id_2": "11",
-            "weight": "0",
-            "description": ""
+            "weight": "2",
+            "description": "Know the innovation ecosystem, could be a good entry point to find investors or get good insights."
         },
         {
             "poster_id_1": "7",
@@ -411,20 +411,20 @@
         {
             "poster_id_1": "8",
             "poster_id_2": "9",
-            "weight": "0",
-            "description": ""
+            "weight": "4",
+            "description": "To stay on a good track for your marketing keep measure acquisition. To have a good acquisition invest your marketing."
         },
         {
             "poster_id_1": "8",
             "poster_id_2": "10",
-            "weight": "0",
-            "description": ""
+            "weight": "8",
+            "description": "To level up you need a really good understanding of your market, your strength and your weakness."
         },
         {
             "poster_id_1": "8",
             "poster_id_2": "11",
-            "weight": "0",
-            "description": ""
+            "weight": "2",
+            "description": "Know the innovation ecosystem, could be a good entry point to find investors or get good insights."
         },
         {
             "poster_id_1": "8",
@@ -447,8 +447,8 @@
         {
             "poster_id_1": "9",
             "poster_id_2": "10",
-            "weight": "0",
-            "description": ""
+            "weight": "8",
+            "description": "You don't go to the highway without seat belt ; don't go to the wild market without good indicators of your product."
         },
         {
             "poster_id_1": "9",
@@ -477,8 +477,8 @@
         {
             "poster_id_1": "10",
             "poster_id_2": "11",
-            "weight": "0",
-            "description": ""
+            "weight": "2",
+            "description": "Know the innovation ecosystem, could be a good entry point to find good insights."
         },
         {
             "poster_id_1": "10",
@@ -567,7 +567,7 @@
         {
             "poster_id_1": "15",
             "poster_id_2": "29",
-            "weight": "5",
+            "weight": "10",
             "description": "All assumptions to be tested, especially these about client needs"
         },
         {
@@ -1135,7 +1135,7 @@
         {
             "ID": "1",
             "TITRE_PARTAGE": "Post-R : un voyage p\u00e9dagogique pour comprendre son temps",
-            "TEXTE_PARTAGE": "TotoPrenez le temps de la complexit\u00e9 pour mieux appr\u00e9hender l\u2019avenir ! Post-R est un voyage p\u00e9dagogique sur l\u2019\u00e9tat du monde. En 15 min, comprenez l\u2019essentiel de grands enjeux pour demain (Climat, Energie, S\u00e9curit\u00e9 Alimentaire,\u2026) et d\u00e9couvrez les pistes de solutions qui s\u2019esquissent ici et maintenant.",
+            "TEXTE_PARTAGE": "Prenez le temps de la complexit\u00e9 pour mieux appr\u00e9hender l\u2019avenir ! Post-R est un voyage p\u00e9dagogique sur l\u2019\u00e9tat du monde. En 15 min, comprenez l\u2019essentiel de grands enjeux pour demain (Climat, Energie, S\u00e9curit\u00e9 Alimentaire,\u2026) et d\u00e9couvrez les pistes de solutions qui s\u2019esquissent ici et maintenant.",
             "TEXTE_PARTAGE_TWITTER": "Post-R : un voyage p\u00e9dagogique pour comprendre son temps #projetpostr ",
             "IMG_PARTAGE": "partage_fr.png",
             "LG": "fr"
