@@ -3,15 +3,6 @@
   <SHORTSLUG>an_idea</SHORTSLUG>
   <TOOLTIP>You have an idea</TOOLTIP>
   <SUBTITLE>You have an idea and want to shoot for the stars</SUBTITLE>
-  <desc_fr>
-    You have a breaking new idea !?&lt;br&gt;
-    No, you have a pretty good idea !?&lt;br&gt;
-    Either you just have a problem ?&lt;br&gt;
-    &lt;br&gt;
-    Anyway, just contact the DreamCatchers team... and let’s pitch 5 minutes with 10 minutes Q&amp;A.&lt;br&gt;
-    A facilitators team to help you go to the next level of your idea and let's the dream come true.&lt;br&gt;&lt;br&gt;
-    We offer you the possibility to have a film of &lt;b&gt;your 1st pitch&lt;/b&gt;.&lt;br&gt;&lt;br&gt;
-    &lt;br&gt;You are idea is great, you are sure of that. Hummm… we propose you to test your &lt;b&gt;Why&lt;/b&gt;… and build your path, step by step to &lt;b&gt;your North Star&lt;/b&gt; during a 2-hours session.
-    Be ready for your first &lt;b&gt;Pivot&lt;/b&gt;!</desc_fr>
+  <desc_fr><!-- content in desc_fr.html--></desc_fr>
   <desc_en>First, contact us @... and let’s pitch 5 minutes with 10 minutes Q&amp;A. We offer you the possibility to have a film of &lt;b&gt;your 1st pitch&lt;/b&gt;.&lt;br&gt;You are idea is great, you are sure of that. Hummm… we propose you to test your &lt;b&gt;Why&lt;/b&gt;… and build your path, step by step to &lt;b&gt;your North Star&lt;/b&gt; during a 2-hours session. Be ready for your first &lt;b&gt;Pivot&lt;/b&gt;!</desc_en>
 </content>

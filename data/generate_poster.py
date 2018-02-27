@@ -1,5 +1,6 @@
 import json
 import os
+from pathlib import Path
 
 import lxml.etree as etree
 
@@ -26,6 +27,11 @@ for subdir, dirs, files in os.walk('src/' + const.POSTERS):
         for action, elem in itercontent:
             if elem.text:
                 content[elem.tag] = elem.text
+
+        my_file = Path('src/' + const.POSTERS + '/' + dir + '/' + const.DESC_FR + '.html')
+        if my_file.is_file():
+            # file exists
+            content[const.DESC_FR] = my_file.open('r').read()
 
         poster = {**content, **commons, **post}
         posters.append(poster)
