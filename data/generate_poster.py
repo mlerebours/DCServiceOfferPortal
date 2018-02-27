@@ -16,6 +16,14 @@ commons = json.load(open('src/' + const.POSTERS + '/common.json'))
 
 posters = []
 
+
+def load_html_if_exist(desc_lang):
+    my_file = Path('src/' + const.POSTERS + '/' + dir + '/' + desc_lang + '.html')
+    if my_file.is_file():
+        # file exists
+        content[desc_lang] = my_file.open('r').read()
+
+
 # write poster
 for subdir, dirs, files in os.walk('src/' + const.POSTERS):
     dirs.sort()
@@ -28,10 +36,8 @@ for subdir, dirs, files in os.walk('src/' + const.POSTERS):
             if elem.text:
                 content[elem.tag] = elem.text
 
-        my_file = Path('src/' + const.POSTERS + '/' + dir + '/' + const.DESC_FR + '.html')
-        if my_file.is_file():
-            # file exists
-            content[const.DESC_FR] = my_file.open('r').read()
+        load_html_if_exist(const.DESC_FR)
+        load_html_if_exist(const.DESC_EN)
 
         poster = {**content, **commons, **post}
         posters.append(poster)
