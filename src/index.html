@@ -29,6 +29,11 @@
     <script src="js/home.libs.min.js"></script>
 </head>
 <body>
+<!--
+<section id="Header" class="hideable hidden">
+    <div class="languages" data-lang="fr"></div>
+</section>
+-->
 
 <section id="Home">
     <section id="Tree">
@@ -76,10 +81,18 @@
 <script type="text/javascript" src="js/config.js"></script>
 <script src="js/home.js"></script>
 <script type="text/javascript">
-    var LANG = 'fr';
+    function getUrlParameter(name) {
+        name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+        var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+        var results = regex.exec(location.search);
+        return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    }
+    var LANG = getUrlParameter("lang");
+    if(LANG === '') LANG = 'en';
+
     var TRANS = {
         "fr": {
-            "and": "and",
+            "and": "et",
             "about": "\u00c0 propos",
             "home_disclaimer_1": "Hello Prenez le temps de la complexit\u00e9<br \/>pour mieux appr\u00e9hender l'avenir !<br \/><br \/>Post-R est un voyage p\u00e9dagogique<br \/>sur l'\u00e9tat du monde.<br \/><br \/>En 15 minutes, comprenez l'essentiel<br \/>des grands enjeux pour demain<br \/>et d\u00e9couvrez les pistes de solutions qui s'esquissent ici et maintenant.",
             "home_disclaimer_2": "Post-R c\u2019est la volont\u00e9 de mettre \u00e0 disposition de tous un espace de compr\u00e9hension de ces grandes questions.",
