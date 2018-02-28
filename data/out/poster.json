@@ -1,402 +1,4 @@
 {
-  "relations": [
-    {
-      "poster_id_1": "1",
-      "poster_id_2": "2",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "1",
-      "poster_id_2": "3",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "1",
-      "poster_id_2": "4",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "1",
-      "poster_id_2": "5",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "1",
-      "poster_id_2": "6",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "1",
-      "poster_id_2": "7",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "1",
-      "poster_id_2": "8",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "1",
-      "poster_id_2": "9",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "1",
-      "poster_id_2": "10",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "1",
-      "poster_id_2": "11",
-      "weight": "2",
-      "description": "Get inspired by innovation Ecosystem."
-    },
-    {
-      "poster_id_1": "1",
-      "poster_id_2": "12",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "2",
-      "poster_id_2": "3",
-      "weight": "8",
-      "description": "Do not forget to do your big WHY before your WHAT"
-    },
-    {
-      "poster_id_1": "2",
-      "poster_id_2": "4",
-      "weight": "",
-      "description": ""
-    },
-    {
-      "poster_id_1": "2",
-      "poster_id_2": "5",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "2",
-      "poster_id_2": "6",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "2",
-      "poster_id_2": "7",
-      "weight": "3",
-      "description": "In order to convince investors, and help you to find a good storytelling : <a href=\"https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=fr\">Start with WHY</a>."
-    },
-    {
-      "poster_id_1": "2",
-      "poster_id_2": "8",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "2",
-      "poster_id_2": "9",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "2",
-      "poster_id_2": "10",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "2",
-      "poster_id_2": "11",
-      "weight": "1",
-      "description": "Check within innovation ecosystem about existing alternative"
-    },
-    {
-      "poster_id_1": "2",
-      "poster_id_2": "12",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "3",
-      "poster_id_2": "4",
-      "weight": "10",
-      "description": "All assumptions to be tested, especially these about client needs"
-    },
-    {
-      "poster_id_1": "3",
-      "poster_id_2": "5",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "3",
-      "poster_id_2": "6",
-      "weight": "7",
-      "description": "MVP ahead from functionalities is also including the client journey."
-    },
-    {
-      "poster_id_1": "3",
-      "poster_id_2": "7",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "3",
-      "poster_id_2": "8",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "3",
-      "poster_id_2": "9",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "3",
-      "poster_id_2": "10",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "3",
-      "poster_id_2": "11",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "3",
-      "poster_id_2": "12",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "4",
-      "poster_id_2": "5",
-      "weight": "5",
-      "description": "Mix marketing is driving the revenue part of the business model and cost structure."
-    },
-    {
-      "poster_id_1": "4",
-      "poster_id_2": "6",
-      "weight": "5",
-      "description": "Test to build MVP and use MVP to test, learn lessons and iterate."
-    },
-    {
-      "poster_id_1": "4",
-      "poster_id_2": "7",
-      "weight": "5",
-      "description": "Come with testing proof to convince."
-    },
-    {
-      "poster_id_1": "4",
-      "poster_id_2": "8",
-      "weight": "5",
-      "description": "Experience your mix marketing to fine-tune it."
-    },
-    {
-      "poster_id_1": "4",
-      "poster_id_2": "9",
-      "weight": "5",
-      "description": "Keep learning at each stage and find the good measures."
-    },
-    {
-      "poster_id_1": "4",
-      "poster_id_2": "10",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "4",
-      "poster_id_2": "11",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "4",
-      "poster_id_2": "12",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "5",
-      "poster_id_2": "6",
-      "weight": "4",
-      "description": "MVP gives a flavor of implementation complexity and cost."
-    },
-    {
-      "poster_id_1": "5",
-      "poster_id_2": "7",
-      "weight": "9",
-      "description": "Come with a clear business vision. Be ready for any angels questions, even those without answer yet."
-    },
-    {
-      "poster_id_1": "5",
-      "poster_id_2": "8",
-      "weight": "7",
-      "description": ""
-    },
-    {
-      "poster_id_1": "5",
-      "poster_id_2": "9",
-      "weight": "8",
-      "description": "Use the business model to create KPIs assessing your value proposition when your are live."
-    },
-    {
-      "poster_id_1": "5",
-      "poster_id_2": "10",
-      "weight": "8",
-      "description": "Your business model shows your concept is scalable."
-    },
-    {
-      "poster_id_1": "5",
-      "poster_id_2": "11",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "5",
-      "poster_id_2": "12",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "6",
-      "poster_id_2": "7",
-      "weight": "5",
-      "description": "MVP is part of your story telling to convince Angels. Its own costs can require specif funding."
-    },
-    {
-      "poster_id_1": "6",
-      "poster_id_2": "8",
-      "weight": "4",
-      "description": "Take into account the 4Cs - customer, convenience, communication and cost, to build all MVP aspects"
-    },
-    {
-      "poster_id_1": "6",
-      "poster_id_2": "9",
-      "weight": "6",
-      "description": "MVP to identify and measures usages."
-    },
-    {
-      "poster_id_1": "6",
-      "poster_id_2": "10",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "6",
-      "poster_id_2": "11",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "6",
-      "poster_id_2": "12",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "7",
-      "poster_id_2": "8",
-      "weight": "4",
-      "description": "Your knowledges about market is a success factor for any angels you will be faced."
-    },
-    {
-      "poster_id_1": "7",
-      "poster_id_2": "9",
-      "weight": "2",
-      "description": "Keep measuring your improvements, your acquisitions rates, that's key indicators for angels."
-    },
-    {
-      "poster_id_1": "7",
-      "poster_id_2": "10",
-      "weight": "9",
-      "description": "Ready for the next level ? Your so comfortable to pitch that's now as simple as answer to \"what's your doing for living ?\""
-    },
-    {
-      "poster_id_1": "7",
-      "poster_id_2": "11",
-      "weight": "2",
-      "description": "Know the innovation ecosystem, could be a good entry point to find investors or get good insights."
-    },
-    {
-      "poster_id_1": "7",
-      "poster_id_2": "12",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "8",
-      "poster_id_2": "9",
-      "weight": "4",
-      "description": "To stay on a good track for your marketing keep measure acquisition. To have a good acquisition invest your marketing."
-    },
-    {
-      "poster_id_1": "8",
-      "poster_id_2": "10",
-      "weight": "8",
-      "description": "To level up you need a really good understanding of your market, your strength and your weakness."
-    },
-    {
-      "poster_id_1": "8",
-      "poster_id_2": "11",
-      "weight": "2",
-      "description": "Know the innovation ecosystem, could be a good entry point to find investors or get good insights."
-    },
-    {
-      "poster_id_1": "8",
-      "poster_id_2": "12",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "9",
-      "poster_id_2": "10",
-      "weight": "8",
-      "description": "You don't go to the highway without seat belt ; don't go to the wild market without good indicators of your product."
-    },
-    {
-      "poster_id_1": "9",
-      "poster_id_2": "11",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "9",
-      "poster_id_2": "12",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "10",
-      "poster_id_2": "11",
-      "weight": "2",
-      "description": "Know the innovation ecosystem, could be a good entry point to find good insights."
-    },
-    {
-      "poster_id_1": "10",
-      "poster_id_2": "12",
-      "weight": "0",
-      "description": ""
-    },
-    {
-      "poster_id_1": "11",
-      "poster_id_2": "12",
-      "weight": "0",
-      "description": ""
-    }
-  ],
   "palettes": [
     {
       "id": "1",
@@ -529,16 +131,6 @@
       "contrastColor": "5E6DFF",
       "darkerColor": "2E3007",
       "lighterColor": "e8ebc5"
-    }
-  ],
-  "meta_partage": [
-    {
-      "ID": "1",
-      "TITRE_PARTAGE": "Post-R : un voyage p\u00e9dagogique pour comprendre son temps",
-      "TEXTE_PARTAGE": "Prenez le temps de la complexit\u00e9 pour mieux appr\u00e9hender l\u2019avenir ! Post-R est un voyage p\u00e9dagogique sur l\u2019\u00e9tat du monde. En 15 min, comprenez l\u2019essentiel de grands enjeux pour demain (Climat, Energie, S\u00e9curit\u00e9 Alimentaire,\u2026) et d\u00e9couvrez les pistes de solutions qui s\u2019esquissent ici et maintenant.",
-      "TEXTE_PARTAGE_TWITTER": "Post-R : un voyage p\u00e9dagogique pour comprendre son temps #projetpostr ",
-      "IMG_PARTAGE": "partage_fr.png",
-      "LG": "fr"
     }
   ],
   "posters": [
@@ -676,6 +268,404 @@
       "STATUS": "default",
       "ORDER_NUM": "24",
       "LOCKED": "0"
+    }
+  ],
+  "relations": [
+    {
+      "poster_id_1": "1",
+      "poster_id_2": "2",
+      "weight": "0",
+      "desc_key": "no_idea.and.an_idea"
+    },
+    {
+      "poster_id_1": "1",
+      "poster_id_2": "3",
+      "weight": "0",
+      "desc_key": "no_idea.and.offer"
+    },
+    {
+      "poster_id_1": "1",
+      "poster_id_2": "4",
+      "weight": "0",
+      "desc_key": "no_idea.and.challenge"
+    },
+    {
+      "poster_id_1": "1",
+      "poster_id_2": "5",
+      "weight": "0",
+      "desc_key": "no_idea.and.business"
+    },
+    {
+      "poster_id_1": "1",
+      "poster_id_2": "6",
+      "weight": "0",
+      "desc_key": "no_idea.and.mvp"
+    },
+    {
+      "poster_id_1": "1",
+      "poster_id_2": "7",
+      "weight": "0",
+      "desc_key": "no_idea.and.funds"
+    },
+    {
+      "poster_id_1": "1",
+      "poster_id_2": "8",
+      "weight": "0",
+      "desc_key": "no_idea.and.sell"
+    },
+    {
+      "poster_id_1": "1",
+      "poster_id_2": "9",
+      "weight": "0",
+      "desc_key": "no_idea.and.align"
+    },
+    {
+      "poster_id_1": "1",
+      "poster_id_2": "10",
+      "weight": "0",
+      "desc_key": "no_idea.and.scale"
+    },
+    {
+      "poster_id_1": "1",
+      "poster_id_2": "11",
+      "weight": "2",
+      "desc_key": "no_idea.and.lost"
+    },
+    {
+      "poster_id_1": "1",
+      "poster_id_2": "12",
+      "weight": "0",
+      "desc_key": "no_idea.and.about"
+    },
+    {
+      "poster_id_1": "10",
+      "poster_id_2": "11",
+      "weight": "2",
+      "desc_key": "scale.and.lost"
+    },
+    {
+      "poster_id_1": "10",
+      "poster_id_2": "12",
+      "weight": "0",
+      "desc_key": "scale.and.about"
+    },
+    {
+      "poster_id_1": "11",
+      "poster_id_2": "12",
+      "weight": "0",
+      "desc_key": "lost.and.about"
+    },
+    {
+      "poster_id_1": "2",
+      "poster_id_2": "3",
+      "weight": "8",
+      "desc_key": "an_idea.and.offer"
+    },
+    {
+      "poster_id_1": "2",
+      "poster_id_2": "4",
+      "weight": "",
+      "desc_key": "an_idea.and.challenge"
+    },
+    {
+      "poster_id_1": "2",
+      "poster_id_2": "5",
+      "weight": "0",
+      "desc_key": "an_idea.and.business"
+    },
+    {
+      "poster_id_1": "2",
+      "poster_id_2": "6",
+      "weight": "0",
+      "desc_key": "an_idea.and.mvp"
+    },
+    {
+      "poster_id_1": "2",
+      "poster_id_2": "7",
+      "weight": "3",
+      "desc_key": "an_idea.and.funds"
+    },
+    {
+      "poster_id_1": "2",
+      "poster_id_2": "8",
+      "weight": "0",
+      "desc_key": "an_idea.and.sell"
+    },
+    {
+      "poster_id_1": "2",
+      "poster_id_2": "9",
+      "weight": "0",
+      "desc_key": "an_idea.and.align"
+    },
+    {
+      "poster_id_1": "2",
+      "poster_id_2": "10",
+      "weight": "0",
+      "desc_key": "an_idea.and.scale"
+    },
+    {
+      "poster_id_1": "2",
+      "poster_id_2": "11",
+      "weight": "1",
+      "desc_key": "an_idea.and.lost"
+    },
+    {
+      "poster_id_1": "2",
+      "poster_id_2": "12",
+      "weight": "0",
+      "desc_key": "an_idea.and.about"
+    },
+    {
+      "poster_id_1": "3",
+      "poster_id_2": "4",
+      "weight": "10",
+      "desc_key": "offer.and.challenge"
+    },
+    {
+      "poster_id_1": "3",
+      "poster_id_2": "5",
+      "weight": "0",
+      "desc_key": "offer.and.business"
+    },
+    {
+      "poster_id_1": "3",
+      "poster_id_2": "6",
+      "weight": "7",
+      "desc_key": "offer.and.mvp"
+    },
+    {
+      "poster_id_1": "3",
+      "poster_id_2": "7",
+      "weight": "0",
+      "desc_key": "offer.and.funds"
+    },
+    {
+      "poster_id_1": "3",
+      "poster_id_2": "8",
+      "weight": "0",
+      "desc_key": "offer.and.sell"
+    },
+    {
+      "poster_id_1": "3",
+      "poster_id_2": "9",
+      "weight": "0",
+      "desc_key": "offer.and.align"
+    },
+    {
+      "poster_id_1": "3",
+      "poster_id_2": "10",
+      "weight": "0",
+      "desc_key": "offer.and.scale"
+    },
+    {
+      "poster_id_1": "3",
+      "poster_id_2": "11",
+      "weight": "0",
+      "desc_key": "offer.and.lost"
+    },
+    {
+      "poster_id_1": "3",
+      "poster_id_2": "12",
+      "weight": "0",
+      "desc_key": "offer.and.about"
+    },
+    {
+      "poster_id_1": "4",
+      "poster_id_2": "5",
+      "weight": "5",
+      "desc_key": "challenge.and.business"
+    },
+    {
+      "poster_id_1": "4",
+      "poster_id_2": "6",
+      "weight": "5",
+      "desc_key": "challenge.and.mvp"
+    },
+    {
+      "poster_id_1": "4",
+      "poster_id_2": "7",
+      "weight": "5",
+      "desc_key": "challenge.and.funds"
+    },
+    {
+      "poster_id_1": "4",
+      "poster_id_2": "8",
+      "weight": "5",
+      "desc_key": "challenge.and.sell"
+    },
+    {
+      "poster_id_1": "4",
+      "poster_id_2": "9",
+      "weight": "5",
+      "desc_key": "challenge.and.align"
+    },
+    {
+      "poster_id_1": "4",
+      "poster_id_2": "10",
+      "weight": "0",
+      "desc_key": "challenge.and.scale"
+    },
+    {
+      "poster_id_1": "4",
+      "poster_id_2": "11",
+      "weight": "0",
+      "desc_key": "challenge.and.lost"
+    },
+    {
+      "poster_id_1": "4",
+      "poster_id_2": "12",
+      "weight": "0",
+      "desc_key": "challenge.and.about"
+    },
+    {
+      "poster_id_1": "5",
+      "poster_id_2": "6",
+      "weight": "4",
+      "desc_key": "business.and.mvp"
+    },
+    {
+      "poster_id_1": "5",
+      "poster_id_2": "7",
+      "weight": "9",
+      "desc_key": "business.and.funds"
+    },
+    {
+      "poster_id_1": "5",
+      "poster_id_2": "8",
+      "weight": "7",
+      "desc_key": "business.and.sell"
+    },
+    {
+      "poster_id_1": "5",
+      "poster_id_2": "9",
+      "weight": "8",
+      "desc_key": "business.and.align"
+    },
+    {
+      "poster_id_1": "5",
+      "poster_id_2": "10",
+      "weight": "8",
+      "desc_key": "business.and.scale"
+    },
+    {
+      "poster_id_1": "5",
+      "poster_id_2": "11",
+      "weight": "0",
+      "desc_key": "business.and.lost"
+    },
+    {
+      "poster_id_1": "5",
+      "poster_id_2": "12",
+      "weight": "0",
+      "desc_key": "business.and.about"
+    },
+    {
+      "poster_id_1": "6",
+      "poster_id_2": "7",
+      "weight": "5",
+      "desc_key": "mvp.and.funds"
+    },
+    {
+      "poster_id_1": "6",
+      "poster_id_2": "8",
+      "weight": "4",
+      "desc_key": "mvp.and.sell"
+    },
+    {
+      "poster_id_1": "6",
+      "poster_id_2": "9",
+      "weight": "6",
+      "desc_key": "mvp.and.align"
+    },
+    {
+      "poster_id_1": "6",
+      "poster_id_2": "10",
+      "weight": "0",
+      "desc_key": "mvp.and.scale"
+    },
+    {
+      "poster_id_1": "6",
+      "poster_id_2": "11",
+      "weight": "0",
+      "desc_key": "mvp.and.lost"
+    },
+    {
+      "poster_id_1": "6",
+      "poster_id_2": "12",
+      "weight": "0",
+      "desc_key": "mvp.and.about"
+    },
+    {
+      "poster_id_1": "7",
+      "poster_id_2": "8",
+      "weight": "4",
+      "desc_key": "funds.and.sell"
+    },
+    {
+      "poster_id_1": "7",
+      "poster_id_2": "9",
+      "weight": "2",
+      "desc_key": "funds.and.align"
+    },
+    {
+      "poster_id_1": "7",
+      "poster_id_2": "10",
+      "weight": "9",
+      "desc_key": "funds.and.scale"
+    },
+    {
+      "poster_id_1": "7",
+      "poster_id_2": "11",
+      "weight": "2",
+      "desc_key": "funds.and.lost"
+    },
+    {
+      "poster_id_1": "7",
+      "poster_id_2": "12",
+      "weight": "0",
+      "desc_key": "funds.and.about"
+    },
+    {
+      "poster_id_1": "8",
+      "poster_id_2": "9",
+      "weight": "4",
+      "desc_key": "sell.and.align"
+    },
+    {
+      "poster_id_1": "8",
+      "poster_id_2": "10",
+      "weight": "8",
+      "desc_key": "sell.and.scale"
+    },
+    {
+      "poster_id_1": "8",
+      "poster_id_2": "11",
+      "weight": "2",
+      "desc_key": "sell.and.lost"
+    },
+    {
+      "poster_id_1": "8",
+      "poster_id_2": "12",
+      "weight": "0",
+      "desc_key": "sell.and.about"
+    },
+    {
+      "poster_id_1": "9",
+      "poster_id_2": "10",
+      "weight": "8",
+      "desc_key": "align.and.scale"
+    },
+    {
+      "poster_id_1": "9",
+      "poster_id_2": "11",
+      "weight": "0",
+      "desc_key": "align.and.lost"
+    },
+    {
+      "poster_id_1": "9",
+      "poster_id_2": "12",
+      "weight": "0",
+      "desc_key": "align.and.about"
     }
   ]
 }

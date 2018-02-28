@@ -33,7 +33,7 @@
 </head>
 <body>
 <section id="Header" class="hideable hidden">
-    <div class="languages" data-lang="fr"></div>
+    <div class="languages" data-lang="en"></div>
 </section>
 
 <section id="Home">
@@ -76,18 +76,6 @@
     </section>
 </section>
 
-<script type="text/javascript">
-    function getUrlParameter(name) {
-        name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
-        var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
-        var results = regex.exec(location.search);
-        return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
-    }
-    var LANG = getUrlParameter("lang");
-    if(LANG === '') LANG = 'en';
-</script>
-
-
 <script type="text/javascript" src="js/config.js"></script>
 <script src="js/home.js"></script>
 <script type="text/javascript">
@@ -95,7 +83,7 @@
 
     $(function () {
         'use strict';
-        app.myHome = new app.homeApp(LANG);
+        app.myHome = new app.homeApp();
         FastClick.attach(document.body);
     });
 

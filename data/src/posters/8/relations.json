@@ -1,0 +1,26 @@
+[
+    {
+        "poster_id_1": "8",
+        "poster_id_2": "9",
+        "weight": "4",
+        "desc_key": "sell.and.align"
+    },
+    {
+        "poster_id_1": "8",
+        "poster_id_2": "10",
+        "weight": "8",
+        "desc_key": "sell.and.scale"
+    },
+    {
+        "poster_id_1": "8",
+        "poster_id_2": "11",
+        "weight": "2",
+        "desc_key": "sell.and.lost"
+    },
+    {
+        "poster_id_1": "8",
+        "poster_id_2": "12",
+        "weight": "0",
+        "desc_key": "sell.and.about"
+    }
+]

@@ -10,10 +10,12 @@ OUTPUT_FOLDER = 'out/'
 OUTPUT_FILE = 'poster.json'
 
 # Load Posters
-data = json.load(open('src/poster.json'))
+data = json.load(open('src/palettes.json'))
 
 # Load Posters
 translation = {const.LANG_EN: {}, const.LANG_FR: {}}
+
+relations = []
 
 posters = []
 
@@ -40,6 +42,16 @@ def load_contents(lang):
     return shortslug
 
 
+def load_relations():
+    return json.load(open('src/' + const.POSTERS + '/' + dir + '/relations.json'))
+
+
+def load_relations_description(shortslug, lang):
+    relation_poster = json.load(open('src/' + const.POSTERS + '/' + dir + '/relations_' + lang + '.json'))
+    if shortslug in relation_poster:
+        translation[lang][shortslug]['and'] = relation_poster[shortslug]
+
+
 # write poster
 for subdir, dirs, files in os.walk('src/' + const.POSTERS):
     dirs.sort()
@@ -52,6 +64,12 @@ for subdir, dirs, files in os.walk('src/' + const.POSTERS):
         load_html_if_exist(shortslug, const.LANG_FR)
         load_html_if_exist(shortslug, const.LANG_EN)
 
+        relation_poster = load_relations()
+        relations = relations + relation_poster
+
+        load_relations_description(shortslug, const.LANG_EN)
+        load_relations_description(shortslug, const.LANG_FR)
+
         poster = {**{'SHORTSLUG': shortslug}, **post}
         posters.append(poster)
 
@@ -62,6 +80,7 @@ def sort_by_id(json):
 
 posters.sort(key=sort_by_id)
 data[const.POSTERS] = posters
+data['relations'] = relations
 
 with open(OUTPUT_FOLDER + OUTPUT_FILE, 'w') as f:
     json.dump(data, f, indent=2, sort_keys=False)

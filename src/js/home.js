@@ -51,7 +51,7 @@ var app = app || {};
 
     i18next.use(window.i18nextXHRBackend)
         .init({
-            fallbackLng: LANG,
+            fallbackLng: "en",
             debug: true,
             ns: ['translation', 'poster'],
             defaultNS: 'translation',
@@ -64,6 +64,10 @@ var app = app || {};
             // init set content
             updateContent();
         });
+
+    i18next.on('languageChanged', function() {
+            updateContent();
+    });
 
     function updateContent() {
         $("#Home").localize();
@@ -193,7 +197,13 @@ var app = app || {};
             }), e(".aboutblock_close").on("click", function () {
                 t.hideAbout()
             }), e(".languages").on("click", function () {
-                location.href = "fr" === LANG ? location.protocol + "//" + location.host + location.pathname + "?lang=en" : location.protocol + "//" + location.host + location.pathname + "?lang=fr"
+                if (i18next.language === undefined ||'en' === i18next.language)
+                    i18next.changeLanguage('fr');
+                else
+                    i18next.changeLanguage('en');
+                e(".languages").attr("data-lang", i18next.language);
+
+                //location.href = "fr" === LANG ? location.protocol + "//" + location.host + location.pathname + "?lang=en" : location.protocol + "//" + location.host + location.pathname + "?lang=fr"
             }), e("#user_getintouch_field").on("focus", function (s) {
                 var o = e(s.target);
                 o.val() === t._defaultInputEmailValue && o.val("")
@@ -303,7 +313,8 @@ var app = app || {};
             var o = _.find(app.myHome.relations, function (e) {
                 return !(e.poster_id_1 !== t && e.poster_id_1 !== s || e.poster_id_2 !== t && e.poster_id_2 !== s)
             });
-            e(".comparison_text").html(o.description), e(".disclaimer_content_inner").removeClass("displayed"), e(".disclaimer_content_inner[data-step='comparison']").addClass("displayed");
+            e(".comparison_text").attr("data-i18n", "[html]poster:" + o.desc_key),
+                e(".disclaimer_content_inner").removeClass("displayed"), e(".disclaimer_content_inner[data-step='comparison']").addClass("displayed");
             $("#Home").localize();
         },
         getPosterIdFromShortslug: function (e) {
