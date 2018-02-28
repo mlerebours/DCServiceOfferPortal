@@ -58,7 +58,7 @@
             "poster_id_1": "1",
             "poster_id_2": "11",
             "weight": "2",
-            "description": "Get inspired by innovation Ecosystem"
+            "description": "Get inspired by innovation Ecosystem."
         },
         {
             "poster_id_1": "1",
@@ -67,33 +67,15 @@
             "description": ""
         },
         {
-            "poster_id_1": "1",
-            "poster_id_2": "15",
-            "weight": "0",
-            "description": " "
-        },
-        {
-            "poster_id_1": "1",
-            "poster_id_2": "29",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "1",
-            "poster_id_2": "36",
-            "weight": "0",
-            "description": ""
-        },
-        {
             "poster_id_1": "2",
             "poster_id_2": "3",
-            "weight": "0",
-            "description": ""
+            "weight": "8",
+            "description": "Do not forget to do your big WHY before your WHAT"
         },
         {
             "poster_id_1": "2",
             "poster_id_2": "4",
-            "weight": "0",
+            "weight": "",
             "description": ""
         },
         {
@@ -145,28 +127,10 @@
             "description": ""
         },
         {
-            "poster_id_1": "2",
-            "poster_id_2": "15",
-            "weight": "8",
-            "description": "Do not forget to do your big WHY before your WHAT"
-        },
-        {
-            "poster_id_1": "2",
-            "poster_id_2": "29",
-            "weight": "",
-            "description": ""
-        },
-        {
-            "poster_id_1": "3",
-            "poster_id_2": "2",
-            "weight": "8",
-            "description": ""
-        },
-        {
             "poster_id_1": "3",
             "poster_id_2": "4",
-            "weight": "0",
-            "description": ""
+            "weight": "10",
+            "description": "All assumptions to be tested, especially these about client needs"
         },
         {
             "poster_id_1": "3",
@@ -177,8 +141,8 @@
         {
             "poster_id_1": "3",
             "poster_id_2": "6",
-            "weight": "0",
-            "description": ""
+            "weight": "7",
+            "description": "MVP ahead from functionalities is also including the client journey."
         },
         {
             "poster_id_1": "3",
@@ -219,32 +183,32 @@
         {
             "poster_id_1": "4",
             "poster_id_2": "5",
-            "weight": "0",
-            "description": ""
+            "weight": "5",
+            "description": "Mix marketing is driving the revenue part of the business model and cost structure."
         },
         {
             "poster_id_1": "4",
             "poster_id_2": "6",
-            "weight": "0",
-            "description": ""
+            "weight": "5",
+            "description": "Test to build MVP and use MVP to test, learn lessons and iterate."
         },
         {
             "poster_id_1": "4",
             "poster_id_2": "7",
-            "weight": "0",
-            "description": ""
+            "weight": "5",
+            "description": "Come with testing proof to convince."
         },
         {
             "poster_id_1": "4",
             "poster_id_2": "8",
-            "weight": "0",
-            "description": ""
+            "weight": "5",
+            "description": "Experience your mix marketing to fine-tune it."
         },
         {
             "poster_id_1": "4",
             "poster_id_2": "9",
-            "weight": "0",
-            "description": ""
+            "weight": "5",
+            "description": "Keep learning at each stage and find the good measures."
         },
         {
             "poster_id_1": "4",
@@ -307,18 +271,6 @@
             "description": ""
         },
         {
-            "poster_id_1": "5",
-            "poster_id_2": "15",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "5",
-            "poster_id_2": "29",
-            "weight": "5",
-            "description": "Mix marketing is driving the revenue part of the business model and cost structure."
-        },
-        {
             "poster_id_1": "6",
             "poster_id_2": "7",
             "weight": "5",
@@ -355,18 +307,6 @@
             "description": ""
         },
         {
-            "poster_id_1": "6",
-            "poster_id_2": "15",
-            "weight": "7",
-            "description": "MVP ahead from functionalities is also including the client journey."
-        },
-        {
-            "poster_id_1": "6",
-            "poster_id_2": "29",
-            "weight": "5",
-            "description": "Test to build MVP and use MVP to test, learn lessons and iterate."
-        },
-        {
             "poster_id_1": "7",
             "poster_id_2": "8",
             "weight": "4",
@@ -397,18 +337,6 @@
             "description": ""
         },
         {
-            "poster_id_1": "7",
-            "poster_id_2": "15",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "7",
-            "poster_id_2": "29",
-            "weight": "5",
-            "description": "Come with testing proof to convince."
-        },
-        {
             "poster_id_1": "8",
             "poster_id_2": "9",
             "weight": "4",
@@ -433,18 +361,6 @@
             "description": ""
         },
         {
-            "poster_id_1": "8",
-            "poster_id_2": "15",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "8",
-            "poster_id_2": "29",
-            "weight": "5",
-            "description": "Experience your mix marketing to fine-tune it."
-        },
-        {
             "poster_id_1": "9",
             "poster_id_2": "10",
             "weight": "8",
@@ -463,18 +379,6 @@
             "description": ""
         },
         {
-            "poster_id_1": "9",
-            "poster_id_2": "15",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "9",
-            "poster_id_2": "29",
-            "weight": "5",
-            "description": "Keep learning at each stage and find the good measures."
-        },
-        {
             "poster_id_1": "10",
             "poster_id_2": "11",
             "weight": "2",
@@ -486,513 +390,9 @@
             "weight": "0",
             "description": ""
         },
-        {
-            "poster_id_1": "10",
-            "poster_id_2": "15",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "10",
-            "poster_id_2": "29",
-            "weight": "0",
-            "description": ""
-        },
-        {
+         {
             "poster_id_1": "11",
             "poster_id_2": "12",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "11",
-            "poster_id_2": "15",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "11",
-            "poster_id_2": "29",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "12",
-            "poster_id_2": "15",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "12",
-            "poster_id_2": "29",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "15",
-            "poster_id_2": "19",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "15",
-            "poster_id_2": "20",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "15",
-            "poster_id_2": "21",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "15",
-            "poster_id_2": "22",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "15",
-            "poster_id_2": "23",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "15",
-            "poster_id_2": "24",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "15",
-            "poster_id_2": "29",
-            "weight": "10",
-            "description": "All assumptions to be tested, especially these about client needs"
-        },
-        {
-            "poster_id_1": "15",
-            "poster_id_2": "33",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "15",
-            "poster_id_2": "34",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "15",
-            "poster_id_2": "37",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "19",
-            "poster_id_2": "20",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "19",
-            "poster_id_2": "21",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "19",
-            "poster_id_2": "22",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "19",
-            "poster_id_2": "23",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "19",
-            "poster_id_2": "24",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "20",
-            "poster_id_2": "21",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "20",
-            "poster_id_2": "22",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "20",
-            "poster_id_2": "23",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "20",
-            "poster_id_2": "24",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "21",
-            "poster_id_2": "22",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "21",
-            "poster_id_2": "23",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "21",
-            "poster_id_2": "24",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "22",
-            "poster_id_2": "23",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "22",
-            "poster_id_2": "24",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "23",
-            "poster_id_2": "24",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "31",
-            "poster_id_2": "15",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "31",
-            "poster_id_2": "19",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "31",
-            "poster_id_2": "20",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "31",
-            "poster_id_2": "21",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "31",
-            "poster_id_2": "22",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "31",
-            "poster_id_2": "23",
-            "weight": "2",
-            "description": "Get inspired by innovation Ecosystem"
-        },
-        {
-            "poster_id_1": "31",
-            "poster_id_2": "24",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "31",
-            "poster_id_2": "32",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "31",
-            "poster_id_2": "33",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "31",
-            "poster_id_2": "34",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "31",
-            "poster_id_2": "36",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "31",
-            "poster_id_2": "37",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "32",
-            "poster_id_2": "19",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "32",
-            "poster_id_2": "20",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "32",
-            "poster_id_2": "21",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "32",
-            "poster_id_2": "22",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "32",
-            "poster_id_2": "23",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "32",
-            "poster_id_2": "24",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "32",
-            "poster_id_2": "34",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "32",
-            "poster_id_2": "37",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "33",
-            "poster_id_2": "19",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "33",
-            "poster_id_2": "20",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "33",
-            "poster_id_2": "21",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "33",
-            "poster_id_2": "22",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "33",
-            "poster_id_2": "23",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "33",
-            "poster_id_2": "24",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "33",
-            "poster_id_2": "32",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "33",
-            "poster_id_2": "34",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "33",
-            "poster_id_2": "37",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "34",
-            "poster_id_2": "19",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "34",
-            "poster_id_2": "20",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "34",
-            "poster_id_2": "21",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "34",
-            "poster_id_2": "22",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "34",
-            "poster_id_2": "23",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "34",
-            "poster_id_2": "24",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "36",
-            "poster_id_2": "15",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "36",
-            "poster_id_2": "19",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "36",
-            "poster_id_2": "20",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "36",
-            "poster_id_2": "21",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "36",
-            "poster_id_2": "22",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "36",
-            "poster_id_2": "23",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "36",
-            "poster_id_2": "24",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "36",
-            "poster_id_2": "32",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "36",
-            "poster_id_2": "33",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "36",
-            "poster_id_2": "34",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "36",
-            "poster_id_2": "37",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "37",
-            "poster_id_2": "19",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "37",
-            "poster_id_2": "20",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "37",
-            "poster_id_2": "21",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "37",
-            "poster_id_2": "22",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "37",
-            "poster_id_2": "23",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "37",
-            "poster_id_2": "24",
-            "weight": "0",
-            "description": ""
-        },
-        {
-            "poster_id_1": "37",
-            "poster_id_2": "34",
             "weight": "0",
             "description": ""
         }

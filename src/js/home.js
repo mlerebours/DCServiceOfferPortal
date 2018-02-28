@@ -28,16 +28,16 @@ var app = app || {};
                 var o = s.SHORTSLUG, i = JSON.parse(s.home_params), n = _.find(e.palettes, function (e) {
                     return e.id === s.PALETTE
                 }), a = _.filter(e.relations, function (e) {
-                    return e.poster_id_1 === s.ID || e.poster_id_2 === s.ID
+                    return e.poster_id_1 === s.id || e.poster_id_2 === s.id
                 }), d = _.map(a, function (t) {
                     var o = t.poster_id_1;
-                    t.poster_id_1 === s.ID && (o = t.poster_id_2);
+                    t.poster_id_1 === s.id && (o = t.poster_id_2);
                     var i = _.find(e.posters, function (e) {
-                        return e.ID === o
+                        return e.id === o
                     });
                     return void 0 !== i ? [i.SHORTSLUG, Number(t.weight)] : void 0
                 });
-                e.nodes[o] = {}, e.nodes[o].id = o, e.nodes[o].name = s.NOM, e.nodes[o].subtitle = s.SUBTITLE, e.nodes[o].tooltip = s.TOOLTIP, e.nodes[o].label_position = i.label, e.nodes[o].center = i.center, e.nodes[o].color = "#" + n.defaultColor, e.nodes[o].paletteId = n.id, e.nodes[o].textfr = s.desc_fr, e.nodes[o].texten = s.desc_en, e.nodes[o].relations = _.without(d, void 0), e.nodes[o].isActive = "" !== s.JSON ? 1 : 0
+                e.nodes[o] = {}, e.nodes[o].id = o, e.nodes[o].label_position = i.label, e.nodes[o].center = i.center, e.nodes[o].color = "#" + n.defaultColor, e.nodes[o].paletteId = n.id, e.nodes[o].relations = _.without(d, void 0), e.nodes[o].isActive = "" !== s.JSON ? 1 : 0
             }), this.render()
         },
         render: function () {
@@ -45,9 +45,30 @@ var app = app || {};
         }
     })
 }(jQuery);
-var app = app || {};
+
 !function (e) {
     "use strict";
+
+    i18next.use(window.i18nextXHRBackend)
+        .init({
+            fallbackLng: LANG,
+            debug: true,
+            ns: ['translation', 'poster'],
+            defaultNS: 'translation',
+            backend: {
+                // load from i18next-gitbook repo
+                loadPath: 'locales/{{lng}}/{{ns}}.json',
+                crossDomain: false
+            }
+        }, function(err, t) {
+            // init set content
+            updateContent();
+        });
+
+    function updateContent() {
+        $("#Home").localize();
+    }
+
     app.homeView = Backbone.View.extend({
         model: "",
         s: Snap("#TreeSVG"),
@@ -61,24 +82,37 @@ var app = app || {};
         _defaultColor: "#ddd2cf",
         _defaultInputEmailValue: "",
         initialize: function (e) {
+
+            jqueryI18next.init(i18next, $, {
+                tName: 't', // --> appends $.t = i18next.t
+                i18nName: 'i18n', // --> appends $.i18n = i18next
+                handleName: 'localize', // --> appends $(selector).localize(opts);
+                selectorAttr: 'data-i18n', // selector for translating elements
+                targetAttr: 'i18n-target', // data-() attribute to grab target element to translate (if diffrent then itself)
+                optionsAttr: 'i18n-options', // data-() attribute that contains options, will load/set if useOptionsAttr = true
+                useOptionsAttr: false, // see optionsAttr
+                parseDefaultValueFromContent: true // parses default values from content ele.val or ele.text
+            });
+
             this.model = e.model, this._legendTexts = {
-                clickNode: TRANS[LANG].click_node,
-                clickLink: TRANS[LANG].click_link
-            }, this._defaultInputEmailValue = TRANS[LANG].enter_email, this.generateNodes(), this.generateLinks(), this.initStyles(), this.bindEvents(), this.hideAll(), this.appear()
+                clickNode: $.t("click_node"),
+                clickLink: $.t("click_link")
+            }, this._defaultInputEmailValue = $.t("enter_email"), this.generateNodes(), this.generateLinks(), this.initStyles(), this.bindEvents(), this.hideAll(), this.appear()
         },
         generateNodes: function () {
             e.each(this.model.nodes, function (t, s) {
-                var o = e("<div class='tree_node tree_node--" + s.paletteId + "' data-poster='" + s.id + "'><span class='tree_node_label " + s.label_position + "'>" + s.name + "</span></div>");
+                var o = e("<div class='tree_node tree_node--" + s.paletteId + "' data-poster='" + s.id + "'><span class='tree_node_label " + s.label_position + "' data-i18n='poster:" + s.id + ".NOM' ></span></div>");
                 o.hover(function() {
-                    $('#label_tooltip').text(s.tooltip);
+                    $('#label_tooltip').attr("data-i18n", "poster:" + s.id + ".TOOLTIP");
                     $('.tooltiptext').css("background-color", s.color);
                     $('.tree_legend').css( "display", "none" );
                     $('.tooltiptext').toggle();
+                    $("#label_tooltip").localize();
                 }, function() {
                     $('.tooltiptext').toggle();
                 });
                 e(".tree_nodes").append(o);
-            })
+            });
         },
         generateLinks: function () {
             var t = this;
@@ -217,10 +251,10 @@ var app = app || {};
             }, 4600)
         },
         updateLegendNode: function () {
-            this._legendDisplayed.clickNode ? this.updateLegendLink() : (e(".tree_legend").html(this._legendTexts.clickNode).removeClass("hidden"), this._legendDisplayed.clickNode = !0)
+            this._legendDisplayed.clickNode ? this.updateLegendLink() : (e("#click_node").removeClass("hidden"), this._legendDisplayed.clickNode = !0)
         },
         updateLegendLink: function () {
-            this._legendDisplayed.clickLink ? e(".tree_legend").addClass("hidden") : (e(".tree_legend").html(this._legendTexts.clickLink).removeClass("hidden"), this._legendDisplayed.clickLink = !0)
+            this._legendDisplayed.clickLink ? e("#click_link").addClass("hidden") : (e("#click_link").removeClass("hidden"), this._legendDisplayed.clickLink = !0)
         },
         displayLinks: function (t) {
             var s = this;
@@ -240,13 +274,15 @@ var app = app || {};
         },
         updateDisclaimerThemed: function () {
             e(".disclaimer_content_inner[data-step='themed'] .disclaimer_theme")
-                .html(this.model.nodes[this.selectedPoster].name)
+                .attr("data-i18n", "poster:" + this.selectedPoster + ".NOM")
+                //.html(this.model.nodes[this.selectedPoster].name)
                 .css("color", this.model.nodes[this.selectedPoster].color)
             , e(".disclaimer_content_inner[data-step='themed'] .disclaimer_content_subtitle")
-                .html(this.model.nodes[this.selectedPoster].subtitle)
+                .attr("data-i18n", "poster:" + this.selectedPoster + ".SUBTITLE") //  this.model.nodes[this.selectedPoster].subtitle)
                 .css("color", this.model.nodes[this.selectedPoster].color)
             , e(".disclaimer_content_inner[data-step='themed'] .disclaimer_content_text")
-                .html(this.model.nodes[this.selectedPoster]["text" + LANG])
+                .attr("data-i18n", "[html]poster:" + this.selectedPoster + ".desc")
+                //.html($.t("poster:"+this.selectedPoster+".desc")) // this.model.nodes[this.selectedPoster]["text" + LANG])
             , e(".disclaimer_content_inner")
                 .removeClass("displayed")
             , e(".disclaimer_content_inner[data-step='themed']")
@@ -256,22 +292,24 @@ var app = app || {};
                 .attr("href", "posters#" + this.model.nodes[this.selectedPoster].id)
             , e(".disclaimer_block")
                 .css("display", "none")) : (e(".disclaimer_block").css("color", this.model.nodes[this.selectedPoster].color).css("display", "block"), e(".disclaimer_link")
-                .css("display", "none"))
+                .css("display", "none"));
+            $("#Home").localize();
         },
         updateDisclaimerComparison: function () {
-            e(".shareblock").addClass("toback"), e(".disclaimer_content_inner[data-step='comparison'] .disclaimer_theme").html(this.model.nodes[this.selectedPoster].name).css("color", this.model.nodes[this.selectedPoster].color), e(".comparison_title").html("... " + TRANS[LANG].and + " " + this.model.nodes[this.comparisonPoster].name).css("color", this.model.nodes[this.comparisonPoster].color), console.log(this.selectedPoster, this.comparisonPoster);
+            e(".shareblock").addClass("toback"), e(".disclaimer_content_inner[data-step='comparison'] .disclaimer_theme").attr("data-i18n", "poster:" + this.selectedPoster + ".NOM").css("color", this.model.nodes[this.selectedPoster].color), e(".comparison_title").html("... " + $.t("and") + " " + $.t("poster:" + this.comparisonPoster + ".NOM")).css("color", this.model.nodes[this.comparisonPoster].color), console.log(this.selectedPoster, this.comparisonPoster);
             var t = this.getPosterIdFromShortslug(this.selectedPoster),
                 s = this.getPosterIdFromShortslug(this.comparisonPoster);
             console.log(t, s);
             var o = _.find(app.myHome.relations, function (e) {
                 return !(e.poster_id_1 !== t && e.poster_id_1 !== s || e.poster_id_2 !== t && e.poster_id_2 !== s)
             });
-            e(".comparison_text").html(o.description), e(".disclaimer_content_inner").removeClass("displayed"), e(".disclaimer_content_inner[data-step='comparison']").addClass("displayed")
+            e(".comparison_text").html(o.description), e(".disclaimer_content_inner").removeClass("displayed"), e(".disclaimer_content_inner[data-step='comparison']").addClass("displayed");
+            $("#Home").localize();
         },
         getPosterIdFromShortslug: function (e) {
             return _.find(app.myHome.posters, function (t) {
                 return t.SHORTSLUG === e
-            })["poster_" + LANG + "_id"]
+            })["id"]
         },
         resetDisclaimer: function () {
             e(".shareblock").removeClass("toback"), e(".disclaimer_content_inner").removeClass("displayed"), e(".disclaimer_content_inner[data-step='default']").addClass("displayed")
