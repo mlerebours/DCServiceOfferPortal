@@ -1,6 +1,6 @@
 <content>
-  <NOM> Vendre </NOM>
+  <NOM>Vendre</NOM>
   <SHORTSLUG>sell</SHORTSLUG>
-  <TOOLTIP> Vous voulez vendre à des clients </TOOLTIP>
-  <SUBTITLE> Vous voulez vendre à des clients, le commercialiser! </SUBTITLE>
+  <TOOLTIP>Vous voulez vendre à des clients</TOOLTIP>
+  <SUBTITLE>Vous voulez vendre à des clients, le commercialiser !</SUBTITLE>
 </content>
