@@ -60,13 +60,13 @@ var app = app || {};
                 loadPath: 'locales/{{lng}}/{{ns}}.json',
                 crossDomain: false
             }
-        }, function(err, t) {
+        }, function (err, t) {
             // init set content
             updateContent();
         });
 
-    i18next.on('languageChanged', function() {
-            updateContent();
+    i18next.on('languageChanged', function () {
+        updateContent();
     });
 
     function updateContent() {
@@ -106,13 +106,13 @@ var app = app || {};
         generateNodes: function () {
             e.each(this.model.nodes, function (t, s) {
                 var o = e("<div class='tree_node tree_node--" + s.paletteId + "' data-poster='" + s.id + "'><span class='tree_node_label " + s.label_position + "' data-i18n='poster:" + s.id + ".NOM' ></span></div>");
-                o.hover(function() {
+                o.hover(function () {
                     $('#label_tooltip').attr("data-i18n", "poster:" + s.id + ".TOOLTIP");
                     $('.tooltiptext').css("background-color", s.color);
-                    $('.tree_legend').css( "display", "none" );
+                    $('.tree_legend').css("display", "none");
                     $('.tooltiptext').toggle();
                     $("#label_tooltip").localize();
-                }, function() {
+                }, function () {
                     $('.tooltiptext').toggle();
                 });
                 e(".tree_nodes").append(o);
@@ -197,7 +197,7 @@ var app = app || {};
             }), e(".aboutblock_close").on("click", function () {
                 t.hideAbout()
             }), e(".languages").on("click", function () {
-                if (i18next.language === undefined ||'en' === i18next.language)
+                if (i18next.language === undefined || 'en' === i18next.language)
                     i18next.changeLanguage('fr');
                 else
                     i18next.changeLanguage('en');
@@ -287,20 +287,20 @@ var app = app || {};
                 .attr("data-i18n", "poster:" + this.selectedPoster + ".NOM")
                 //.html(this.model.nodes[this.selectedPoster].name)
                 .css("color", this.model.nodes[this.selectedPoster].color)
-            , e(".disclaimer_content_inner[data-step='themed'] .disclaimer_content_subtitle")
+                , e(".disclaimer_content_inner[data-step='themed'] .disclaimer_content_subtitle")
                 .attr("data-i18n", "poster:" + this.selectedPoster + ".SUBTITLE") //  this.model.nodes[this.selectedPoster].subtitle)
                 .css("color", this.model.nodes[this.selectedPoster].color)
-            , e(".disclaimer_content_inner[data-step='themed'] .disclaimer_content_text")
+                , e(".disclaimer_content_inner[data-step='themed'] .disclaimer_content_text")
                 .attr("data-i18n", "[html]poster:" + this.selectedPoster + ".desc")
                 //.html($.t("poster:"+this.selectedPoster+".desc")) // this.model.nodes[this.selectedPoster]["text" + LANG])
-            , e(".disclaimer_content_inner")
+                , e(".disclaimer_content_inner")
                 .removeClass("displayed")
-            , e(".disclaimer_content_inner[data-step='themed']")
+                , e(".disclaimer_content_inner[data-step='themed']")
                 .addClass("displayed")
-            , 1 === this.model.nodes[this.selectedPoster].isActive ? (e(".disclaimer_link").css("background-color", this.model.nodes[this.selectedPoster].color)
+                , 1 === this.model.nodes[this.selectedPoster].isActive ? (e(".disclaimer_link").css("background-color", this.model.nodes[this.selectedPoster].color)
                 .css("display", "block")
                 .attr("href", "posters#" + this.model.nodes[this.selectedPoster].id)
-            , e(".disclaimer_block")
+                , e(".disclaimer_block")
                 .css("display", "none")) : (e(".disclaimer_block").css("color", this.model.nodes[this.selectedPoster].color).css("display", "block"), e(".disclaimer_link")
                 .css("display", "none"));
             $("#Home").localize();
