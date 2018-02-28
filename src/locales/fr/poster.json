@@ -14,7 +14,7 @@
       "sell": "",
       "align": "",
       "scale": "",
-      "lost": "Inspirez vous de l'écosystem innovation.",
+      "lost": "Inspirez vous de l'\u00e9cosystem innovation.",
       "about": ""
     }
   },
@@ -110,9 +110,9 @@
     }
   },
   "mvp": {
-    "NOM": " MVP ",
-    "TOOLTIP": " Vous voulez dire \"hello world\" ",
-    "SUBTITLE": " Vous voulez dire \"hello wordl\", prototype pour de vrai! ",
+    "NOM": "MVP",
+    "TOOLTIP": "Vous voulez dire \"hello world\"",
+    "SUBTITLE": "Vous voulez dire \"hello world\", un prototype en vrai !",
     "desc": "Objectif de rendre les choses concr\u00e8tes en donnant une r\u00e9alit\u00e9 \u00e0 votre proposition de valeur. <br>\nVotre proposition de valeur minimum ou produit est unique et nous sommes pr\u00eats \u00e0 faire notre facilitation autour d'elle.\nMais pour obtenir votre premier prototype de base tr\u00e8s rapidement, nous proposons de r\u00e9utiliser une m\u00e9thodologie exp\u00e9riment\u00e9e et efficace telle que <a href=\"https://en.wikipedia.org/wiki/Landing_page\" target=\"_blank\">page de destination</a>, <b><a href=\"http://makestorming.com/appmaker/\" target=\"_blank\">App[M]aker</a> par <a href=\"http://makestorming.com/\" target=\"_blank\">Nod-A</a></b>.",
     "and": {
       "funds": "MVP is part of your story telling to convince Angels. Its own costs can require specif funding.",
