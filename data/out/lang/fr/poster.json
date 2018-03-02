@@ -14,7 +14,7 @@
       "sell": "",
       "align": "",
       "scale": "",
-      "lost": "Get inspired by innovation Ecosystem.",
+      "lost": "Inspirez vous de l'\u00e9cosystem innovation.",
       "about": ""
     }
   },
@@ -44,9 +44,9 @@
     "desc": "Bient\u00f4t"
   },
   "an_idea": {
-    "NOM": " Id\u00e9e premi\u00e8re boucle ",
-    "TOOLTIP": " Vous avez une id\u00e9e ",
-    "SUBTITLE": " Vous avez une id\u00e9e et vous voulez photographier pour les \u00e9toiles ",
+    "NOM": "Id\u00e9e version 1",
+    "TOOLTIP": "Vous avez une id\u00e9e",
+    "SUBTITLE": "Vous avez une id\u00e9e et vous voulez photographier pour les \u00e9toiles",
     "desc": "Vous avez une nouvelle id\u00e9e r\u00e9volutionnaire !? <br>\nNon, vous avez une assez bonne id\u00e9e !? <br>\nNon plus, vous avez juste un probl\u00e8me? <br>\n<br> <br>\nDe toute fa\u00e7on, il suffit de contacter l'\u00e9quipe de DreamCatchers ... et parlons 5 minutes avec 10 minutes Q & A. <br>\nUne \u00e9quipe de facilitateurs pour vous aider \u00e0 passer au niveau sup\u00e9rieur de votre id\u00e9e et \u00e0 r\u00e9aliser le r\u00eave. <br> <br>\nNous vous offrons la possibilit\u00e9 d'avoir un film de <b> votre 1er pitch </ b>. <br> <br>\n<br> Tu es une id\u00e9e g\u00e9niale, tu en es s\u00fbre. Hummm ... nous vous proposons de tester votre <b> Pourquoi </ b> ... et de construire votre chemin, \u00e9tape par \u00e9tape \u00e0 <b> votre <a href = \"https://blog.growthhackers.com/what-is-a -north-star-metric-b31a8512923f \"target =\" _ blank \"> North Star </a> </ b> pendant une session de 2 heures.\nSoyez pr\u00eat pour votre premier <b> Pivot </ b>!",
     "and": {
       "offer": "Do not forget to do your big WHY before your WHAT",
@@ -67,9 +67,9 @@
     "SUBTITLE": " Aligner sur vos clients ",
     "desc": "Vous voulez offrir un produit ou un service en ad\u00e9quation avec les besoins de vos clients.\nRetour aux sources, vous pouvez penser. Oui, mais c'est un moyen rapide et efficace de <b>v\u00e9rifier votre <a href=\"http://blog.strategyzer.com/posts/2017/3/9/value-proposition-canvas-a-tool -\u00e0-comprendre-ce-que-les-clients-veulent-vraiment\" target =\"_blank\">proposition de valeur</a></b>.\nD'un c\u00f4t\u00e9 les emplois du client, les douleurs et les gains, de l'autre c\u00f4t\u00e9 l'offre de produit ou de service avec les analg\u00e9siques et gagner des cr\u00e9ateurs.\nNous vous aidons \u00e0 identifier ces \u00e9l\u00e9ments gr\u00e2ce \u00e0 l'approche d\u00e9taill\u00e9e de <a href=\"https://strategyzer.com\" target=\"_blank\">Strategyzer</a>.",
     "and": {
-      "challenge": "All assumptions to be tested, especially these about client needs",
+      "challenge": "Toutes les hypoth\u00e8ses sont \u00e0 tester, en particulier celles concernant les besoins des clients.",
       "business": "",
-      "mvp": "MVP ahead from functionalities is also including the client journey.",
+      "mvp": "Le MVP en plus des fonctionnalit\u00e9s, il doit inclure \u00e9galement l'exp\u00e9rience utilisateur.",
       "funds": "",
       "sell": "",
       "align": "",
@@ -84,11 +84,11 @@
     "SUBTITLE": " Vous voulez tester votre concept, alors testez, testez et testez \u00e0 nouveau ",
     "desc": "Le chemin vers le succ\u00e8s est bas\u00e9 sur vos capacit\u00e9s \u00e0 conna\u00eetre votre march\u00e9, vos clients. <br>\nVous construisez une proposition de valeur un concept ou un service bas\u00e9 sur <a href=\"http://blog.strategyzer.com/posts/2017/5/2/how-to-test-your-idea-start-with-the-most-critical-hypotheses\" target=\"_blank\">hypoth\u00e8ses</a>. <br>\nMaintenant <b>transformez vos suppositions en affirmations!</b> <br> <br>\n\nEt abordez le plus t\u00f4t possible la partie critique de votre plan d'affaires. <br> <br>\nNous proposons des sessions pour identifier et classer vos hypoth\u00e8ses en utilisant une <b> matrice d'hypoth\u00e8ses simples </b> et <b> un ensemble de tests appropri\u00e9s </b>. <br>\nSelon votre cas, nous comptons sur la communaut\u00e9 <b> Experiencers </b>, les utilisateurs, les clients ou les prospects.",
     "and": {
-      "business": "Mix marketing is driving the revenue part of the business model and cost structure.",
-      "mvp": "Test to build MVP and use MVP to test, learn lessons and iterate.",
-      "funds": "Come with testing proof to convince.",
-      "sell": "Experience your mix marketing to fine-tune it.",
-      "align": "Keep learning at each stage and find the good measures.",
+      "business": "Le mix marketing est le carburant pour les revenus du business model et de la structure des co\u00fbts.",
+      "mvp": "Tester pour trouver le bon MVP, et utiliser le MVP pour tester, apprendre et it\u00e9rer.",
+      "funds": "Venir avec des r\u00e9sultats de tests comme preuve pour convaincre..",
+      "sell": "Exp\u00e9rimentez votre mix marketing pour l'affiner..",
+      "align": "Continuez d'apprendre \u00e0 chaque \u00e9tape et trouvez les bonnes mesures.",
       "scale": "",
       "lost": "",
       "about": ""
@@ -110,9 +110,9 @@
     }
   },
   "mvp": {
-    "NOM": " MVP ",
-    "TOOLTIP": " Vous voulez dire \"hello world\" ",
-    "SUBTITLE": " Vous voulez dire \"hello wordl\", prototype pour de vrai! ",
+    "NOM": "MVP",
+    "TOOLTIP": "Vous voulez dire \"hello world\"",
+    "SUBTITLE": "Vous voulez dire \"hello world\", un prototype en vrai !",
     "desc": "Objectif de rendre les choses concr\u00e8tes en donnant une r\u00e9alit\u00e9 \u00e0 votre proposition de valeur. <br>\nVotre proposition de valeur minimum ou produit est unique et nous sommes pr\u00eats \u00e0 faire notre facilitation autour d'elle.\nMais pour obtenir votre premier prototype de base tr\u00e8s rapidement, nous proposons de r\u00e9utiliser une m\u00e9thodologie exp\u00e9riment\u00e9e et efficace telle que <a href=\"https://en.wikipedia.org/wiki/Landing_page\" target=\"_blank\">page de destination</a>, <b><a href=\"http://makestorming.com/appmaker/\" target=\"_blank\">App[M]aker</a> par <a href=\"http://makestorming.com/\" target=\"_blank\">Nod-A</a></b>.",
     "and": {
       "funds": "MVP is part of your story telling to convince Angels. Its own costs can require specif funding.",
@@ -124,9 +124,9 @@
     }
   },
   "funds": {
-    "NOM": "Argent",
-    "TOOLTIP": " Vous voulez lever des fonds ",
-    "SUBTITLE": " Vous voulez r\u00e9colter des fonds, alors racontez votre id\u00e9e! ",
+    "NOM": "Financement",
+    "TOOLTIP": "Vous voulez lever des fonds",
+    "SUBTITLE": "Vous voulez r\u00e9colter des fonds, alors racontez votre id\u00e9e !",
     "desc": "Pour trouver <b>Angels</b> pr\u00eat \u00e0 investir dans votre id\u00e9e, votre pitch est une \u00e9tape majeure.\nTout d'abord, nous vous aidons \u00e0 \u00e9valuer s'il est temps d'aller lancer.\nPour nous pr\u00e9parer, nous proposons une session d'entra\u00eenement collectif en collaboration avec des ateliers de th\u00e9\u00e2tre d'improvisation, des entra\u00eeneurs individuels et des facilitateurs, <b> <a href=\"http://makestorming.com/outils/pitchmotion\" target=\"_blank\"> Pitch [M} otion </a> ou <a href=\"http://makestorming.com/outils/stormboard\">Stor[m]board</a> par <a href=\"http://makestorming.com/\" targe=\"_blank\">Nod-A</a></b>.\nPour nous inspirer, nous proposons une biblioth\u00e8que <a href=\"https://www.ted.com/\" target=\"_blank\">TEDTalks</a>.",
     "and": {
       "sell": "Your knowledges about market is a success factor for any angels you will be faced.",
@@ -137,9 +137,9 @@
     }
   },
   "sell": {
-    "NOM": " Vendre ",
-    "TOOLTIP": " Vous voulez vendre \u00e0 des clients ",
-    "SUBTITLE": " Vous voulez vendre \u00e0 des clients, le commercialiser! ",
+    "NOM": "Vendre",
+    "TOOLTIP": "Vous voulez vendre \u00e0 des clients",
+    "SUBTITLE": "Vous voulez vendre \u00e0 des clients, le commercialiser !",
     "desc": "Vous connaissez votre march\u00e9, vos clients, votre cible, passons au marketing op\u00e9rationnel et construisons votre plan de marketing et de marketing mixte. Des <b>4Ps, 4Cs aux 10Ps</b>.",
     "and": {
       "align": "To stay on a good track for your marketing keep measure acquisition. To have a good acquisition invest your marketing.",
@@ -150,8 +150,8 @@
   },
   "align": {
     "NOM": "Mesure",
-    "TOOLTIP": " Restez en phase avec les attentes des clients et votre mod\u00e8le d'entreprise ",
-    "SUBTITLE": " Restez en ligne avec les attentes des clients et votre mod\u00e8le d'entreprise ",
+    "TOOLTIP": "Restez en phase avec les attentes des clients et votre business model",
+    "SUBTITLE": "Restez en ligne avec les attentes des clients et votre business model",
     "desc": "Cr\u00e9ez, mesurez et apprenez pour am\u00e9liorer votre mod\u00e8le et vos progr\u00e8s \u00e9tape par \u00e9tape. Suivez la performance pour s'adapter aux changements",
     "and": {
       "scale": "You don't go to the highway without seat belt ; don't go to the wild market without good indicators of your product.",

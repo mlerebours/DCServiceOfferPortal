@@ -6,8 +6,10 @@ import lxml.etree as etree
 
 import data.common as const
 
-OUTPUT_FOLDER_DATA = '../src/data'
-OUTPUT_FOLDER_LANG = '../src/locales/'
+OUTPUT_FOLDER_DATA = 'out/data'
+OUTPUT_FOLDER_LANG = 'out/lang/'
+SRC_FOLDER_DATA = '../src/data'
+SRC_FOLDER_LANG = '../src/locales/'
 OUTPUT_FILE = 'poster.json'
 
 # Load Posters
@@ -85,12 +87,16 @@ data['relations'] = relations
 
 with open(OUTPUT_FOLDER_DATA + OUTPUT_FILE, 'w') as f:
     json.dump(data, f, indent=2, sort_keys=False)
+with open(SRC_FOLDER_DATA + OUTPUT_FILE, 'w') as f:
+    json.dump(data, f, sort_keys=False)
 
 
 def write_translation(lang_fr):
     global f
     with open(OUTPUT_FOLDER_LANG + lang_fr + '/' + OUTPUT_FILE, 'w') as f:
         json.dump(translation[lang_fr], f, indent=2, sort_keys=False)
+    with open(SRC_FOLDER_LANG + lang_fr + '/' + OUTPUT_FILE, 'w') as f:
+        json.dump(translation[lang_fr], f, sort_keys=False)
 
 
 write_translation(const.LANG_FR)
