@@ -18,31 +18,6 @@
       "about": ""
     }
   },
-  "scale": {
-    "NOM": "Scale up",
-    "TOOLTIP": "You are ready to scale up",
-    "SUBTITLE": "You are ready to scale up",
-    "desc": "All trafic lights are green, you are ready to grow and you need additional funds. How? we are working on it",
-    "and": {
-      "lost": "Know the innovation ecosystem, could be a good entry point to find good insights.",
-      "about": ""
-    }
-  },
-  "lost": {
-    "NOM": "Lost in innovation",
-    "TOOLTIP": "You are lost in the innovation ecosystem",
-    "SUBTITLE": "Find your path in innovation galaxy",
-    "desc": "Soon",
-    "and": {
-      "about": ""
-    }
-  },
-  "about": {
-    "NOM": "Question Mark",
-    "TOOLTIP": "You have more question",
-    "SUBTITLE": "Coming soon",
-    "desc": "Soon"
-  },
   "an_idea": {
     "NOM": "Idea first loop",
     "TOOLTIP": "You have an idea",
@@ -158,5 +133,30 @@
       "lost": "",
       "about": ""
     }
+  },
+  "scale": {
+    "NOM": "Scale up",
+    "TOOLTIP": "You are ready to scale up",
+    "SUBTITLE": "You are ready to scale up",
+    "desc": "All trafic lights are green, you are ready to grow and you need additional funds. How? we are working on it",
+    "and": {
+      "lost": "Know the innovation ecosystem, could be a good entry point to find good insights.",
+      "about": ""
+    }
+  },
+  "lost": {
+    "NOM": "Lost in innovation",
+    "TOOLTIP": "You are lost in the innovation ecosystem",
+    "SUBTITLE": "Find your path in innovation galaxy",
+    "desc": "Soon",
+    "and": {
+      "about": ""
+    }
+  },
+  "about": {
+    "NOM": "Question Mark",
+    "TOOLTIP": "You have more question",
+    "SUBTITLE": "Coming soon",
+    "desc": "Soon"
   }
 }

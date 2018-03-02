@@ -18,31 +18,6 @@
       "about": ""
     }
   },
-  "scale": {
-    "NOM": "A l'echelle",
-    "TOOLTIP": " Vous \u00eates pr\u00eat \u00e0 passer \u00e0 l'\u00e9chelle ",
-    "SUBTITLE": " Vous \u00eates pr\u00eat \u00e0 passer \u00e0 l'\u00e9chelle ",
-    "desc": "Tous les feux de circulation sont verts, vous \u00eates pr\u00eat \u00e0 grandir et vous avez besoin de fonds suppl\u00e9mentaires. Comment? nous y travaillons",
-    "and": {
-      "lost": "Know the innovation ecosystem, could be a good entry point to find good insights.",
-      "about": ""
-    }
-  },
-  "lost": {
-    "NOM": "Lost in innovation",
-    "TOOLTIP": " Vous \u00eates perdu dans l'\u00e9cosyst\u00e8me de l'innovation ",
-    "SUBTITLE": " Trouvez votre chemin dans l'innovation galaxy ",
-    "desc": "Bient\u00f4t",
-    "and": {
-      "about": ""
-    }
-  },
-  "about": {
-    "NOM": "Question ?",
-    "TOOLTIP": "Vous avez des question ?",
-    "SUBTITLE": "Coming soon",
-    "desc": "Bient\u00f4t"
-  },
   "an_idea": {
     "NOM": "Id\u00e9e version 1",
     "TOOLTIP": "Vous avez une id\u00e9e",
@@ -158,5 +133,30 @@
       "lost": "",
       "about": ""
     }
+  },
+  "scale": {
+    "NOM": "A l'echelle",
+    "TOOLTIP": " Vous \u00eates pr\u00eat \u00e0 passer \u00e0 l'\u00e9chelle ",
+    "SUBTITLE": " Vous \u00eates pr\u00eat \u00e0 passer \u00e0 l'\u00e9chelle ",
+    "desc": "Tous les feux de circulation sont verts, vous \u00eates pr\u00eat \u00e0 grandir et vous avez besoin de fonds suppl\u00e9mentaires. Comment? nous y travaillons",
+    "and": {
+      "lost": "Know the innovation ecosystem, could be a good entry point to find good insights.",
+      "about": ""
+    }
+  },
+  "lost": {
+    "NOM": "Lost in innovation",
+    "TOOLTIP": " Vous \u00eates perdu dans l'\u00e9cosyst\u00e8me de l'innovation ",
+    "SUBTITLE": " Trouvez votre chemin dans l'innovation galaxy ",
+    "desc": "Bient\u00f4t",
+    "and": {
+      "about": ""
+    }
+  },
+  "about": {
+    "NOM": "Question ?",
+    "TOOLTIP": "Vous avez des question ?",
+    "SUBTITLE": "Coming soon",
+    "desc": "Bient\u00f4t"
   }
 }

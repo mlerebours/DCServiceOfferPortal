@@ -24,7 +24,7 @@ posters = []
 
 
 def load_html_if_exist(shortslug, lang):
-    my_file = Path('src/' + const.POSTERS + '/' + dir + '/desc_' + lang + '.html')
+    my_file = Path('src/' + const.POSTERS + '/' + dir + '/' + lang + '/desc.html')
     if my_file.is_file():
         # file exists
         desc = my_file.open('r').read()
@@ -32,7 +32,7 @@ def load_html_if_exist(shortslug, lang):
 
 
 def load_contents(lang):
-    itercontent = etree.iterparse('src/' + const.POSTERS + '/' + dir + '/' + 'content_' + lang + '.xml')
+    itercontent = etree.iterparse('src/' + const.POSTERS + '/' + dir + '/' + lang + '/content.xml')
     content = {}
     for action, elem in itercontent:
         if elem.text:
@@ -50,15 +50,29 @@ def load_relations():
 
 
 def load_relations_description(shortslug, lang):
-    relation_poster = json.load(open('src/' + const.POSTERS + '/' + dir + '/relations_' + lang + '.json'))
+    relation_poster = json.load(open('src/' + const.POSTERS + '/' + dir + '/' + lang + '/relations.json'))
     if shortslug in relation_poster:
         translation[lang][shortslug]['and'] = relation_poster[shortslug]
 
 
+def walklevel(some_dir, level=1):
+    some_dir = some_dir.rstrip(os.path.sep)
+    assert os.path.isdir(some_dir)
+    num_sep = some_dir.count(os.path.sep)
+    for root, dirs, files in os.walk(some_dir):
+        yield root, dirs, files
+        num_sep_this = root.count(os.path.sep)
+        if num_sep + level <= num_sep_this:
+            del dirs[:]
+
+
 # write poster
-for subdir, dirs, files in os.walk('src/' + const.POSTERS):
+for subdir, dirs, files in walklevel('src/' + const.POSTERS, level=0):
+    list1 = ["1","10","3","22","23","4","2","200"]
+    dirs = [int(x) for x in dirs]
     dirs.sort()
-    for dir in dirs:
+    for dir_int in dirs:
+        dir = str(dir_int)
         post = json.load(open('src/' + const.POSTERS + '/' + dir + '/' + 'poster.json'))
 
         shortslug = load_contents(const.LANG_EN)
