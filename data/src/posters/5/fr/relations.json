@@ -1,10 +1,10 @@
 {
     "business": {
-        "mvp": "MVP gives a flavor of implementation complexity and cost.",
-        "funds": "Come with a clear business vision. Be ready for any angels questions, even those without answer yet.",
+        "mvp": "Le MVP donne un idée de la complexité et du coût de mise en œuvre.",
+        "funds": "Venez avec une vision clair de votre business. Soyez prêt pour toutes les questions des investisseurs, même celles qui n'ont pas encore de réponse.",
         "sell": "",
-        "align": "Use the business model to create KPIs assessing your value proposition when your are live.",
-        "scale": "Your business model shows your concept is scalable.",
+        "align": "Utilisez le business model pour créer des indicateurs évaluant votre proposition de valeur lorsque votre produit est sur le marché.",
+        "scale": "Votre business model montre que votre concept est évolutif.",
         "lost": "",
         "about": ""
     }
