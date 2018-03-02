@@ -60,6 +60,12 @@ gulp.task('json', function () {
         .pipe(gulp.dest('dist/data'));
 });
 
+gulp.task('locales', function () {
+    return gulp.src(['./src/locales/**/*.json'])
+        .pipe(jsonminify())
+        .pipe(gulp.dest('dist/locales/'));
+});
+
 // Fonts
 gulp.task('fonts', function() {
     return gulp.src('./src/fonts/*')
@@ -83,7 +89,7 @@ gulp.task('build-size', function() {
 });
 
 // Serve application
-gulp.task('serve', ['styles', 'scripts', 'images', 'json', 'fonts', 'html', 'size'], function() {
+gulp.task('serve', ['styles', 'scripts', 'images', 'json', 'locales', 'fonts', 'html', 'size'], function() {
     browserSync.init({
         server: {
             baseDir: 'src',
@@ -92,7 +98,7 @@ gulp.task('serve', ['styles', 'scripts', 'images', 'json', 'fonts', 'html', 'siz
 });
 
 // Serve application
-gulp.task('build', ['styles', 'scripts', 'images', 'json', 'fonts', 'html', 'size']);
+gulp.task('build', ['styles', 'scripts', 'images', 'json', 'locales', 'fonts', 'html', 'size']);
 
 // Run all Gulp tasks and serve application
 gulp.task('default', ['serve', 'styles'], function() {

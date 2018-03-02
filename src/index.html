@@ -26,14 +26,15 @@
 
     <link rel="stylesheet" href="css/home.css">
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/i18next/10.5.0/i18next.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-i18next/1.2.1/jquery-i18next.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/i18next-xhr-backend/1.5.1/i18nextXHRBackend.min.js"></script>
     <script src="js/home.libs.min.js"></script>
 </head>
 <body>
-<!--
 <section id="Header" class="hideable hidden">
-    <div class="languages" data-lang="fr"></div>
+    <div class="languages" data-lang="en"></div>
 </section>
--->
 
 <section id="Home">
     <section id="Tree">
@@ -42,7 +43,8 @@
             <svg id="TreeSVG" viewBox="0 0 500 560"></svg>
         </div>
         <div class="tree_nodes hideable hidden"></div>
-        <p class="tree_legend hideable hidden"></p>
+        <p id="click_node" class="tree_legend hideable hidden" data-i18n="[html]click_node"></p>
+        <p id="click_link" class="tree_legend hideable hidden" data-i18n="[html]click_link">></p>
         <div class="tooltiptext">
             <span id="label_tooltip"></span>
         </div>
@@ -51,10 +53,7 @@
         <div class="disclaimer_content hideable hidden">
             <div class="disclaimer_content_inner displayed" data-step="default">
                 <h1 class="logo_postr"></h1>
-                <p class="disclaimer_content_text">Welcome to the <b>Dreamcatchers</b> service offer. Here you will find all topics to facilitate your project journey. Pick themes relevant for your business case or your curiosity. Then discover interrractions and build your own story with tools available.<br>
-                    <br>This portal is here to give you both global and close view about new ways of work and let you play with it on your own. </p>
-
-                <!--<p class="disclaimer_content_text"></p>-->
+                <p class="disclaimer_content_text" data-i18n="[html]disclaimer.content.text"></p>
             </div>
             <div class="disclaimer_content_inner" data-step="themed">
                 <h2 class="disclaimer_theme"></h2>
@@ -77,90 +76,14 @@
     </section>
 </section>
 
-
 <script type="text/javascript" src="js/config.js"></script>
 <script src="js/home.js"></script>
 <script type="text/javascript">
-    function getUrlParameter(name) {
-        name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
-        var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
-        var results = regex.exec(location.search);
-        return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
-    }
-    var LANG = getUrlParameter("lang");
-    if(LANG === '') LANG = 'en';
-
-    var TRANS = {
-        "fr": {
-            "and": "et",
-            "about": "\u00c0 propos",
-            "home_disclaimer_1": "Hello Prenez le temps de la complexit\u00e9<br \/>pour mieux appr\u00e9hender l'avenir !<br \/><br \/>Post-R est un voyage p\u00e9dagogique<br \/>sur l'\u00e9tat du monde.<br \/><br \/>En 15 minutes, comprenez l'essentiel<br \/>des grands enjeux pour demain<br \/>et d\u00e9couvrez les pistes de solutions qui s'esquissent ici et maintenant.",
-            "home_disclaimer_2": "Post-R c\u2019est la volont\u00e9 de mettre \u00e0 disposition de tous un espace de compr\u00e9hension de ces grandes questions.",
-            "home_chapo": "Comprendre l\u2019essentiel sur ce th\u00e8me<br \/>gr\u00e2ce \u00e0 notre exp\u00e9rience interactive",
-            "home_disclaimer_link": "Entrez dans l'exp\u00e9rience",
-            "home_soon": "Prochainement disponible",
-            "getintouch_label": "Soyez pr\u00e9venu de la parution du prochain Post-R",
-            "share_project": "Partager le projet",
-            "share": "Partager",
-            "browse": "Naviguer",
-            "support": "Soutenir",
-            "click_node": "Cliquez sur un th\u00e8me pour faire appara\u00eetre<br \/>les liens avec les autres th\u00e8mes.",
-            "click_link": "Cliquez sur les liens entre deux th\u00e8mes<br \/>pour comprendre en quoi ils sont reli\u00e9s.",
-            "enter_email": "Entrez votre email",
-            "path_text": "En suivant le chemin,<br \/>vous comprendrez l\u2019essentiel<br \/>sur ce sujet",
-            "skip_start": "Commencer<br \/>directement",
-            "modal_text_1": "Hello 2 Prenez le temps de la complexit\u00e9 pour mieux appr\u00e9hender l'avenir !<br \/>Post-R est un voyage p\u00e9dagogique sur l'\u00e9tat du monde.<br \/>En 15 minutes, comprenez l'essentiel des grands enjeux pour demain <br \/>(Climat, Energie, S\u00e9curit\u00e9 Alimentaire,\u2026) <br \/>et d\u00e9couvrez les pistes de solutions qui s'esquissent ici et maintenant.",
-            "welcome_postr": "Bienvenue sur le Post-R",
-            "summary": "Au sommaire",
-            "howto_browse": "Comment naviguer ?",
-            "scroll_text": "D\u00e9roulez l'histoire horizontalement \u00e0 l'aide",
-            "device_text": "de la souris, du clavier ou sur votre \u00e9cran tactile",
-            "follow_line": "Suivez la ligne",
-            "browse_text": "pour parcourir l'essentiel",
-            "further_title": "Pour aller plus loin",
-            "further_text": "empruntez les chemins de traverse",
-            "next": "Suivant",
-            "definition": "D\u00e9finition",
-            "citation": "Citation",
-        },
-        "en": {
-            "and": "and",
-            "about": "About",
-            "home_disclaimer_1": "Take some time to embrace<br \/>complexity and face the future ! <br \/><br \/>Post-R is a pedagogical journey<br \/>through the state of the world.<br \/><br \/>In 15 minutes, understand the key points of the challenges of tomorrow (Climate, Energy, Food Security)<br \/>\u2026and discover possible solutions already tested here and now.",
-            "home_disclaimer_2": "Post-R is about giving an open access to understanding these key questions.",
-            "home_chapo": "Get the big picture on this theme<br \/>thanks to our interactive experience",
-            "home_disclaimer_link": "Enter the experience",
-            "home_soon": "Coming soon",
-            "getintouch_label": "Let us tell you when the next Post-R is released",
-            "share_project": "Share the project",
-            "share": "Share",
-            "browse": "Navigate",
-            "support": "Support",
-            "click_node": "Click on a theme to highlight<br\/>the links with other themes.",
-            "click_link": "Click on a link between two themes<br\/>to understand how and why they are related.",
-            "enter_email": "Entrez your email",
-            "path_text": "Following the path<br \/>you'll get the key points<br \/>on this subject",
-            "skip_start": "Begin<br \/>now",
-            "modal_text_1": "Take some time to embrace complexity and face the future ! <br \/>Post-R is a pedagogical journey through the state of the world.<br \/> In 15 minutes, understand the key points of the challenges of tomorrow<br \/> (Climate, Energy, Food Security)<br \/>\u2026and discover possible solutions already tested here and now.",
-            "welcome_postr": "Welcome on Post-R",
-            "summary": "Table of contents",
-            "howto_browse": "How to navigate?",
-            "scroll_text": "Scroll horizontally with",
-            "device_text": "your mouse, your keyboard or your touchscreen",
-            "follow_line": "Follow the line",
-            "browse_text": "to get the big picture",
-            "further_title": "Go further",
-            "further_text": "take the side roads",
-            "next": "Next",
-            "definition": "Definition",
-            "citation": "Quote",
-        }
-    };
     var app = app || {};
 
     $(function () {
         'use strict';
-        app.myHome = new app.homeApp(LANG);
+        app.myHome = new app.homeApp();
         FastClick.attach(document.body);
     });
 

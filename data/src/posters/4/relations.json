@@ -1,0 +1,50 @@
+[
+    {
+        "poster_id_1": "4",
+        "poster_id_2": "5",
+        "weight": "5",
+        "desc_key": "challenge.and.business"
+    },
+    {
+        "poster_id_1": "4",
+        "poster_id_2": "6",
+        "weight": "5",
+        "desc_key": "challenge.and.mvp"
+    },
+    {
+        "poster_id_1": "4",
+        "poster_id_2": "7",
+        "weight": "5",
+        "desc_key": "challenge.and.funds"
+    },
+    {
+        "poster_id_1": "4",
+        "poster_id_2": "8",
+        "weight": "5",
+        "desc_key": "challenge.and.sell"
+    },
+    {
+        "poster_id_1": "4",
+        "poster_id_2": "9",
+        "weight": "5",
+        "desc_key": "challenge.and.align"
+    },
+    {
+        "poster_id_1": "4",
+        "poster_id_2": "10",
+        "weight": "0",
+        "desc_key": "challenge.and.scale"
+    },
+    {
+        "poster_id_1": "4",
+        "poster_id_2": "11",
+        "weight": "0",
+        "desc_key": "challenge.and.lost"
+    },
+    {
+        "poster_id_1": "4",
+        "poster_id_2": "12",
+        "weight": "0",
+        "desc_key": "challenge.and.about"
+    }
+]
