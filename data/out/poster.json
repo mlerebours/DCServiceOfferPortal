@@ -338,24 +338,6 @@
       "desc_key": "no_idea.and.about"
     },
     {
-      "poster_id_1": "10",
-      "poster_id_2": "11",
-      "weight": "2",
-      "desc_key": "scale.and.lost"
-    },
-    {
-      "poster_id_1": "10",
-      "poster_id_2": "12",
-      "weight": "0",
-      "desc_key": "scale.and.about"
-    },
-    {
-      "poster_id_1": "11",
-      "poster_id_2": "12",
-      "weight": "0",
-      "desc_key": "lost.and.about"
-    },
-    {
       "poster_id_1": "2",
       "poster_id_2": "3",
       "weight": "8",
@@ -666,6 +648,24 @@
       "poster_id_2": "12",
       "weight": "0",
       "desc_key": "align.and.about"
+    },
+    {
+      "poster_id_1": "10",
+      "poster_id_2": "11",
+      "weight": "2",
+      "desc_key": "scale.and.lost"
+    },
+    {
+      "poster_id_1": "10",
+      "poster_id_2": "12",
+      "weight": "0",
+      "desc_key": "scale.and.about"
+    },
+    {
+      "poster_id_1": "11",
+      "poster_id_2": "12",
+      "weight": "0",
+      "desc_key": "lost.and.about"
     }
   ]
 }

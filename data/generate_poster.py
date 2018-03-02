@@ -6,9 +6,9 @@ import lxml.etree as etree
 
 import data.common as const
 
-OUTPUT_FOLDER_DATA = 'out/data'
+OUTPUT_FOLDER_DATA = 'out/'
 OUTPUT_FOLDER_LANG = 'out/lang/'
-SRC_FOLDER_DATA = '../src/data'
+SRC_FOLDER_DATA = '../src/data/'
 SRC_FOLDER_LANG = '../src/locales/'
 OUTPUT_FILE = 'poster.json'
 
@@ -24,7 +24,7 @@ posters = []
 
 
 def load_html_if_exist(shortslug, lang):
-    my_file = Path('src/' + const.POSTERS + '/' + dir + '/' + lang + '/desc.html')
+    my_file = Path('src/' + const.POSTERS + '/' + dir_name + '/' + lang + '/desc.html')
     if my_file.is_file():
         # file exists
         desc = my_file.open('r').read()
@@ -32,7 +32,7 @@ def load_html_if_exist(shortslug, lang):
 
 
 def load_contents(lang):
-    itercontent = etree.iterparse('src/' + const.POSTERS + '/' + dir + '/' + lang + '/content.xml')
+    itercontent = etree.iterparse('src/' + const.POSTERS + '/' + dir_name + '/' + lang + '/content.xml')
     content = {}
     for action, elem in itercontent:
         if elem.text:
@@ -46,11 +46,11 @@ def load_contents(lang):
 
 
 def load_relations():
-    return json.load(open('src/' + const.POSTERS + '/' + dir + '/relations.json'))
+    return json.load(open('src/' + const.POSTERS + '/' + dir_name + '/relations.json'))
 
 
 def load_relations_description(shortslug, lang):
-    relation_poster = json.load(open('src/' + const.POSTERS + '/' + dir + '/' + lang + '/relations.json'))
+    relation_poster = json.load(open('src/' + const.POSTERS + '/' + dir_name + '/' + lang + '/relations.json'))
     if shortslug in relation_poster:
         translation[lang][shortslug]['and'] = relation_poster[shortslug]
 
@@ -68,12 +68,11 @@ def walklevel(some_dir, level=1):
 
 # write poster
 for subdir, dirs, files in walklevel('src/' + const.POSTERS, level=0):
-    list1 = ["1","10","3","22","23","4","2","200"]
     dirs = [int(x) for x in dirs]
     dirs.sort()
     for dir_int in dirs:
-        dir = str(dir_int)
-        post = json.load(open('src/' + const.POSTERS + '/' + dir + '/' + 'poster.json'))
+        dir_name = str(dir_int)
+        post = json.load(open('src/' + const.POSTERS + '/' + dir_name + '/' + 'poster.json'))
 
         shortslug = load_contents(const.LANG_EN)
         load_contents(const.LANG_FR)
