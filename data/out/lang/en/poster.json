@@ -28,7 +28,7 @@
       "challenge": "",
       "business": "",
       "mvp": "",
-      "funds": "In order to convince investors, and help you to find a good storytelling : <a href=\"https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=fr\">Start with WHY</a>.",
+      "funds": "In order to convince investors, and help you to find a good storytelling : <a href=\"https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en\" target=\"_blank\">Start with WHY</a>.",
       "sell": "",
       "align": "",
       "scale": "",
@@ -57,11 +57,11 @@
     "NOM": "Test",
     "TOOLTIP": "You want to challenge your concept",
     "SUBTITLE": "You want to challenge your concept, so test, test and test again",
-    "desc": "The path to the success is based on your abilities to know your market, your customers.<br>\nYou build value proposition a concept or a service based on <a href=\"http://blog.strategyzer.com/posts/2017/5/2/how-to-test-your-idea-start-with-the-most-critical-hypotheses\" target=\"_blank\">assumptions</a>.<br>\nNow <b>transform your assumptions to assertions !</b><br><br>\n\nAnd tackle the sooner the critical part of your business plan.<br><br>\nWe propose sessions to identify and rank your assumptions using a <b>simple assumptions matrix</b> and <b>package appropriate tests</b>.<br>\nDepending on your case, we rely on the <b>Experiencers</b> community, users, clients or prospects.",
+    "desc": "The path to the success is based on your abilities to know your market, your customers.<br>\nYou build value proposition, a concept or a service based on <a href=\"http://blog.strategyzer.com/posts/2017/5/2/how-to-test-your-idea-start-with-the-most-critical-hypotheses\" target=\"_blank\">assumptions</a>.<br>\nNow <b>transform your assumptions to assertions!</b><br><br>\n\nAnd tackle the sooner the critical part of your business plan.<br><br>\nWe propose sessions to identify and rank your assumptions using a <b>simple assumptions matrix</b> and <b>package appropriate tests</b>.<br>\nDepending on your case, we rely on the <b>Experiencers</b> community, users, clients or prospects.",
     "and": {
-      "business": "Mix marketing is driving the revenue part of the business model and cost structure.",
+      "business": "Build iteratively your business model by testing assumptions one by one.",
       "mvp": "Test to build MVP and use MVP to test, learn lessons and iterate.",
-      "funds": "Come with testing proof to convince.",
+      "funds": "Transform assumptions to evidences, then transform words to funds.",
       "sell": "Experience your mix marketing to fine-tune it.",
       "align": "Keep learning at each stage and find the good measures.",
       "scale": "",
@@ -76,8 +76,8 @@
     "desc": "Draw your <b>Environment Map</b> to undersand the environment in which you create.\nBuild your <b>Canvas</b>, case by case to find the appropriate business model(s).\nWe help you assess <a href=\"https://strategyzer.com/canvas/business-model-canvas\" target=\"_blank\">business model(s)</a> with a questionning approach inspired by <a href=\"https://strategyzer.com\" target=\"_blank\">Strategyzer</a>.",
     "and": {
       "mvp": "MVP gives a flavor of implementation complexity and cost.",
-      "funds": "Come with a clear business vision. Be ready for any angels questions, even those without answer yet.",
-      "sell": "",
+      "funds": "Come with a clear business vision. Be ready for any angel questions, even those without any answer yet.",
+      "sell": "Your business model should include mix marketing.",
       "align": "Use the business model to create KPIs assessing your value proposition when your are live.",
       "scale": "Your business model shows your concept is scalable.",
       "lost": "",
@@ -90,9 +90,9 @@
     "SUBTITLE": "You want to say \"hello world\", prototype for real!",
     "desc": "Objective to make things concrete by giving reality to your value proposition.<br>\nYour Minimum Value Proposition or Product is unique and we are ready to taylor made our facilitation around it.\nBut to get your basic first prototype very quicly, we are proposing to re-use experienced and efficient methodology such as <a href=\"https://en.wikipedia.org/wiki/Landing_page\" target=\"_blank\">Landing page</a>, <b><a href=\"http://makestorming.com/appmaker/\" target=\"_blank\">App[M]aker</a> by <a href=\"http://makestorming.com/\" target=\"_blank\">Nod-A</a></b>.",
     "and": {
-      "funds": "MVP is part of your story telling to convince Angels. Its own costs can require specif funding.",
-      "sell": "Take into account the 4Cs - customer, convenience, communication and cost, to build all MVP aspects",
-      "align": "MVP to identify and measures usages.",
+      "funds": "MVP is part of your story telling to convince Angels. Its own costs can require specific funding.",
+      "sell": "Take into account the 4Cs - customer, convenience, communication and cost, to build all MVP aspects.",
+      "align": "MVP to identify and measure usages.",
       "scale": "",
       "lost": "",
       "about": ""
@@ -104,8 +104,8 @@
     "SUBTITLE": "You want to raise funds, so story tell your idea!",
     "desc": "To find <b>Angels</b> ready to invest in your idea, your pitch is a major step.\nFirst, we help you to assess if it is time to go pitching.\nTo get ready, we propose collective pitch training session in collaboration with improv theatre workshops, individual coaching and also enablers, <b><a href=\"http://makestorming.com/outils/pitchmotion\" target=\"_blank\">Pitch[M}otion</a> or <a href=\"http://makestorming.com/outils/stormboard\">Stor[m]board</a> by <a href=\"http://makestorming.com/\" target=\"_blank\">Nod-A</a></b>.\nTo get inspired, we propose a <a href=\"https://www.ted.com/\" target=\"_blank\">TEDTalks</a> library.",
     "and": {
-      "sell": "Your knowledges about market is a success factor for any angels you will be faced.",
-      "align": "Keep measuring your improvements, your acquisitions rates, that's key indicators for angels.",
+      "sell": "Your knowledges about market is a success factor for any angels you face.",
+      "align": "Keep measuring your improvements, your acquisitions or adoptions rates, that's key indicators for angels.",
       "scale": "Ready for the next level ? Your so comfortable to pitch that's now as simple as answer to \"what's your doing for living ?\"",
       "lost": "Know the innovation ecosystem, could be a good entry point to find investors or get good insights.",
       "about": ""
