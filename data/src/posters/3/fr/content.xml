@@ -1,6 +1,6 @@
 <content>
-  <NOM>Offre = Besoins</NOM>
+  <NOM>Offre vs Besoins</NOM>
   <SHORTSLUG>offer</SHORTSLUG>
-  <TOOLTIP> Vous souhaitez proposer un produit ou un service </TOOLTIP>
-  <SUBTITLE> Aligner sur vos clients </SUBTITLE>
+  <TOOLTIP>Vous souhaitez proposer un produit ou un service</TOOLTIP>
+  <SUBTITLE>Alignez-vous sur le besoin de vos clients</SUBTITLE>
 </content>
