@@ -1,6 +1,6 @@
 {
   "no_idea": {
-    "NOM": "No idea",
+    "NOM": "Find an idea",
     "TOOLTIP": "You have no idea",
     "SUBTITLE": "But not for long!",
     "desc": "You are looking for new ideas, to solve a problem, to find new business.... to whatever.\nYou have already used different methods for ideation.\nWe propose you a 3 hours-session with the <a href=\"http://makestorming.com/ideamaker/\" target=\"_blank\">IdeaMaker</a> and <a href=\"http://makestorming.com/outils/stormboard\" target=\"_blank\">StormBoard</a> toolkit from our partner <a href=\"http://makestorming.com/\" target=\"_blank\">Nod-A</a> to think differently, rationalize your idea choice and prepare your first pitch.",
@@ -19,7 +19,7 @@
     }
   },
   "an_idea": {
-    "NOM": "Idea first loop",
+    "NOM": "Shape an idea",
     "TOOLTIP": "You have an idea",
     "SUBTITLE": "You have an idea and want to shoot for the stars",
     "desc": "You have a breaking new idea !?<br>\nNo, you have a pretty good idea !?<br>\nEither you just have a problem ?<br>\n<br>\nAnyway, just contact the DreamCatchers team... and let\u2019s pitch 5 minutes with 10 minutes Q&amp;A.<br>\nA facilitators team to help you go to the next level of your idea and let's the dream come true.<br><br>\nWe offer you the possibility to have a film of <b>your 1st pitch</b>.<br><br>\n<br>You are idea is great, you are sure of that. Hummm\u2026 we propose you to test your <b>Why</b>\u2026 and build your path, step by step to <b>your <a href=\"https://blog.growthhackers.com/what-is-a-north-star-metric-b31a8512923f\" target=\"_blank\">North Star</a></b> during a 2-hours session.\nBe ready for your first <b><a href=\"https://www.youtube.com/watch?v=1hTI4z2ijc4\" target=\"_blank\">Pivot</a></b>!",
@@ -102,7 +102,7 @@
     "NOM": "Money",
     "TOOLTIP": "You want to raise funds",
     "SUBTITLE": "You want to raise funds, so story tell your idea!",
-    "desc": "To find <b>Angels</b> ready to invest in your idea, your pitch is a major step.\nFirst, we help you to assess if it is time to go pitching.\nTo get ready, we propose collective pitch training session in collaboration with improv theatre workshops, individual coaching and also enablers, <b><a href=\"http://makestorming.com/outils/pitchmotion\" target=\"_blank\">Pitch[M}otion</a> or <a href=\"http://makestorming.com/outils/stormboard\">Stor[m]board</a> by <a href=\"http://makestorming.com/\" target=\"_blank\">Nod-A</a></b>.\nTo get inspired, we propose a <a href=\"https://www.ted.com/\" target=\"_blank\">TEDTalks</a> library.",
+    "desc": "To find <b>Angels</b> ready to invest in your idea, your pitch is a major step.\nFirst, we help you to assess if it is time to go pitching.\nTo get ready, we propose collective pitch training session in collaboration with improv theatre workshops, individual coaching and also enablers, <b><a href=\"http://makestorming.com/outils/pitchmotion\" target=\"_blank\">Pitch[M]otion</a> or <a href=\"http://makestorming.com/outils/stormboard\">Stor[m]board</a> by <a href=\"http://makestorming.com/\" target=\"_blank\">Nod-A</a></b>.\nTo get inspired, we propose a <a href=\"https://www.ted.com/\" target=\"_blank\">TEDTalks</a> library.",
     "and": {
       "sell": "Your knowledges about market is a success factor for any angels you face.",
       "align": "Keep measuring your improvements, your acquisitions or adoptions rates, that's key indicators for angels.",
@@ -154,8 +154,8 @@
     }
   },
   "about": {
-    "NOM": "Question mark",
-    "TOOLTIP": "You have more question",
+    "NOM": "Decrypt",
+    "TOOLTIP": "You want to decrypt consumer and technology trends",
     "SUBTITLE": "Coming soon",
     "desc": "Soon"
   }
