@@ -1,8 +1,8 @@
 {
   "no_idea": {
-    "NOM": "Find an idea",
+    "NOM": "Generate an idea",
     "TOOLTIP": "You have no idea",
-    "SUBTITLE": "But not for long!",
+    "SUBTITLE": "The New Way To Brainstorm",
     "desc": "You are looking for new ideas, to solve a problem, to find new business.... to whatever.\nYou have already used different methods for ideation.\nWe propose you a 3 hours-session with the <a href=\"http://makestorming.com/ideamaker/\" target=\"_blank\">IdeaMaker</a> and <a href=\"http://makestorming.com/outils/stormboard\" target=\"_blank\">StormBoard</a> toolkit from our partner <a href=\"http://makestorming.com/\" target=\"_blank\">Nod-A</a> to think differently, rationalize your idea choice and prepare your first pitch.",
     "and": {
       "an_idea": "",
@@ -37,7 +37,7 @@
     }
   },
   "offer": {
-    "NOM": "Offer = Needs",
+    "NOM": "Meet user expectations",
     "TOOLTIP": "You want to offer a product or service",
     "SUBTITLE": "Align to your clients",
     "desc": "You want to offer a product or service that is in adequation with your clients needs.\nBack to basics you may think. Yes, it is but it is a quick and efficient way to <b>check your <a href=\"http://blog.strategyzer.com/posts/2017/3/9/value-proposition-canvas-a-tool-to-understand-what-customers-really-want\" target=\"_blank\">value proposition</a></b>.\nOn one side the customer jobs, pains and gains, on the other side the product or service offer with the pains relievers and gain creators.\nWe help you to identify these elements with <a href=\"https://strategyzer.com\" target=\"_blank\">Strategyzer</a> detailed approach.",
@@ -54,7 +54,7 @@
     }
   },
   "challenge": {
-    "NOM": "Test",
+    "NOM": "Test with users",
     "TOOLTIP": "You want to challenge your concept",
     "SUBTITLE": "You want to challenge your concept, so test, test and test again",
     "desc": "The path to the success is based on your abilities to know your market, your customers.<br>\nYou build value proposition, a concept or a service based on <a href=\"http://blog.strategyzer.com/posts/2017/5/2/how-to-test-your-idea-start-with-the-most-critical-hypotheses\" target=\"_blank\">assumptions</a>.<br>\nNow <b>transform your assumptions to assertions!</b><br><br>\n\nAnd tackle the sooner the critical part of your business plan.<br><br>\nWe propose sessions to identify and rank your assumptions using a <b>simple assumptions matrix</b> and <b>package appropriate tests</b>.<br>\nDepending on your case, we rely on the <b>Experiencers</b> community, users, clients or prospects.",
@@ -70,7 +70,7 @@
     }
   },
   "business": {
-    "NOM": "Business Model",
+    "NOM": "Build a business Model",
     "TOOLTIP": "You are ready to define your business model",
     "SUBTITLE": "Ready to define your business model, zoom out from your value proposition to ecosystem",
     "desc": "Draw your <b>Environment Map</b> to undersand the environment in which you create.\nBuild your <b>Canvas</b>, case by case to find the appropriate business model(s).\nWe help you assess <a href=\"https://strategyzer.com/canvas/business-model-canvas\" target=\"_blank\">business model(s)</a> with a questionning approach inspired by <a href=\"https://strategyzer.com\" target=\"_blank\">Strategyzer</a>.",
@@ -85,7 +85,7 @@
     }
   },
   "mvp": {
-    "NOM": "MVP",
+    "NOM": "(Pre)prototype an idea",
     "TOOLTIP": "You want to say \u201chello world\u201d",
     "SUBTITLE": "You want to say \"hello world\", prototype for real!",
     "desc": "Objective to make things concrete by giving reality to your value proposition.<br>\nYour Minimum Value Proposition or Product is unique and we are ready to taylor made our facilitation around it.\nBut to get your basic first prototype very quickly, we are proposing to re-use experienced and efficient methodology such as <a href=\"https://en.wikipedia.org/wiki/Landing_page\" target=\"_blank\">Landing page</a>, <b><a href=\"http://makestorming.com/appmaker/\" target=\"_blank\">App[M]aker</a> by <a href=\"http://makestorming.com/\" target=\"_blank\">Nod-A</a></b>.",
@@ -99,7 +99,7 @@
     }
   },
   "funds": {
-    "NOM": "Money",
+    "NOM": "Pitch investors",
     "TOOLTIP": "You want to raise funds",
     "SUBTITLE": "You want to raise funds, so story tell your idea!",
     "desc": "To find <b>Angels</b> ready to invest in your idea, your pitch is a major step.\nFirst, we help you to assess if it is time to go pitching.\nTo get ready, we propose collective pitch training session in collaboration with improv theatre workshops, individual coaching and also enablers, <b><a href=\"http://makestorming.com/outils/pitchmotion\" target=\"_blank\">Pitch[M]otion</a> or <a href=\"http://makestorming.com/outils/stormboard\">Stor[m]board</a> by <a href=\"http://makestorming.com/\" target=\"_blank\">Nod-A</a></b>.\nTo get inspired, we propose a <a href=\"https://www.ted.com/\" target=\"_blank\">TEDTalks</a> library.",
@@ -112,7 +112,7 @@
     }
   },
   "sell": {
-    "NOM": "Selling",
+    "NOM": "Go-to-market strategy",
     "TOOLTIP": "You want to sell to clients",
     "SUBTITLE": "You want to sell to clients, market it!",
     "desc": "You know your market, your clients, your target, let's move to operational marketing and build your mix marketing and marketing plan. From the <b>4Ps, 4Cs to the 10Ps</b>.",
@@ -135,7 +135,7 @@
     }
   },
   "scale": {
-    "NOM": "Scale up",
+    "NOM": "Go live",
     "TOOLTIP": "You are ready to scale up",
     "SUBTITLE": "You are ready to scale up",
     "desc": "All trafic lights are green, you are ready to grow and you need additional funds. How? <i>We are working on it</i>.",
